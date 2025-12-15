@@ -1,0 +1,8 @@
+{
+  "name": "some-icons-cdn",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:index": "node scripts/generate-index.js"
+  }
+}
