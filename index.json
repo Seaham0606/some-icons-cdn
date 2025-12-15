@@ -33,8 +33,6 @@
     { "id": "weather-cloud-wind-day", "category": "weather", "tags": ["weather", "cloud", "wind", "day"], "files": { "outline": "icon-assets/outline/weather/weather-cloud-wind-day.svg" } },
     { "id": "weather-cloud-wind-night", "category": "weather", "tags": ["weather", "cloud", "wind", "night"], "files": { "outline": "icon-assets/outline/weather/weather-cloud-wind-night.svg" } },
 
-    { "id": "weather-cloud-rain", "category": "weather", "tags": ["weather", "cloud", "rain"], "files": { "outline": "icon-assets/outline/weather/weather-cloud-rain.svg" } },
-
     { "id": "weather-rain", "category": "weather", "tags": ["weather", "rain"], "files": { "outline": "icon-assets/outline/weather/weather-rain.svg" } },
     { "id": "weather-snow", "category": "weather", "tags": ["weather", "snow"], "files": { "outline": "icon-assets/outline/weather/weather-snow.svg" } },
     { "id": "weather-snow-alt", "category": "weather", "tags": ["weather", "snow", "alt"], "files": { "outline": "icon-assets/outline/weather/weather-snow-alt.svg" } },
