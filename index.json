@@ -1,19 +1,23 @@
 {
-  "version": "1.0.0",
+  "version": "0.1.0",
   "defaultSize": 16,
   "styles": ["outline"],
   "icons": [
     {
       "id": "weather-cloud",
-      "category": "Weather",
+      "category": "weather",
       "tags": ["cloud", "forecast"],
-      "files": { "outline": "outline/weather-cloud.svg" }
+      "files": {
+        "outline": "icon-assets/outline/weather/weather-cloud.svg"
+      }
     },
     {
       "id": "weather-cloud-alt",
-      "category": "Weather",
+      "category": "weather",
       "tags": ["cloud", "forecast", "alt"],
-      "files": { "outline": "outline/weather-cloud-alt.svg" }
+      "files": {
+        "outline": "icon-assets/outline/weather/weather-cloud-alt.svg"
+      }
     }
   ]
 }
