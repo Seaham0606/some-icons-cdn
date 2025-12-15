@@ -70,6 +70,6 @@
 
     { "id": "weather-temperature", "category": "weather", "tags": ["weather", "temperature"], "files": { "outline": "icon-assets/outline/weather/weather-temperature.svg" } },
     { "id": "weather-temperature-low", "category": "weather", "tags": ["weather", "temperature", "low"], "files": { "outline": "icon-assets/outline/weather/weather-temperature-low.svg" } }
-    { "id": "weather-temperature-high", "category": "weather", "tags": ["weather", "temperature", "high"], "files": { "outline": "icon-assets/outline/weather/weather-temperature-high.svg" } },
+    { "id": "weather-temperature-high", "category": "weather", "tags": ["weather", "temperature", "high"], "files": { "outline": "icon-assets/outline/weather/weather-temperature-high.svg" } }
   ]
 }
