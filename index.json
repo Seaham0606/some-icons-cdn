@@ -7,6 +7,1182 @@
   ],
   "icons": [
     {
+      "id": "general-airplane",
+      "category": "general",
+      "tags": [
+        "general",
+        "airplane"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-airplane.svg"
+      }
+    },
+    {
+      "id": "general-anchor",
+      "category": "general",
+      "tags": [
+        "general",
+        "anchor"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-anchor.svg"
+      }
+    },
+    {
+      "id": "general-archive",
+      "category": "general",
+      "tags": [
+        "general",
+        "archive"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-archive.svg"
+      }
+    },
+    {
+      "id": "general-atom",
+      "category": "general",
+      "tags": [
+        "general",
+        "atom"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-atom.svg"
+      }
+    },
+    {
+      "id": "general-attachment",
+      "category": "general",
+      "tags": [
+        "general",
+        "attachment"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-attachment.svg"
+      }
+    },
+    {
+      "id": "general-backspace",
+      "category": "general",
+      "tags": [
+        "general",
+        "backspace"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-backspace.svg"
+      }
+    },
+    {
+      "id": "general-bacteria",
+      "category": "general",
+      "tags": [
+        "general",
+        "bacteria"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-bacteria.svg"
+      }
+    },
+    {
+      "id": "general-badge",
+      "category": "general",
+      "tags": [
+        "general",
+        "badge"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-badge.svg"
+      }
+    },
+    {
+      "id": "general-bandage",
+      "category": "general",
+      "tags": [
+        "general",
+        "bandage"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-bandage.svg"
+      }
+    },
+    {
+      "id": "general-battery",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery.svg"
+      }
+    },
+    {
+      "id": "general-battery-charging",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "charging"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-charging.svg"
+      }
+    },
+    {
+      "id": "general-battery-charging-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "charging",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-charging-alt.svg"
+      }
+    },
+    {
+      "id": "general-battery-check",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "check"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-check.svg"
+      }
+    },
+    {
+      "id": "general-battery-dead",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "dead"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-dead.svg"
+      }
+    },
+    {
+      "id": "general-battery-level-1",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "level",
+        "1"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-level-1.svg"
+      }
+    },
+    {
+      "id": "general-battery-level-2",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "level",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-level-2.svg"
+      }
+    },
+    {
+      "id": "general-battery-level-3",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "level",
+        "3"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-level-3.svg"
+      }
+    },
+    {
+      "id": "general-battery-level-4",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "level",
+        "4"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-level-4.svg"
+      }
+    },
+    {
+      "id": "general-battery-level-5",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "level",
+        "5"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-level-5.svg"
+      }
+    },
+    {
+      "id": "general-battery-question",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "question"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-question.svg"
+      }
+    },
+    {
+      "id": "general-battery-warning",
+      "category": "general",
+      "tags": [
+        "general",
+        "battery",
+        "warning"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-battery-warning.svg"
+      }
+    },
+    {
+      "id": "general-bell",
+      "category": "general",
+      "tags": [
+        "general",
+        "bell"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-bell.svg"
+      }
+    },
+    {
+      "id": "general-bell-disabled",
+      "category": "general",
+      "tags": [
+        "general",
+        "bell",
+        "disabled"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-bell-disabled.svg"
+      }
+    },
+    {
+      "id": "general-binoculars",
+      "category": "general",
+      "tags": [
+        "general",
+        "binoculars"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-binoculars.svg"
+      }
+    },
+    {
+      "id": "general-biscuit",
+      "category": "general",
+      "tags": [
+        "general",
+        "biscuit"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-biscuit.svg"
+      }
+    },
+    {
+      "id": "general-bluetooth",
+      "category": "general",
+      "tags": [
+        "general",
+        "bluetooth"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-bluetooth.svg"
+      }
+    },
+    {
+      "id": "general-bone",
+      "category": "general",
+      "tags": [
+        "general",
+        "bone"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-bone.svg"
+      }
+    },
+    {
+      "id": "general-book",
+      "category": "general",
+      "tags": [
+        "general",
+        "book"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-book.svg"
+      }
+    },
+    {
+      "id": "general-book-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "book",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-book-alt.svg"
+      }
+    },
+    {
+      "id": "general-book-alt-2",
+      "category": "general",
+      "tags": [
+        "general",
+        "book",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-book-alt-2.svg"
+      }
+    },
+    {
+      "id": "general-book-alt-3",
+      "category": "general",
+      "tags": [
+        "general",
+        "book",
+        "alt",
+        "3"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-book-alt-3.svg"
+      }
+    },
+    {
+      "id": "general-book-contact",
+      "category": "general",
+      "tags": [
+        "general",
+        "book",
+        "contact"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-book-contact.svg"
+      }
+    },
+    {
+      "id": "general-book-dictionary",
+      "category": "general",
+      "tags": [
+        "general",
+        "book",
+        "dictionary"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-book-dictionary.svg"
+      }
+    },
+    {
+      "id": "general-book-information",
+      "category": "general",
+      "tags": [
+        "general",
+        "book",
+        "information"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-book-information.svg"
+      }
+    },
+    {
+      "id": "general-book-question",
+      "category": "general",
+      "tags": [
+        "general",
+        "book",
+        "question"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-book-question.svg"
+      }
+    },
+    {
+      "id": "general-bookmark",
+      "category": "general",
+      "tags": [
+        "general",
+        "bookmark"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-bookmark.svg"
+      }
+    },
+    {
+      "id": "general-briefcase",
+      "category": "general",
+      "tags": [
+        "general",
+        "briefcase"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-briefcase.svg"
+      }
+    },
+    {
+      "id": "general-brightness-decrease",
+      "category": "general",
+      "tags": [
+        "general",
+        "brightness",
+        "decrease"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-brightness-decrease.svg"
+      }
+    },
+    {
+      "id": "general-brightness-increase",
+      "category": "general",
+      "tags": [
+        "general",
+        "brightness",
+        "increase"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-brightness-increase.svg"
+      }
+    },
+    {
+      "id": "general-brush",
+      "category": "general",
+      "tags": [
+        "general",
+        "brush"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-brush.svg"
+      }
+    },
+    {
+      "id": "general-bug",
+      "category": "general",
+      "tags": [
+        "general",
+        "bug"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-bug.svg"
+      }
+    },
+    {
+      "id": "general-calendar",
+      "category": "general",
+      "tags": [
+        "general",
+        "calendar"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-calendar.svg"
+      }
+    },
+    {
+      "id": "general-calendar-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "calendar",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-calendar-alt.svg"
+      }
+    },
+    {
+      "id": "general-calendar-date",
+      "category": "general",
+      "tags": [
+        "general",
+        "calendar",
+        "date"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-calendar-date.svg"
+      }
+    },
+    {
+      "id": "general-camera",
+      "category": "general",
+      "tags": [
+        "general",
+        "camera"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-camera.svg"
+      }
+    },
+    {
+      "id": "general-chain-link",
+      "category": "general",
+      "tags": [
+        "general",
+        "chain",
+        "link"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-chain-link.svg"
+      }
+    },
+    {
+      "id": "general-chain-link-broken",
+      "category": "general",
+      "tags": [
+        "general",
+        "chain",
+        "link",
+        "broken"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-chain-link-broken.svg"
+      }
+    },
+    {
+      "id": "general-charging-wireless",
+      "category": "general",
+      "tags": [
+        "general",
+        "charging",
+        "wireless"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-charging-wireless.svg"
+      }
+    },
+    {
+      "id": "general-chart-line",
+      "category": "general",
+      "tags": [
+        "general",
+        "chart",
+        "line"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-chart-line.svg"
+      }
+    },
+    {
+      "id": "general-charts-bar",
+      "category": "general",
+      "tags": [
+        "general",
+        "charts",
+        "bar"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-charts-bar.svg"
+      }
+    },
+    {
+      "id": "general-charts-pie",
+      "category": "general",
+      "tags": [
+        "general",
+        "charts",
+        "pie"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-charts-pie.svg"
+      }
+    },
+    {
+      "id": "general-charts-venn",
+      "category": "general",
+      "tags": [
+        "general",
+        "charts",
+        "venn"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-charts-venn.svg"
+      }
+    },
+    {
+      "id": "general-chat",
+      "category": "general",
+      "tags": [
+        "general",
+        "chat"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-chat.svg"
+      }
+    },
+    {
+      "id": "general-chat-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "chat",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-chat-alt.svg"
+      }
+    },
+    {
+      "id": "general-chip-processor",
+      "category": "general",
+      "tags": [
+        "general",
+        "chip",
+        "processor"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-chip-processor.svg"
+      }
+    },
+    {
+      "id": "general-circuit-line",
+      "category": "general",
+      "tags": [
+        "general",
+        "circuit",
+        "line"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-circuit-line.svg"
+      }
+    },
+    {
+      "id": "general-clipboard-check",
+      "category": "general",
+      "tags": [
+        "general",
+        "clipboard",
+        "check"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-clipboard-check.svg"
+      }
+    },
+    {
+      "id": "general-clipboard-paste",
+      "category": "general",
+      "tags": [
+        "general",
+        "clipboard",
+        "paste"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-clipboard-paste.svg"
+      }
+    },
+    {
+      "id": "general-clock",
+      "category": "general",
+      "tags": [
+        "general",
+        "clock"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-clock.svg"
+      }
+    },
+    {
+      "id": "general-clock-alarm",
+      "category": "general",
+      "tags": [
+        "general",
+        "clock",
+        "alarm"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-clock-alarm.svg"
+      }
+    },
+    {
+      "id": "general-clock-stopwatch",
+      "category": "general",
+      "tags": [
+        "general",
+        "clock",
+        "stopwatch"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-clock-stopwatch.svg"
+      }
+    },
+    {
+      "id": "general-clock-watch",
+      "category": "general",
+      "tags": [
+        "general",
+        "clock",
+        "watch"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-clock-watch.svg"
+      }
+    },
+    {
+      "id": "general-command",
+      "category": "general",
+      "tags": [
+        "general",
+        "command"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-command.svg"
+      }
+    },
+    {
+      "id": "general-compass",
+      "category": "general",
+      "tags": [
+        "general",
+        "compass"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-compass.svg"
+      }
+    },
+    {
+      "id": "general-cone",
+      "category": "general",
+      "tags": [
+        "general",
+        "cone"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-cone.svg"
+      }
+    },
+    {
+      "id": "general-copy",
+      "category": "general",
+      "tags": [
+        "general",
+        "copy"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-copy.svg"
+      }
+    },
+    {
+      "id": "general-corner",
+      "category": "general",
+      "tags": [
+        "general",
+        "corner"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-corner.svg"
+      }
+    },
+    {
+      "id": "general-crown",
+      "category": "general",
+      "tags": [
+        "general",
+        "crown"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-crown.svg"
+      }
+    },
+    {
+      "id": "general-crown-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "crown",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-crown-alt.svg"
+      }
+    },
+    {
+      "id": "general-cursor",
+      "category": "general",
+      "tags": [
+        "general",
+        "cursor"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-cursor.svg"
+      }
+    },
+    {
+      "id": "general-cursor-click",
+      "category": "general",
+      "tags": [
+        "general",
+        "cursor",
+        "click"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-cursor-click.svg"
+      }
+    },
+    {
+      "id": "general-cursor-click-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "cursor",
+        "click",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-cursor-click-alt.svg"
+      }
+    },
+    {
+      "id": "general-data-stack",
+      "category": "general",
+      "tags": [
+        "general",
+        "data",
+        "stack"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-data-stack.svg"
+      }
+    },
+    {
+      "id": "general-disc",
+      "category": "general",
+      "tags": [
+        "general",
+        "disc"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-disc.svg"
+      }
+    },
+    {
+      "id": "general-door",
+      "category": "general",
+      "tags": [
+        "general",
+        "door"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-door.svg"
+      }
+    },
+    {
+      "id": "general-ear",
+      "category": "general",
+      "tags": [
+        "general",
+        "ear"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-ear.svg"
+      }
+    },
+    {
+      "id": "general-edit",
+      "category": "general",
+      "tags": [
+        "general",
+        "edit"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-edit.svg"
+      }
+    },
+    {
+      "id": "general-education",
+      "category": "general",
+      "tags": [
+        "general",
+        "education"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-education.svg"
+      }
+    },
+    {
+      "id": "general-email-envelope",
+      "category": "general",
+      "tags": [
+        "general",
+        "email",
+        "envelope"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-email-envelope.svg"
+      }
+    },
+    {
+      "id": "general-email-envelope-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "email",
+        "envelope",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-email-envelope-alt.svg"
+      }
+    },
+    {
+      "id": "general-email-envelope-open",
+      "category": "general",
+      "tags": [
+        "general",
+        "email",
+        "envelope",
+        "open"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-email-envelope-open.svg"
+      }
+    },
+    {
+      "id": "general-eye-close",
+      "category": "general",
+      "tags": [
+        "general",
+        "eye",
+        "close"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-eye-close.svg"
+      }
+    },
+    {
+      "id": "general-eye-hide",
+      "category": "general",
+      "tags": [
+        "general",
+        "eye",
+        "hide"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-eye-hide.svg"
+      }
+    },
+    {
+      "id": "general-eye-hide-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "eye",
+        "hide",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-eye-hide-alt.svg"
+      }
+    },
+    {
+      "id": "general-eye-show",
+      "category": "general",
+      "tags": [
+        "general",
+        "eye",
+        "show"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-eye-show.svg"
+      }
+    },
+    {
+      "id": "general-eye-show-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "eye",
+        "show",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-eye-show-alt.svg"
+      }
+    },
+    {
+      "id": "general-eyedropper",
+      "category": "general",
+      "tags": [
+        "general",
+        "eyedropper"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-eyedropper.svg"
+      }
+    },
+    {
+      "id": "general-feather",
+      "category": "general",
+      "tags": [
+        "general",
+        "feather"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-feather.svg"
+      }
+    },
+    {
+      "id": "general-filter-funnel",
+      "category": "general",
+      "tags": [
+        "general",
+        "filter",
+        "funnel"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-filter-funnel.svg"
+      }
+    },
+    {
+      "id": "general-fire",
+      "category": "general",
+      "tags": [
+        "general",
+        "fire"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-fire.svg"
+      }
+    },
+    {
+      "id": "general-flag",
+      "category": "general",
+      "tags": [
+        "general",
+        "flag"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-flag.svg"
+      }
+    },
+    {
+      "id": "general-flag-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "flag",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-flag-alt.svg"
+      }
+    },
+    {
+      "id": "general-floppy-disk",
+      "category": "general",
+      "tags": [
+        "general",
+        "floppy",
+        "disk"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-floppy-disk.svg"
+      }
+    },
+    {
+      "id": "general-flower",
+      "category": "general",
+      "tags": [
+        "general",
+        "flower"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-flower.svg"
+      }
+    },
+    {
+      "id": "general-folder-open",
+      "category": "general",
+      "tags": [
+        "general",
+        "folder",
+        "open"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-folder-open.svg"
+      }
+    },
+    {
+      "id": "general-general-location-pin-map",
+      "category": "general",
+      "tags": [
+        "general",
+        "general",
+        "location",
+        "pin",
+        "map"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-general-location-pin-map.svg"
+      }
+    },
+    {
+      "id": "general-general-location-pin-map-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "general",
+        "location",
+        "pin",
+        "map",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-general-location-pin-map-alt.svg"
+      }
+    },
+    {
+      "id": "general-globe",
+      "category": "general",
+      "tags": [
+        "general",
+        "globe"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-globe.svg"
+      }
+    },
+    {
+      "id": "general-globe-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "globe",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-globe-alt.svg"
+      }
+    },
+    {
+      "id": "general-grid",
+      "category": "general",
+      "tags": [
+        "general",
+        "grid"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-grid.svg"
+      }
+    },
+    {
       "id": "weather-cloud",
       "category": "weather",
       "tags": [
