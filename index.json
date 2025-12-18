@@ -1183,6 +1183,497 @@
       }
     },
     {
+      "id": "general-heart",
+      "category": "general",
+      "tags": [
+        "general",
+        "heart"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-heart.svg"
+      }
+    },
+    {
+      "id": "general-heart-break",
+      "category": "general",
+      "tags": [
+        "general",
+        "heart",
+        "break"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-heart-break.svg"
+      }
+    },
+    {
+      "id": "general-heartbeat-monitor",
+      "category": "general",
+      "tags": [
+        "general",
+        "heartbeat",
+        "monitor"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-heartbeat-monitor.svg"
+      }
+    },
+    {
+      "id": "general-hourglass",
+      "category": "general",
+      "tags": [
+        "general",
+        "hourglass"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-hourglass.svg"
+      }
+    },
+    {
+      "id": "general-identification-card",
+      "category": "general",
+      "tags": [
+        "general",
+        "identification",
+        "card"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-identification-card.svg"
+      }
+    },
+    {
+      "id": "general-key",
+      "category": "general",
+      "tags": [
+        "general",
+        "key"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-key.svg"
+      }
+    },
+    {
+      "id": "general-keychain",
+      "category": "general",
+      "tags": [
+        "general",
+        "keychain"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-keychain.svg"
+      }
+    },
+    {
+      "id": "general-leaf",
+      "category": "general",
+      "tags": [
+        "general",
+        "leaf"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-leaf.svg"
+      }
+    },
+    {
+      "id": "general-legal",
+      "category": "general",
+      "tags": [
+        "general",
+        "legal"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-legal.svg"
+      }
+    },
+    {
+      "id": "general-lifebuoy",
+      "category": "general",
+      "tags": [
+        "general",
+        "lifebuoy"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-lifebuoy.svg"
+      }
+    },
+    {
+      "id": "general-lifebuoy-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "lifebuoy",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-lifebuoy-alt.svg"
+      }
+    },
+    {
+      "id": "general-light-bulb",
+      "category": "general",
+      "tags": [
+        "general",
+        "light",
+        "bulb"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-light-bulb.svg"
+      }
+    },
+    {
+      "id": "general-light-bulb-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "light",
+        "bulb",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-light-bulb-alt.svg"
+      }
+    },
+    {
+      "id": "general-light-bulb-alt-2",
+      "category": "general",
+      "tags": [
+        "general",
+        "light",
+        "bulb",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-light-bulb-alt-2.svg"
+      }
+    },
+    {
+      "id": "general-light-bulb-smart",
+      "category": "general",
+      "tags": [
+        "general",
+        "light",
+        "bulb",
+        "smart"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-light-bulb-smart.svg"
+      }
+    },
+    {
+      "id": "general-like",
+      "category": "general",
+      "tags": [
+        "general",
+        "like"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-like.svg"
+      }
+    },
+    {
+      "id": "general-like-dislike",
+      "category": "general",
+      "tags": [
+        "general",
+        "like",
+        "dislike"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-like-dislike.svg"
+      }
+    },
+    {
+      "id": "general-list",
+      "category": "general",
+      "tags": [
+        "general",
+        "list"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-list.svg"
+      }
+    },
+    {
+      "id": "general-loading",
+      "category": "general",
+      "tags": [
+        "general",
+        "loading"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-loading.svg"
+      }
+    },
+    {
+      "id": "general-location-pin",
+      "category": "general",
+      "tags": [
+        "general",
+        "location",
+        "pin"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-location-pin.svg"
+      }
+    },
+    {
+      "id": "general-location-pin-add",
+      "category": "general",
+      "tags": [
+        "general",
+        "location",
+        "pin",
+        "add"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-location-pin-add.svg"
+      }
+    },
+    {
+      "id": "general-location-pin-delete",
+      "category": "general",
+      "tags": [
+        "general",
+        "location",
+        "pin",
+        "delete"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-location-pin-delete.svg"
+      }
+    },
+    {
+      "id": "general-lock",
+      "category": "general",
+      "tags": [
+        "general",
+        "lock"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-lock.svg"
+      }
+    },
+    {
+      "id": "general-lock-disabled",
+      "category": "general",
+      "tags": [
+        "general",
+        "lock",
+        "disabled"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-lock-disabled.svg"
+      }
+    },
+    {
+      "id": "general-lock-unlock",
+      "category": "general",
+      "tags": [
+        "general",
+        "lock",
+        "unlock"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-lock-unlock.svg"
+      }
+    },
+    {
+      "id": "general-map",
+      "category": "general",
+      "tags": [
+        "general",
+        "map"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-map.svg"
+      }
+    },
+    {
+      "id": "general-map-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "map",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-map-alt.svg"
+      }
+    },
+    {
+      "id": "general-menu-hamburger",
+      "category": "general",
+      "tags": [
+        "general",
+        "menu",
+        "hamburger"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-menu-hamburger.svg"
+      }
+    },
+    {
+      "id": "general-message",
+      "category": "general",
+      "tags": [
+        "general",
+        "message"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-message.svg"
+      }
+    },
+    {
+      "id": "general-metal",
+      "category": "general",
+      "tags": [
+        "general",
+        "metal"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-metal.svg"
+      }
+    },
+    {
+      "id": "general-micro-sd-card",
+      "category": "general",
+      "tags": [
+        "general",
+        "micro",
+        "sd",
+        "card"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-micro-sd-card.svg"
+      }
+    },
+    {
+      "id": "general-microphone",
+      "category": "general",
+      "tags": [
+        "general",
+        "microphone"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-microphone.svg"
+      }
+    },
+    {
+      "id": "general-microphone-disabled",
+      "category": "general",
+      "tags": [
+        "general",
+        "microphone",
+        "disabled"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-microphone-disabled.svg"
+      }
+    },
+    {
+      "id": "general-mountain",
+      "category": "general",
+      "tags": [
+        "general",
+        "mountain"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-mountain.svg"
+      }
+    },
+    {
+      "id": "general-nfc",
+      "category": "general",
+      "tags": [
+        "general",
+        "nfc"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-nfc.svg"
+      }
+    },
+    {
+      "id": "general-notebook",
+      "category": "general",
+      "tags": [
+        "general",
+        "notebook"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-notebook.svg"
+      }
+    },
+    {
+      "id": "general-notebook-contact",
+      "category": "general",
+      "tags": [
+        "general",
+        "notebook",
+        "contact"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-notebook-contact.svg"
+      }
+    },
+    {
+      "id": "general-paint-roller",
+      "category": "general",
+      "tags": [
+        "general",
+        "paint",
+        "roller"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-paint-roller.svg"
+      }
+    },
+    {
+      "id": "general-paper-airplane",
+      "category": "general",
+      "tags": [
+        "general",
+        "paper",
+        "airplane"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-paper-airplane.svg"
+      }
+    },
+    {
+      "id": "general-pen",
+      "category": "general",
+      "tags": [
+        "general",
+        "pen"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-pen.svg"
+      }
+    },
+    {
+      "id": "general-pen-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "pen",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-pen-alt.svg"
+      }
+    },
+    {
+      "id": "general-phone",
+      "category": "general",
+      "tags": [
+        "general",
+        "phone"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-phone.svg"
+      }
+    },
+    {
       "id": "weather-cloud",
       "category": "weather",
       "tags": [
