@@ -2049,6 +2049,7 @@
         "scale"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-scale.svg",
         "outline": "icon-assets/outline/general/general-scale.svg"
       }
     },
@@ -2060,6 +2061,7 @@
         "scan"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-scan.svg",
         "outline": "icon-assets/outline/general/general-scan.svg"
       }
     },
@@ -2071,6 +2073,7 @@
         "scanner"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-scanner.svg",
         "outline": "icon-assets/outline/general/general-scanner.svg"
       }
     },
@@ -2082,6 +2085,7 @@
         "scissors"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-scissors.svg",
         "outline": "icon-assets/outline/general/general-scissors.svg"
       }
     },
@@ -2093,6 +2097,7 @@
         "screen"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-screen.svg",
         "outline": "icon-assets/outline/general/general-screen.svg"
       }
     },
@@ -2104,6 +2109,7 @@
         "scroll"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-scroll.svg",
         "outline": "icon-assets/outline/general/general-scroll.svg"
       }
     },
@@ -2115,6 +2121,7 @@
         "search"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-search.svg",
         "outline": "icon-assets/outline/general/general-search.svg"
       }
     },
@@ -2127,6 +2134,7 @@
         "gear"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-settings-gear.svg",
         "outline": "icon-assets/outline/general/general-settings-gear.svg"
       }
     },
@@ -2139,6 +2147,7 @@
         "nobs"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-settings-nobs.svg",
         "outline": "icon-assets/outline/general/general-settings-nobs.svg"
       }
     },
@@ -2151,6 +2160,7 @@
         "nut"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-settings-nut.svg",
         "outline": "icon-assets/outline/general/general-settings-nut.svg"
       }
     },
@@ -2163,6 +2173,7 @@
         "slider"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-settings-slider.svg",
         "outline": "icon-assets/outline/general/general-settings-slider.svg"
       }
     },
@@ -2175,6 +2186,7 @@
         "wrench"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-settings-wrench.svg",
         "outline": "icon-assets/outline/general/general-settings-wrench.svg"
       }
     },
@@ -2186,6 +2198,7 @@
         "share"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-share.svg",
         "outline": "icon-assets/outline/general/general-share.svg"
       }
     },
@@ -2199,6 +2212,7 @@
         "stream"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-share-screen-stream.svg",
         "outline": "icon-assets/outline/general/general-share-screen-stream.svg"
       }
     },
@@ -2210,6 +2224,7 @@
         "shredder"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-shredder.svg",
         "outline": "icon-assets/outline/general/general-shredder.svg"
       }
     },
@@ -2221,6 +2236,7 @@
         "shutter"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-shutter.svg",
         "outline": "icon-assets/outline/general/general-shutter.svg"
       }
     },
@@ -2232,6 +2248,7 @@
         "signal"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-signal.svg",
         "outline": "icon-assets/outline/general/general-signal.svg"
       }
     },
@@ -2244,6 +2261,7 @@
         "reception"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-signal-reception.svg",
         "outline": "icon-assets/outline/general/general-signal-reception.svg"
       }
     },
@@ -2257,6 +2275,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-signal-reception-alt.svg",
         "outline": "icon-assets/outline/general/general-signal-reception-alt.svg"
       }
     },
@@ -2269,6 +2288,7 @@
         "tower"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-signal-tower.svg",
         "outline": "icon-assets/outline/general/general-signal-tower.svg"
       }
     },
@@ -2281,6 +2301,7 @@
         "card"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-sim-card.svg",
         "outline": "icon-assets/outline/general/general-sim-card.svg"
       }
     },
@@ -2293,6 +2314,7 @@
         "wave"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-sound-wave.svg",
         "outline": "icon-assets/outline/general/general-sound-wave.svg"
       }
     },
@@ -2304,6 +2326,7 @@
         "speaker"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-speaker.svg",
         "outline": "icon-assets/outline/general/general-speaker.svg"
       }
     },
@@ -2316,6 +2339,7 @@
         "buzz"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-speaker-buzz.svg",
         "outline": "icon-assets/outline/general/general-speaker-buzz.svg"
       }
     },
@@ -2328,6 +2352,7 @@
         "decrease"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-speaker-decrease.svg",
         "outline": "icon-assets/outline/general/general-speaker-decrease.svg"
       }
     },
@@ -2340,6 +2365,7 @@
         "increase"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-speaker-increase.svg",
         "outline": "icon-assets/outline/general/general-speaker-increase.svg"
       }
     },
@@ -2352,6 +2378,7 @@
         "mute"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-speaker-mute.svg",
         "outline": "icon-assets/outline/general/general-speaker-mute.svg"
       }
     },
@@ -2364,6 +2391,7 @@
         "fast"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-speedometer-fast.svg",
         "outline": "icon-assets/outline/general/general-speedometer-fast.svg"
       }
     },
@@ -2376,6 +2404,7 @@
         "medium"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-speedometer-medium.svg",
         "outline": "icon-assets/outline/general/general-speedometer-medium.svg"
       }
     },
@@ -2388,6 +2417,7 @@
         "slow"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-speedometer-slow.svg",
         "outline": "icon-assets/outline/general/general-speedometer-slow.svg"
       }
     },
@@ -2400,6 +2430,7 @@
         "2"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-stack-2.svg",
         "outline": "icon-assets/outline/general/general-stack-2.svg"
       }
     },
@@ -2412,6 +2443,7 @@
         "3"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-stack-3.svg",
         "outline": "icon-assets/outline/general/general-stack-3.svg"
       }
     },
@@ -2423,6 +2455,7 @@
         "star"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-star.svg",
         "outline": "icon-assets/outline/general/general-star.svg"
       }
     },
@@ -2435,6 +2468,7 @@
         "round"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-sticker-round.svg",
         "outline": "icon-assets/outline/general/general-sticker-round.svg"
       }
     },
@@ -2447,6 +2481,7 @@
         "square"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-sticker-square.svg",
         "outline": "icon-assets/outline/general/general-sticker-square.svg"
       }
     },
@@ -2458,6 +2493,7 @@
         "swatch"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-swatch.svg",
         "outline": "icon-assets/outline/general/general-swatch.svg"
       }
     },
@@ -2469,6 +2505,7 @@
         "table"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-table.svg",
         "outline": "icon-assets/outline/general/general-table.svg"
       }
     },
@@ -2480,6 +2517,7 @@
         "target"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-target.svg",
         "outline": "icon-assets/outline/general/general-target.svg"
       }
     },
@@ -2492,6 +2530,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-target-alt.svg",
         "outline": "icon-assets/outline/general/general-target-alt.svg"
       }
     },
@@ -2503,6 +2542,7 @@
         "toolbox"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-toolbox.svg",
         "outline": "icon-assets/outline/general/general-toolbox.svg"
       }
     },
@@ -2515,6 +2555,7 @@
         "light"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-traffic-light.svg",
         "outline": "icon-assets/outline/general/general-traffic-light.svg"
       }
     },
@@ -2526,6 +2567,7 @@
         "trash"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-trash.svg",
         "outline": "icon-assets/outline/general/general-trash.svg"
       }
     },
@@ -2538,6 +2580,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-trash-alt.svg",
         "outline": "icon-assets/outline/general/general-trash-alt.svg"
       }
     },
@@ -2550,6 +2593,7 @@
         "open"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-tray-open.svg",
         "outline": "icon-assets/outline/general/general-tray-open.svg"
       }
     },
@@ -2561,6 +2605,7 @@
         "trophy"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-trophy.svg",
         "outline": "icon-assets/outline/general/general-trophy.svg"
       }
     },
@@ -2572,6 +2617,7 @@
         "usb"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-usb.svg",
         "outline": "icon-assets/outline/general/general-usb.svg"
       }
     },
@@ -2583,6 +2629,7 @@
         "user"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-user.svg",
         "outline": "icon-assets/outline/general/general-user.svg"
       }
     },
@@ -2594,6 +2641,7 @@
         "vector"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-vector.svg",
         "outline": "icon-assets/outline/general/general-vector.svg"
       }
     },
@@ -2605,6 +2653,7 @@
         "video"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-video.svg",
         "outline": "icon-assets/outline/general/general-video.svg"
       }
     },
@@ -2617,6 +2666,7 @@
         "camera"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-video-camera.svg",
         "outline": "icon-assets/outline/general/general-video-camera.svg"
       }
     },
@@ -2629,6 +2679,7 @@
         "disabled"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-video-disabled.svg",
         "outline": "icon-assets/outline/general/general-video-disabled.svg"
       }
     },
@@ -2640,6 +2691,7 @@
         "virus"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-virus.svg",
         "outline": "icon-assets/outline/general/general-virus.svg"
       }
     },
@@ -2652,6 +2704,7 @@
         "command"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-voice-command.svg",
         "outline": "icon-assets/outline/general/general-voice-command.svg"
       }
     },
@@ -2664,6 +2717,7 @@
         "drop"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-water-drop.svg",
         "outline": "icon-assets/outline/general/general-water-drop.svg"
       }
     },
@@ -2675,6 +2729,7 @@
         "wayfinding"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-wayfinding.svg",
         "outline": "icon-assets/outline/general/general-wayfinding.svg"
       }
     },
@@ -2686,6 +2741,7 @@
         "wifi"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-wifi.svg",
         "outline": "icon-assets/outline/general/general-wifi.svg"
       }
     },
@@ -2698,6 +2754,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-wifi-alt.svg",
         "outline": "icon-assets/outline/general/general-wifi-alt.svg"
       }
     },
@@ -2710,6 +2767,7 @@
         "disabled"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-wifi-disabled.svg",
         "outline": "icon-assets/outline/general/general-wifi-disabled.svg"
       }
     },
@@ -2722,6 +2780,7 @@
         "in"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-zoom-in.svg",
         "outline": "icon-assets/outline/general/general-zoom-in.svg"
       }
     },
@@ -2734,6 +2793,7 @@
         "out"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-zoom-out.svg",
         "outline": "icon-assets/outline/general/general-zoom-out.svg"
       }
     },
