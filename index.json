@@ -35,8 +35,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-diagonal-up-left-down-right-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right-alt.svg"
       }
     },
     {
@@ -68,8 +68,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-diagonal-up-right-down-left-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left-alt.svg"
       }
     },
     {
@@ -121,8 +121,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-alt.svg"
       }
     },
     {
@@ -148,8 +148,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-chevron-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-chevron-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-chevron-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron-alt.svg"
       }
     },
     {
@@ -177,8 +177,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-chevron-double-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-chevron-double-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-chevron-double-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron-double-alt.svg"
       }
     },
     {
@@ -190,8 +190,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-circle.svg"
       }
     },
     {
@@ -204,8 +204,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-circle-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-circle-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-circle-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-circle-alt.svg"
       }
     },
     {
@@ -257,8 +257,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-left-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-left-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-left-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-left-alt.svg"
       }
     },
     {
@@ -271,8 +271,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-left-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-left-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-left-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-left-circle.svg"
       }
     },
     {
@@ -286,8 +286,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-left-circle-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-left-circle-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-left-circle-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-left-circle-alt.svg"
       }
     },
     {
@@ -327,8 +327,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-right-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-right-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-right-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-right-alt.svg"
       }
     },
     {
@@ -341,8 +341,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-right-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-right-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-right-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-right-circle.svg"
       }
     },
     {
@@ -356,8 +356,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-right-circle-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-right-circle-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-right-circle-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-right-circle-alt.svg"
       }
     },
     {
@@ -382,8 +382,8 @@
         "triangle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-down-triangle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-down-triangle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-down-triangle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-down-triangle.svg"
       }
     },
     {
@@ -407,8 +407,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-left-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-left-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-left-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-left-alt.svg"
       }
     },
     {
@@ -434,8 +434,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-left-chevron-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-left-chevron-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-left-chevron-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron-alt.svg"
       }
     },
     {
@@ -463,8 +463,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-left-chevron-double-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-left-chevron-double-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-left-chevron-double-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron-double-alt.svg"
       }
     },
     {
@@ -476,8 +476,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-left-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-left-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-left-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-left-circle.svg"
       }
     },
     {
@@ -490,8 +490,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-left-circle-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-left-circle-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-left-circle-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-left-circle-alt.svg"
       }
     },
     {
@@ -530,8 +530,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-left-right-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-left-right-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-left-right-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-left-right-alt.svg"
       }
     },
     {
@@ -556,8 +556,8 @@
         "triangle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-left-triangle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-left-triangle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-left-triangle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-left-triangle.svg"
       }
     },
     {
@@ -568,8 +568,8 @@
         "recycle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-recycle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-recycle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-recycle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-recycle.svg"
       }
     },
     {
@@ -593,8 +593,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-redo-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-redo-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-redo-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-redo-alt.svg"
       }
     },
     {
@@ -658,8 +658,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-right-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-right-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-right-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-right-alt.svg"
       }
     },
     {
@@ -685,8 +685,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-right-chevron-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-right-chevron-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-right-chevron-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron-alt.svg"
       }
     },
     {
@@ -714,8 +714,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-right-chevron-double-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-right-chevron-double-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-right-chevron-double-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron-double-alt.svg"
       }
     },
     {
@@ -727,8 +727,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-right-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-right-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-right-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-right-circle.svg"
       }
     },
     {
@@ -741,8 +741,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-right-circle-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-right-circle-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-right-circle-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-right-circle-alt.svg"
       }
     },
     {
@@ -780,8 +780,8 @@
         "triangle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-right-triangle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-right-triangle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-right-triangle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-right-triangle.svg"
       }
     },
     {
@@ -794,8 +794,8 @@
         "left"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-turn-down-left.svg",
-        "filled": "icon-assets/outline/arrow/arrow-turn-down-left.svg"
+        "filled": "icon-assets/filled/arrow/arrow-turn-down-left.svg",
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left.svg"
       }
     },
     {
@@ -840,8 +840,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-turn-down-left-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-turn-down-left-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-turn-down-left-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left-circle.svg"
       }
     },
     {
@@ -854,8 +854,8 @@
         "right"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-turn-down-right.svg",
-        "filled": "icon-assets/outline/arrow/arrow-turn-down-right.svg"
+        "filled": "icon-assets/filled/arrow/arrow-turn-down-right.svg",
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right.svg"
       }
     },
     {
@@ -900,8 +900,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-turn-down-right-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-turn-down-right-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-turn-down-right-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right-circle.svg"
       }
     },
     {
@@ -913,8 +913,8 @@
         "left"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-turn-left.svg",
-        "filled": "icon-assets/outline/arrow/arrow-turn-left.svg"
+        "filled": "icon-assets/filled/arrow/arrow-turn-left.svg",
+        "outline": "icon-assets/outline/arrow/arrow-turn-left.svg"
       }
     },
     {
@@ -941,8 +941,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-turn-left-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-turn-left-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-turn-left-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-turn-left-circle.svg"
       }
     },
     {
@@ -968,8 +968,8 @@
         "right"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-turn-right.svg",
-        "filled": "icon-assets/outline/arrow/arrow-turn-right.svg"
+        "filled": "icon-assets/filled/arrow/arrow-turn-right.svg",
+        "outline": "icon-assets/outline/arrow/arrow-turn-right.svg"
       }
     },
     {
@@ -996,8 +996,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-turn-right-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-turn-right-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-turn-right-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-turn-right-circle.svg"
       }
     },
     {
@@ -1035,8 +1035,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-undo-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-undo-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-undo-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-undo-alt.svg"
       }
     },
     {
@@ -1088,8 +1088,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-alt.svg"
       }
     },
     {
@@ -1115,8 +1115,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-chevron-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-chevron-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-chevron-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron-alt.svg"
       }
     },
     {
@@ -1144,8 +1144,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-chevron-double-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-chevron-double-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-chevron-double-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron-double-alt.svg"
       }
     },
     {
@@ -1157,8 +1157,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-circle.svg"
       }
     },
     {
@@ -1171,8 +1171,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-circle-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-circle-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-circle-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-circle-alt.svg"
       }
     },
     {
@@ -1198,8 +1198,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-down-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-down-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-down-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-down-alt.svg"
       }
     },
     {
@@ -1238,8 +1238,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-left-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-left-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-left-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-left-alt.svg"
       }
     },
     {
@@ -1252,8 +1252,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-left-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-left-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-left-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-left-circle.svg"
       }
     },
     {
@@ -1267,8 +1267,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-left-circle-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-left-circle-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-left-circle-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-left-circle-alt.svg"
       }
     },
     {
@@ -1307,8 +1307,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-right-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-right-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-right-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-right-alt.svg"
       }
     },
     {
@@ -1321,8 +1321,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-right-circle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-right-circle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-right-circle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-right-circle.svg"
       }
     },
     {
@@ -1336,8 +1336,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-right-circle-alt.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-right-circle-alt.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-right-circle-alt.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-right-circle-alt.svg"
       }
     },
     {
@@ -1376,8 +1376,8 @@
         "triangle"
       ],
       "files": {
-        "outline": "icon-assets/outline/arrow/arrow-up-triangle.svg",
-        "filled": "icon-assets/outline/arrow/arrow-up-triangle.svg"
+        "filled": "icon-assets/filled/arrow/arrow-up-triangle.svg",
+        "outline": "icon-assets/outline/arrow/arrow-up-triangle.svg"
       }
     },
     {
