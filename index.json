@@ -3609,8 +3609,8 @@
         "shutter"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-shutter.svg",
-        "filled": "icon-assets/outline/general/general-shutter.svg"
+        "filled": "icon-assets/filled/general/general-shutter.svg",
+        "outline": "icon-assets/outline/general/general-shutter.svg"
       }
     },
     {
@@ -3621,8 +3621,8 @@
         "signal"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-signal.svg",
-        "filled": "icon-assets/outline/general/general-signal.svg"
+        "filled": "icon-assets/filled/general/general-signal.svg",
+        "outline": "icon-assets/outline/general/general-signal.svg"
       }
     },
     {
@@ -3634,8 +3634,8 @@
         "reception"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-signal-reception.svg",
-        "filled": "icon-assets/outline/general/general-signal-reception.svg"
+        "filled": "icon-assets/filled/general/general-signal-reception.svg",
+        "outline": "icon-assets/outline/general/general-signal-reception.svg"
       }
     },
     {
@@ -3648,8 +3648,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-signal-reception-alt.svg",
-        "filled": "icon-assets/outline/general/general-signal-reception-alt.svg"
+        "filled": "icon-assets/filled/general/general-signal-reception-alt.svg",
+        "outline": "icon-assets/outline/general/general-signal-reception-alt.svg"
       }
     },
     {
@@ -3661,8 +3661,8 @@
         "tower"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-signal-tower.svg",
-        "filled": "icon-assets/outline/general/general-signal-tower.svg"
+        "filled": "icon-assets/filled/general/general-signal-tower.svg",
+        "outline": "icon-assets/outline/general/general-signal-tower.svg"
       }
     },
     {
@@ -3674,8 +3674,8 @@
         "card"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-sim-card.svg",
-        "filled": "icon-assets/outline/general/general-sim-card.svg"
+        "filled": "icon-assets/filled/general/general-sim-card.svg",
+        "outline": "icon-assets/outline/general/general-sim-card.svg"
       }
     },
     {
@@ -3699,8 +3699,8 @@
         "speaker"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-speaker.svg",
-        "filled": "icon-assets/outline/general/general-speaker.svg"
+        "filled": "icon-assets/filled/general/general-speaker.svg",
+        "outline": "icon-assets/outline/general/general-speaker.svg"
       }
     },
     {
@@ -3712,8 +3712,8 @@
         "buzz"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-speaker-buzz.svg",
-        "filled": "icon-assets/outline/general/general-speaker-buzz.svg"
+        "filled": "icon-assets/filled/general/general-speaker-buzz.svg",
+        "outline": "icon-assets/outline/general/general-speaker-buzz.svg"
       }
     },
     {
@@ -3725,8 +3725,8 @@
         "decrease"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-speaker-decrease.svg",
-        "filled": "icon-assets/outline/general/general-speaker-decrease.svg"
+        "filled": "icon-assets/filled/general/general-speaker-decrease.svg",
+        "outline": "icon-assets/outline/general/general-speaker-decrease.svg"
       }
     },
     {
@@ -3738,8 +3738,8 @@
         "increase"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-speaker-increase.svg",
-        "filled": "icon-assets/outline/general/general-speaker-increase.svg"
+        "filled": "icon-assets/filled/general/general-speaker-increase.svg",
+        "outline": "icon-assets/outline/general/general-speaker-increase.svg"
       }
     },
     {
@@ -3751,8 +3751,8 @@
         "mute"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-speaker-mute.svg",
-        "filled": "icon-assets/outline/general/general-speaker-mute.svg"
+        "filled": "icon-assets/filled/general/general-speaker-mute.svg",
+        "outline": "icon-assets/outline/general/general-speaker-mute.svg"
       }
     },
     {
@@ -3764,8 +3764,8 @@
         "fast"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-speedometer-fast.svg",
-        "filled": "icon-assets/outline/general/general-speedometer-fast.svg"
+        "filled": "icon-assets/filled/general/general-speedometer-fast.svg",
+        "outline": "icon-assets/outline/general/general-speedometer-fast.svg"
       }
     },
     {
@@ -3777,8 +3777,8 @@
         "medium"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-speedometer-medium.svg",
-        "filled": "icon-assets/outline/general/general-speedometer-medium.svg"
+        "filled": "icon-assets/filled/general/general-speedometer-medium.svg",
+        "outline": "icon-assets/outline/general/general-speedometer-medium.svg"
       }
     },
     {
@@ -3790,8 +3790,8 @@
         "slow"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-speedometer-slow.svg",
-        "filled": "icon-assets/outline/general/general-speedometer-slow.svg"
+        "filled": "icon-assets/filled/general/general-speedometer-slow.svg",
+        "outline": "icon-assets/outline/general/general-speedometer-slow.svg"
       }
     },
     {
@@ -3803,8 +3803,8 @@
         "2"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-stack-2.svg",
-        "filled": "icon-assets/outline/general/general-stack-2.svg"
+        "filled": "icon-assets/filled/general/general-stack-2.svg",
+        "outline": "icon-assets/outline/general/general-stack-2.svg"
       }
     },
     {
@@ -3816,8 +3816,8 @@
         "3"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-stack-3.svg",
-        "filled": "icon-assets/outline/general/general-stack-3.svg"
+        "filled": "icon-assets/filled/general/general-stack-3.svg",
+        "outline": "icon-assets/outline/general/general-stack-3.svg"
       }
     },
     {
@@ -3828,8 +3828,8 @@
         "star"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-star.svg",
-        "filled": "icon-assets/outline/general/general-star.svg"
+        "filled": "icon-assets/filled/general/general-star.svg",
+        "outline": "icon-assets/outline/general/general-star.svg"
       }
     },
     {
@@ -3841,8 +3841,8 @@
         "round"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-sticker-round.svg",
-        "filled": "icon-assets/outline/general/general-sticker-round.svg"
+        "filled": "icon-assets/filled/general/general-sticker-round.svg",
+        "outline": "icon-assets/outline/general/general-sticker-round.svg"
       }
     },
     {
@@ -3854,8 +3854,8 @@
         "square"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-sticker-square.svg",
-        "filled": "icon-assets/outline/general/general-sticker-square.svg"
+        "filled": "icon-assets/filled/general/general-sticker-square.svg",
+        "outline": "icon-assets/outline/general/general-sticker-square.svg"
       }
     },
     {
@@ -3866,8 +3866,8 @@
         "swatch"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-swatch.svg",
-        "filled": "icon-assets/outline/general/general-swatch.svg"
+        "filled": "icon-assets/filled/general/general-swatch.svg",
+        "outline": "icon-assets/outline/general/general-swatch.svg"
       }
     },
     {
@@ -3878,8 +3878,8 @@
         "table"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-table.svg",
-        "filled": "icon-assets/outline/general/general-table.svg"
+        "filled": "icon-assets/filled/general/general-table.svg",
+        "outline": "icon-assets/outline/general/general-table.svg"
       }
     },
     {
@@ -3903,8 +3903,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-target-alt.svg",
-        "filled": "icon-assets/outline/general/general-target-alt.svg"
+        "filled": "icon-assets/filled/general/general-target-alt.svg",
+        "outline": "icon-assets/outline/general/general-target-alt.svg"
       }
     },
     {
@@ -3915,8 +3915,8 @@
         "toolbox"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-toolbox.svg",
-        "filled": "icon-assets/outline/general/general-toolbox.svg"
+        "filled": "icon-assets/filled/general/general-toolbox.svg",
+        "outline": "icon-assets/outline/general/general-toolbox.svg"
       }
     },
     {
@@ -3928,8 +3928,8 @@
         "light"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-traffic-light.svg",
-        "filled": "icon-assets/outline/general/general-traffic-light.svg"
+        "filled": "icon-assets/filled/general/general-traffic-light.svg",
+        "outline": "icon-assets/outline/general/general-traffic-light.svg"
       }
     },
     {
@@ -3940,8 +3940,8 @@
         "trash"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-trash.svg",
-        "filled": "icon-assets/outline/general/general-trash.svg"
+        "filled": "icon-assets/filled/general/general-trash.svg",
+        "outline": "icon-assets/outline/general/general-trash.svg"
       }
     },
     {
@@ -3953,8 +3953,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-trash-alt.svg",
-        "filled": "icon-assets/outline/general/general-trash-alt.svg"
+        "filled": "icon-assets/filled/general/general-trash-alt.svg",
+        "outline": "icon-assets/outline/general/general-trash-alt.svg"
       }
     },
     {
@@ -3966,8 +3966,8 @@
         "open"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-tray-open.svg",
-        "filled": "icon-assets/outline/general/general-tray-open.svg"
+        "filled": "icon-assets/filled/general/general-tray-open.svg",
+        "outline": "icon-assets/outline/general/general-tray-open.svg"
       }
     },
     {
@@ -3978,8 +3978,8 @@
         "trophy"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-trophy.svg",
-        "filled": "icon-assets/outline/general/general-trophy.svg"
+        "filled": "icon-assets/filled/general/general-trophy.svg",
+        "outline": "icon-assets/outline/general/general-trophy.svg"
       }
     },
     {
@@ -3990,8 +3990,8 @@
         "usb"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-usb.svg",
-        "filled": "icon-assets/outline/general/general-usb.svg"
+        "filled": "icon-assets/filled/general/general-usb.svg",
+        "outline": "icon-assets/outline/general/general-usb.svg"
       }
     },
     {
@@ -4002,8 +4002,8 @@
         "user"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-user.svg",
-        "filled": "icon-assets/outline/general/general-user.svg"
+        "filled": "icon-assets/filled/general/general-user.svg",
+        "outline": "icon-assets/outline/general/general-user.svg"
       }
     },
     {
@@ -4014,8 +4014,8 @@
         "vector"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-vector.svg",
-        "filled": "icon-assets/outline/general/general-vector.svg"
+        "filled": "icon-assets/filled/general/general-vector.svg",
+        "outline": "icon-assets/outline/general/general-vector.svg"
       }
     },
     {
@@ -4026,8 +4026,8 @@
         "video"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-video.svg",
-        "filled": "icon-assets/outline/general/general-video.svg"
+        "filled": "icon-assets/filled/general/general-video.svg",
+        "outline": "icon-assets/outline/general/general-video.svg"
       }
     },
     {
@@ -4039,8 +4039,8 @@
         "camera"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-video-camera.svg",
-        "filled": "icon-assets/outline/general/general-video-camera.svg"
+        "filled": "icon-assets/filled/general/general-video-camera.svg",
+        "outline": "icon-assets/outline/general/general-video-camera.svg"
       }
     },
     {
@@ -4052,8 +4052,8 @@
         "disabled"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-video-disabled.svg",
-        "filled": "icon-assets/outline/general/general-video-disabled.svg"
+        "filled": "icon-assets/filled/general/general-video-disabled.svg",
+        "outline": "icon-assets/outline/general/general-video-disabled.svg"
       }
     },
     {
@@ -4064,8 +4064,8 @@
         "virus"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-virus.svg",
-        "filled": "icon-assets/outline/general/general-virus.svg"
+        "filled": "icon-assets/filled/general/general-virus.svg",
+        "outline": "icon-assets/outline/general/general-virus.svg"
       }
     },
     {
@@ -4077,8 +4077,8 @@
         "command"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-voice-command.svg",
-        "filled": "icon-assets/outline/general/general-voice-command.svg"
+        "filled": "icon-assets/filled/general/general-voice-command.svg",
+        "outline": "icon-assets/outline/general/general-voice-command.svg"
       }
     },
     {
@@ -4090,8 +4090,8 @@
         "drop"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-water-drop.svg",
-        "filled": "icon-assets/outline/general/general-water-drop.svg"
+        "filled": "icon-assets/filled/general/general-water-drop.svg",
+        "outline": "icon-assets/outline/general/general-water-drop.svg"
       }
     },
     {
@@ -4102,8 +4102,8 @@
         "wayfinding"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-wayfinding.svg",
-        "filled": "icon-assets/outline/general/general-wayfinding.svg"
+        "filled": "icon-assets/filled/general/general-wayfinding.svg",
+        "outline": "icon-assets/outline/general/general-wayfinding.svg"
       }
     },
     {
@@ -4114,8 +4114,8 @@
         "wifi"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-wifi.svg",
-        "filled": "icon-assets/outline/general/general-wifi.svg"
+        "filled": "icon-assets/filled/general/general-wifi.svg",
+        "outline": "icon-assets/outline/general/general-wifi.svg"
       }
     },
     {
@@ -4127,8 +4127,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-wifi-alt.svg",
-        "filled": "icon-assets/outline/general/general-wifi-alt.svg"
+        "filled": "icon-assets/filled/general/general-wifi-alt.svg",
+        "outline": "icon-assets/outline/general/general-wifi-alt.svg"
       }
     },
     {
@@ -4140,8 +4140,8 @@
         "disabled"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-wifi-disabled.svg",
-        "filled": "icon-assets/outline/general/general-wifi-disabled.svg"
+        "filled": "icon-assets/filled/general/general-wifi-disabled.svg",
+        "outline": "icon-assets/outline/general/general-wifi-disabled.svg"
       }
     },
     {
@@ -4153,8 +4153,8 @@
         "in"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-zoom-in.svg",
-        "filled": "icon-assets/outline/general/general-zoom-in.svg"
+        "filled": "icon-assets/filled/general/general-zoom-in.svg",
+        "outline": "icon-assets/outline/general/general-zoom-in.svg"
       }
     },
     {
@@ -4166,8 +4166,8 @@
         "out"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-zoom-out.svg",
-        "filled": "icon-assets/outline/general/general-zoom-out.svg"
+        "filled": "icon-assets/filled/general/general-zoom-out.svg",
+        "outline": "icon-assets/outline/general/general-zoom-out.svg"
       }
     },
     {
