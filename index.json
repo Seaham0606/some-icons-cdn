@@ -7,6 +7,1381 @@
   ],
   "icons": [
     {
+      "id": "arrow-diagonal-up-left-down-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "diagonal",
+        "up",
+        "left",
+        "down",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right.svg"
+      }
+    },
+    {
+      "id": "arrow-diagonal-up-left-down-right-1",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "diagonal",
+        "up",
+        "left",
+        "down",
+        "right",
+        "1"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right-1.svg",
+        "filled": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right-1.svg"
+      }
+    },
+    {
+      "id": "arrow-diagonal-up-right-down-left",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "diagonal",
+        "up",
+        "right",
+        "down",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left.svg",
+        "filled": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left.svg"
+      }
+    },
+    {
+      "id": "arrow-diagonal-up-right-down-left-1",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "diagonal",
+        "up",
+        "right",
+        "down",
+        "left",
+        "1"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left-1.svg",
+        "filled": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left-1.svg"
+      }
+    },
+    {
+      "id": "arrow-double-left-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "double",
+        "left",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-double-left-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-double-left-right.svg"
+      }
+    },
+    {
+      "id": "arrow-double-up-down",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "double",
+        "up",
+        "down"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-double-up-down.svg",
+        "filled": "icon-assets/outline/arrow/arrow-double-up-down.svg"
+      }
+    },
+    {
+      "id": "arrow-down",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down.svg"
+      }
+    },
+    {
+      "id": "arrow-down-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-chevron",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "chevron"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-chevron.svg"
+      }
+    },
+    {
+      "id": "arrow-down-chevron-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "chevron",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-chevron-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-chevron-double",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "chevron",
+        "double"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron-double.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-chevron-double.svg"
+      }
+    },
+    {
+      "id": "arrow-down-chevron-double-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "chevron",
+        "double",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron-double-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-chevron-double-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-down-circle-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "circle",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-circle-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-end",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "end"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-end.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-end.svg"
+      }
+    },
+    {
+      "id": "arrow-down-in",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "in"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-in.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-in.svg"
+      }
+    },
+    {
+      "id": "arrow-down-left",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-left.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-left.svg"
+      }
+    },
+    {
+      "id": "arrow-down-left-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "left",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-left-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-left-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-left-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "left",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-left-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-left-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-down-left-circle-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "left",
+        "circle",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-left-circle-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-left-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-left-in",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "left",
+        "in"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-left-in.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-left-in.svg"
+      }
+    },
+    {
+      "id": "arrow-down-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-right.svg"
+      }
+    },
+    {
+      "id": "arrow-down-right-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-right-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-right-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-right-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "right",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-right-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-right-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-down-right-circle-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "right",
+        "circle",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-right-circle-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-right-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-start",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "start"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-start.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-start.svg"
+      }
+    },
+    {
+      "id": "arrow-down-triangle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "triangle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-triangle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-triangle.svg"
+      }
+    },
+    {
+      "id": "arrow-left",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left.svg"
+      }
+    },
+    {
+      "id": "arrow-left-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-left-chevron",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "chevron"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-chevron.svg"
+      }
+    },
+    {
+      "id": "arrow-left-chevron-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "chevron",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-chevron-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-left-chevron-double",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "chevron",
+        "double"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron-double.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-chevron-double.svg"
+      }
+    },
+    {
+      "id": "arrow-left-chevron-double-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "chevron",
+        "double",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron-double-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-chevron-double-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-left-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-left-circle-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "circle",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-circle-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-left-end",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "end"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-end.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-end.svg"
+      }
+    },
+    {
+      "id": "arrow-left-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-right.svg"
+      }
+    },
+    {
+      "id": "arrow-left-right-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-right-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-right-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-left-start",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "start"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-start.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-start.svg"
+      }
+    },
+    {
+      "id": "arrow-left-triangle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "triangle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-triangle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-triangle.svg"
+      }
+    },
+    {
+      "id": "arrow-recycle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "recycle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-recycle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-recycle.svg"
+      }
+    },
+    {
+      "id": "arrow-redo",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "redo"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-redo.svg",
+        "filled": "icon-assets/outline/arrow/arrow-redo.svg"
+      }
+    },
+    {
+      "id": "arrow-redo-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "redo",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-redo-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-redo-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-redo-alt-2",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "redo",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-redo-alt-2.svg",
+        "filled": "icon-assets/outline/arrow/arrow-redo-alt-2.svg"
+      }
+    },
+    {
+      "id": "arrow-redo-alt-2-1",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "redo",
+        "alt",
+        "2",
+        "1"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-redo-alt-2-1.svg",
+        "filled": "icon-assets/outline/arrow/arrow-redo-alt-2-1.svg"
+      }
+    },
+    {
+      "id": "arrow-repeat",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "repeat"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-repeat.svg",
+        "filled": "icon-assets/outline/arrow/arrow-repeat.svg"
+      }
+    },
+    {
+      "id": "arrow-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right.svg"
+      }
+    },
+    {
+      "id": "arrow-right-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-right-chevron",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "chevron"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-chevron.svg"
+      }
+    },
+    {
+      "id": "arrow-right-chevron-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "chevron",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-chevron-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-right-chevron-double",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "chevron",
+        "double"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron-double.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-chevron-double.svg"
+      }
+    },
+    {
+      "id": "arrow-right-chevron-double-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "chevron",
+        "double",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron-double-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-chevron-double-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-right-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-right-circle-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "circle",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-circle-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-right-end",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "end"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-end.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-end.svg"
+      }
+    },
+    {
+      "id": "arrow-right-start",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "start"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-start.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-start.svg"
+      }
+    },
+    {
+      "id": "arrow-right-triangle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "triangle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-triangle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-triangle.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-left",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-left.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-left-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "left",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-left-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-left-alt-2",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "left",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left-alt-2.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-left-alt-2.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-left-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "left",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-left-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-right.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-right-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-right-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-right-alt-2",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "right",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right-alt-2.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-right-alt-2.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-right-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "right",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-right-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-left",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-left.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-left.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-left-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "left",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-left-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-left-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-left-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "left",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-left-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-left-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-left-up",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "left",
+        "up"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-left-up.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-left-up.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-right.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-right-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-right-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-right-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-right-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "right",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-right-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-right-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-right-up",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "right",
+        "up"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-right-up.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-right-up.svg"
+      }
+    },
+    {
+      "id": "arrow-undo",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "undo"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-undo.svg",
+        "filled": "icon-assets/outline/arrow/arrow-undo.svg"
+      }
+    },
+    {
+      "id": "arrow-undo-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "undo",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-undo-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-undo-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-undo-alt-2",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "undo",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-undo-alt-2.svg",
+        "filled": "icon-assets/outline/arrow/arrow-undo-alt-2.svg"
+      }
+    },
+    {
+      "id": "arrow-undo-alt-3",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "undo",
+        "alt",
+        "3"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-undo-alt-3.svg",
+        "filled": "icon-assets/outline/arrow/arrow-undo-alt-3.svg"
+      }
+    },
+    {
+      "id": "arrow-up",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up.svg"
+      }
+    },
+    {
+      "id": "arrow-up-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-chevron",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "chevron"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-chevron.svg"
+      }
+    },
+    {
+      "id": "arrow-up-chevron-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "chevron",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-chevron-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-chevron-double",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "chevron",
+        "double"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron-double.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-chevron-double.svg"
+      }
+    },
+    {
+      "id": "arrow-up-chevron-double-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "chevron",
+        "double",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron-double-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-chevron-double-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-up-circle-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "circle",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-circle-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-down",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "down"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-down.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-down.svg"
+      }
+    },
+    {
+      "id": "arrow-up-down-1",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "down",
+        "1"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-down-1.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-down-1.svg"
+      }
+    },
+    {
+      "id": "arrow-up-end",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "end"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-end.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-end.svg"
+      }
+    },
+    {
+      "id": "arrow-up-left",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-left.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-left.svg"
+      }
+    },
+    {
+      "id": "arrow-up-left-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "left",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-left-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-left-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-left-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "left",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-left-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-left-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-up-left-circle-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "left",
+        "circle",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-left-circle-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-left-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-out",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "out"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-out.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-out.svg"
+      }
+    },
+    {
+      "id": "arrow-up-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-right.svg"
+      }
+    },
+    {
+      "id": "arrow-up-right-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-right-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-right-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-right-circle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "right",
+        "circle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-right-circle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-right-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-up-right-circle-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "right",
+        "circle",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-right-circle-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-right-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-right-out",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "right",
+        "out"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-right-out.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-right-out.svg"
+      }
+    },
+    {
+      "id": "arrow-up-start",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "start"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-start.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-start.svg"
+      }
+    },
+    {
+      "id": "arrow-up-triangle",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "triangle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-triangle.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-triangle.svg"
+      }
+    },
+    {
       "id": "general-airplane",
       "category": "general",
       "tags": [
