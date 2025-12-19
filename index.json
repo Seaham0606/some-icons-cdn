@@ -14,6 +14,7 @@
         "airplane"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-airplane.svg",
         "outline": "icon-assets/outline/general/general-airplane.svg"
       }
     },
@@ -25,6 +26,7 @@
         "anchor"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-anchor.svg",
         "outline": "icon-assets/outline/general/general-anchor.svg"
       }
     },
@@ -36,6 +38,7 @@
         "archive"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-archive.svg",
         "outline": "icon-assets/outline/general/general-archive.svg"
       }
     },
@@ -47,6 +50,7 @@
         "atom"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-atom.svg",
         "outline": "icon-assets/outline/general/general-atom.svg"
       }
     },
@@ -58,6 +62,7 @@
         "attachment"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-attachment.svg",
         "outline": "icon-assets/outline/general/general-attachment.svg"
       }
     },
@@ -69,6 +74,7 @@
         "backspace"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-backspace.svg",
         "outline": "icon-assets/outline/general/general-backspace.svg"
       }
     },
@@ -80,6 +86,7 @@
         "bacteria"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-bacteria.svg",
         "outline": "icon-assets/outline/general/general-bacteria.svg"
       }
     },
@@ -91,6 +98,7 @@
         "badge"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-badge.svg",
         "outline": "icon-assets/outline/general/general-badge.svg"
       }
     },
@@ -102,6 +110,7 @@
         "bandage"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-bandage.svg",
         "outline": "icon-assets/outline/general/general-bandage.svg"
       }
     },
@@ -113,6 +122,7 @@
         "battery"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery.svg",
         "outline": "icon-assets/outline/general/general-battery.svg"
       }
     },
@@ -125,6 +135,7 @@
         "charging"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-charging.svg",
         "outline": "icon-assets/outline/general/general-battery-charging.svg"
       }
     },
@@ -138,6 +149,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-charging-alt.svg",
         "outline": "icon-assets/outline/general/general-battery-charging-alt.svg"
       }
     },
@@ -150,6 +162,7 @@
         "check"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-check.svg",
         "outline": "icon-assets/outline/general/general-battery-check.svg"
       }
     },
@@ -162,6 +175,7 @@
         "dead"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-dead.svg",
         "outline": "icon-assets/outline/general/general-battery-dead.svg"
       }
     },
@@ -175,6 +189,7 @@
         "1"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-level-1.svg",
         "outline": "icon-assets/outline/general/general-battery-level-1.svg"
       }
     },
@@ -188,6 +203,7 @@
         "2"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-level-2.svg",
         "outline": "icon-assets/outline/general/general-battery-level-2.svg"
       }
     },
@@ -201,6 +217,7 @@
         "3"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-level-3.svg",
         "outline": "icon-assets/outline/general/general-battery-level-3.svg"
       }
     },
@@ -214,6 +231,7 @@
         "4"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-level-4.svg",
         "outline": "icon-assets/outline/general/general-battery-level-4.svg"
       }
     },
@@ -227,6 +245,7 @@
         "5"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-level-5.svg",
         "outline": "icon-assets/outline/general/general-battery-level-5.svg"
       }
     },
@@ -239,6 +258,7 @@
         "question"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-question.svg",
         "outline": "icon-assets/outline/general/general-battery-question.svg"
       }
     },
@@ -251,6 +271,7 @@
         "warning"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-battery-warning.svg",
         "outline": "icon-assets/outline/general/general-battery-warning.svg"
       }
     },
@@ -262,6 +283,7 @@
         "bell"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-bell.svg",
         "outline": "icon-assets/outline/general/general-bell.svg"
       }
     },
@@ -274,6 +296,7 @@
         "disabled"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-bell-disabled.svg",
         "outline": "icon-assets/outline/general/general-bell-disabled.svg"
       }
     },
@@ -285,6 +308,7 @@
         "binoculars"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-binoculars.svg",
         "outline": "icon-assets/outline/general/general-binoculars.svg"
       }
     },
@@ -296,6 +320,7 @@
         "biscuit"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-biscuit.svg",
         "outline": "icon-assets/outline/general/general-biscuit.svg"
       }
     },
@@ -307,6 +332,7 @@
         "bluetooth"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-bluetooth.svg",
         "outline": "icon-assets/outline/general/general-bluetooth.svg"
       }
     },
@@ -318,6 +344,7 @@
         "bone"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-bone.svg",
         "outline": "icon-assets/outline/general/general-bone.svg"
       }
     },
@@ -329,6 +356,7 @@
         "book"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-book.svg",
         "outline": "icon-assets/outline/general/general-book.svg"
       }
     },
@@ -341,6 +369,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-book-alt.svg",
         "outline": "icon-assets/outline/general/general-book-alt.svg"
       }
     },
@@ -354,6 +383,7 @@
         "2"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-book-alt-2.svg",
         "outline": "icon-assets/outline/general/general-book-alt-2.svg"
       }
     },
@@ -367,6 +397,7 @@
         "3"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-book-alt-3.svg",
         "outline": "icon-assets/outline/general/general-book-alt-3.svg"
       }
     },
@@ -379,6 +410,7 @@
         "contact"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-book-contact.svg",
         "outline": "icon-assets/outline/general/general-book-contact.svg"
       }
     },
@@ -391,6 +423,7 @@
         "dictionary"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-book-dictionary.svg",
         "outline": "icon-assets/outline/general/general-book-dictionary.svg"
       }
     },
@@ -403,6 +436,7 @@
         "information"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-book-information.svg",
         "outline": "icon-assets/outline/general/general-book-information.svg"
       }
     },
@@ -415,6 +449,7 @@
         "question"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-book-question.svg",
         "outline": "icon-assets/outline/general/general-book-question.svg"
       }
     },
@@ -426,6 +461,7 @@
         "bookmark"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-bookmark.svg",
         "outline": "icon-assets/outline/general/general-bookmark.svg"
       }
     },
@@ -437,6 +473,7 @@
         "briefcase"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-briefcase.svg",
         "outline": "icon-assets/outline/general/general-briefcase.svg"
       }
     },
@@ -449,6 +486,7 @@
         "decrease"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-brightness-decrease.svg",
         "outline": "icon-assets/outline/general/general-brightness-decrease.svg"
       }
     },
@@ -461,6 +499,7 @@
         "increase"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-brightness-increase.svg",
         "outline": "icon-assets/outline/general/general-brightness-increase.svg"
       }
     },
@@ -472,6 +511,7 @@
         "brush"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-brush.svg",
         "outline": "icon-assets/outline/general/general-brush.svg"
       }
     },
@@ -483,6 +523,7 @@
         "bug"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-bug.svg",
         "outline": "icon-assets/outline/general/general-bug.svg"
       }
     },
@@ -494,6 +535,7 @@
         "calendar"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-calendar.svg",
         "outline": "icon-assets/outline/general/general-calendar.svg"
       }
     },
@@ -506,6 +548,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-calendar-alt.svg",
         "outline": "icon-assets/outline/general/general-calendar-alt.svg"
       }
     },
@@ -518,6 +561,7 @@
         "date"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-calendar-date.svg",
         "outline": "icon-assets/outline/general/general-calendar-date.svg"
       }
     },
@@ -529,6 +573,7 @@
         "camera"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-camera.svg",
         "outline": "icon-assets/outline/general/general-camera.svg"
       }
     },
@@ -541,6 +586,7 @@
         "link"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-chain-link.svg",
         "outline": "icon-assets/outline/general/general-chain-link.svg"
       }
     },
@@ -554,6 +600,7 @@
         "broken"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-chain-link-broken.svg",
         "outline": "icon-assets/outline/general/general-chain-link-broken.svg"
       }
     },
@@ -566,6 +613,7 @@
         "wireless"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-charging-wireless.svg",
         "outline": "icon-assets/outline/general/general-charging-wireless.svg"
       }
     },
@@ -578,6 +626,7 @@
         "line"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-chart-line.svg",
         "outline": "icon-assets/outline/general/general-chart-line.svg"
       }
     },
@@ -590,6 +639,7 @@
         "bar"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-charts-bar.svg",
         "outline": "icon-assets/outline/general/general-charts-bar.svg"
       }
     },
@@ -602,6 +652,7 @@
         "pie"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-charts-pie.svg",
         "outline": "icon-assets/outline/general/general-charts-pie.svg"
       }
     },
@@ -614,6 +665,7 @@
         "venn"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-charts-venn.svg",
         "outline": "icon-assets/outline/general/general-charts-venn.svg"
       }
     },
@@ -625,6 +677,7 @@
         "chat"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-chat.svg",
         "outline": "icon-assets/outline/general/general-chat.svg"
       }
     },
@@ -637,6 +690,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-chat-alt.svg",
         "outline": "icon-assets/outline/general/general-chat-alt.svg"
       }
     },
@@ -649,6 +703,7 @@
         "processor"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-chip-processor.svg",
         "outline": "icon-assets/outline/general/general-chip-processor.svg"
       }
     },
@@ -661,6 +716,7 @@
         "line"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-circuit-line.svg",
         "outline": "icon-assets/outline/general/general-circuit-line.svg"
       }
     },
@@ -673,6 +729,7 @@
         "check"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-clipboard-check.svg",
         "outline": "icon-assets/outline/general/general-clipboard-check.svg"
       }
     },
@@ -685,6 +742,7 @@
         "paste"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-clipboard-paste.svg",
         "outline": "icon-assets/outline/general/general-clipboard-paste.svg"
       }
     },
@@ -696,6 +754,7 @@
         "clock"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-clock.svg",
         "outline": "icon-assets/outline/general/general-clock.svg"
       }
     },
@@ -708,6 +767,7 @@
         "alarm"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-clock-alarm.svg",
         "outline": "icon-assets/outline/general/general-clock-alarm.svg"
       }
     },
@@ -720,6 +780,7 @@
         "stopwatch"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-clock-stopwatch.svg",
         "outline": "icon-assets/outline/general/general-clock-stopwatch.svg"
       }
     },
@@ -732,6 +793,7 @@
         "watch"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-clock-watch.svg",
         "outline": "icon-assets/outline/general/general-clock-watch.svg"
       }
     },
@@ -743,6 +805,7 @@
         "command"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-command.svg",
         "outline": "icon-assets/outline/general/general-command.svg"
       }
     },
@@ -754,6 +817,7 @@
         "compass"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-compass.svg",
         "outline": "icon-assets/outline/general/general-compass.svg"
       }
     },
@@ -765,6 +829,7 @@
         "cone"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-cone.svg",
         "outline": "icon-assets/outline/general/general-cone.svg"
       }
     },
@@ -776,6 +841,7 @@
         "copy"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-copy.svg",
         "outline": "icon-assets/outline/general/general-copy.svg"
       }
     },
@@ -787,6 +853,7 @@
         "corner"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-corner.svg",
         "outline": "icon-assets/outline/general/general-corner.svg"
       }
     },
@@ -798,6 +865,7 @@
         "crown"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-crown.svg",
         "outline": "icon-assets/outline/general/general-crown.svg"
       }
     },
@@ -810,6 +878,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-crown-alt.svg",
         "outline": "icon-assets/outline/general/general-crown-alt.svg"
       }
     },
@@ -821,6 +890,7 @@
         "cursor"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-cursor.svg",
         "outline": "icon-assets/outline/general/general-cursor.svg"
       }
     },
@@ -833,6 +903,7 @@
         "click"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-cursor-click.svg",
         "outline": "icon-assets/outline/general/general-cursor-click.svg"
       }
     },
@@ -846,6 +917,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-cursor-click-alt.svg",
         "outline": "icon-assets/outline/general/general-cursor-click-alt.svg"
       }
     },
@@ -858,6 +930,7 @@
         "stack"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-data-stack.svg",
         "outline": "icon-assets/outline/general/general-data-stack.svg"
       }
     },
@@ -869,6 +942,7 @@
         "disc"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-disc.svg",
         "outline": "icon-assets/outline/general/general-disc.svg"
       }
     },
@@ -880,6 +954,7 @@
         "door"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-door.svg",
         "outline": "icon-assets/outline/general/general-door.svg"
       }
     },
@@ -891,6 +966,7 @@
         "ear"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-ear.svg",
         "outline": "icon-assets/outline/general/general-ear.svg"
       }
     },
@@ -902,6 +978,7 @@
         "edit"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-edit.svg",
         "outline": "icon-assets/outline/general/general-edit.svg"
       }
     },
@@ -913,6 +990,7 @@
         "education"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-education.svg",
         "outline": "icon-assets/outline/general/general-education.svg"
       }
     },
@@ -925,6 +1003,7 @@
         "envelope"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-email-envelope.svg",
         "outline": "icon-assets/outline/general/general-email-envelope.svg"
       }
     },
@@ -938,6 +1017,7 @@
         "alt"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-email-envelope-alt.svg",
         "outline": "icon-assets/outline/general/general-email-envelope-alt.svg"
       }
     },
@@ -951,6 +1031,7 @@
         "open"
       ],
       "files": {
+        "filled": "icon-assets/filled/general/general-email-envelope-open.svg",
         "outline": "icon-assets/outline/general/general-email-envelope-open.svg"
       }
     },
