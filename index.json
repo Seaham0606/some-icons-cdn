@@ -19,7 +19,24 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-diagonal-up-left-down-right.svg",
-        "outline": "icon-assets/filled/arrow/arrow-diagonal-up-left-down-right.svg"
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right.svg"
+      }
+    },
+    {
+      "id": "arrow-diagonal-up-left-down-right-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "diagonal",
+        "up",
+        "left",
+        "down",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-diagonal-up-left-down-right-alt.svg"
       }
     },
     {
@@ -35,7 +52,64 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-diagonal-up-right-down-left.svg",
-        "outline": "icon-assets/filled/arrow/arrow-diagonal-up-right-down-left.svg"
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left.svg"
+      }
+    },
+    {
+      "id": "arrow-diagonal-up-right-down-left-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "diagonal",
+        "up",
+        "right",
+        "down",
+        "left",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-diagonal-up-right-down-left-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-double-left-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "double",
+        "left",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-double-left-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-double-left-right.svg"
+      }
+    },
+    {
+      "id": "arrow-double-up-down",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "double",
+        "up",
+        "down"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-double-up-down.svg",
+        "filled": "icon-assets/outline/arrow/arrow-double-up-down.svg"
+      }
+    },
+    {
+      "id": "arrow-down",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down.svg"
       }
     },
     {
@@ -48,7 +122,20 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-chevron",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "chevron"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-chevron.svg"
       }
     },
     {
@@ -62,7 +149,21 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-chevron-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-chevron-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-chevron-double",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "chevron",
+        "double"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron-double.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-chevron-double.svg"
       }
     },
     {
@@ -77,7 +178,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-chevron-double-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-chevron-double-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-chevron-double-alt.svg"
       }
     },
     {
@@ -90,7 +191,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-circle.svg"
       }
     },
     {
@@ -104,7 +205,46 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-circle-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-circle-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-end",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "end"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-end.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-end.svg"
+      }
+    },
+    {
+      "id": "arrow-down-in",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "in"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-in.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-in.svg"
+      }
+    },
+    {
+      "id": "arrow-down-left",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-left.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-left.svg"
       }
     },
     {
@@ -118,7 +258,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-left-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-left-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-left-alt.svg"
       }
     },
     {
@@ -132,7 +272,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-left-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-left-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-left-circle.svg"
       }
     },
     {
@@ -147,7 +287,34 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-left-circle-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-left-circle-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-left-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-left-in",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "left",
+        "in"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-left-in.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-left-in.svg"
+      }
+    },
+    {
+      "id": "arrow-down-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-right.svg"
       }
     },
     {
@@ -161,7 +328,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-right-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-right-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-right-alt.svg"
       }
     },
     {
@@ -175,7 +342,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-right-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-right-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-right-circle.svg"
       }
     },
     {
@@ -190,7 +357,20 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-right-circle-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-right-circle-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-right-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-down-start",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "start"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-start.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-start.svg"
       }
     },
     {
@@ -203,7 +383,19 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-down-triangle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-down-triangle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-down-triangle.svg"
+      }
+    },
+    {
+      "id": "arrow-left",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left.svg"
       }
     },
     {
@@ -216,7 +408,20 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-left-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-left-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-left-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-left-chevron",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "chevron"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-chevron.svg"
       }
     },
     {
@@ -230,7 +435,21 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-left-chevron-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-left-chevron-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-left-chevron-double",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "chevron",
+        "double"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron-double.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-chevron-double.svg"
       }
     },
     {
@@ -245,7 +464,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-left-chevron-double-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-left-chevron-double-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-left-chevron-double-alt.svg"
       }
     },
     {
@@ -258,7 +477,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-left-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-left-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-left-circle.svg"
       }
     },
     {
@@ -272,7 +491,33 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-left-circle-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-left-circle-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-left-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-left-end",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "end"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-end.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-end.svg"
+      }
+    },
+    {
+      "id": "arrow-left-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-right.svg"
       }
     },
     {
@@ -286,7 +531,20 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-left-right-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-left-right-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-left-right-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-left-start",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "left",
+        "start"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-left-start.svg",
+        "filled": "icon-assets/outline/arrow/arrow-left-start.svg"
       }
     },
     {
@@ -299,7 +557,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-left-triangle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-left-triangle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-left-triangle.svg"
       }
     },
     {
@@ -311,7 +569,19 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-recycle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-recycle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-recycle.svg"
+      }
+    },
+    {
+      "id": "arrow-redo",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "redo"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-redo.svg",
+        "filled": "icon-assets/outline/arrow/arrow-redo.svg"
       }
     },
     {
@@ -324,7 +594,59 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-redo-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-redo-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-redo-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-redo-alt-2",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "redo",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-redo-alt-2.svg",
+        "filled": "icon-assets/outline/arrow/arrow-redo-alt-2.svg"
+      }
+    },
+    {
+      "id": "arrow-redo-alt-3",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "redo",
+        "alt",
+        "3"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-redo-alt-3.svg",
+        "filled": "icon-assets/outline/arrow/arrow-redo-alt-3.svg"
+      }
+    },
+    {
+      "id": "arrow-repeat",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "repeat"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-repeat.svg",
+        "filled": "icon-assets/outline/arrow/arrow-repeat.svg"
+      }
+    },
+    {
+      "id": "arrow-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right.svg"
       }
     },
     {
@@ -337,7 +659,20 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-right-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-right-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-right-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-right-chevron",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "chevron"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-chevron.svg"
       }
     },
     {
@@ -351,7 +686,21 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-right-chevron-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-right-chevron-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-right-chevron-double",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "chevron",
+        "double"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron-double.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-chevron-double.svg"
       }
     },
     {
@@ -366,7 +715,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-right-chevron-double-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-right-chevron-double-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-right-chevron-double-alt.svg"
       }
     },
     {
@@ -379,7 +728,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-right-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-right-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-right-circle.svg"
       }
     },
     {
@@ -393,7 +742,33 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-right-circle-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-right-circle-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-right-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-right-end",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "end"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-end.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-end.svg"
+      }
+    },
+    {
+      "id": "arrow-right-start",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "right",
+        "start"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-right-start.svg",
+        "filled": "icon-assets/outline/arrow/arrow-right-start.svg"
       }
     },
     {
@@ -406,7 +781,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-right-triangle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-right-triangle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-right-triangle.svg"
       }
     },
     {
@@ -420,7 +795,38 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-turn-down-left.svg",
-        "outline": "icon-assets/filled/arrow/arrow-turn-down-left.svg"
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-left-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "left",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-left-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-left-alt-2",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "left",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left-alt-2.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-left-alt-2.svg"
       }
     },
     {
@@ -435,7 +841,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-turn-down-left-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-turn-down-left-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-left-circle.svg"
       }
     },
     {
@@ -449,7 +855,38 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-turn-down-right.svg",
-        "outline": "icon-assets/filled/arrow/arrow-turn-down-right.svg"
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-right-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-right-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-down-right-alt-2",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "down",
+        "right",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right-alt-2.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-down-right-alt-2.svg"
       }
     },
     {
@@ -464,7 +901,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-turn-down-right-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-turn-down-right-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-turn-down-right-circle.svg"
       }
     },
     {
@@ -477,7 +914,21 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-turn-left.svg",
-        "outline": "icon-assets/filled/arrow/arrow-turn-left.svg"
+        "outline": "icon-assets/outline/arrow/arrow-turn-left.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-left-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "left",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-left-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-left-alt.svg"
       }
     },
     {
@@ -491,7 +942,21 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-turn-left-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-turn-left-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-turn-left-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-left-up",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "left",
+        "up"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-left-up.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-left-up.svg"
       }
     },
     {
@@ -504,7 +969,21 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-turn-right.svg",
-        "outline": "icon-assets/filled/arrow/arrow-turn-right.svg"
+        "outline": "icon-assets/outline/arrow/arrow-turn-right.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-right-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-right-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-right-alt.svg"
       }
     },
     {
@@ -518,7 +997,33 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-turn-right-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-turn-right-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-turn-right-circle.svg"
+      }
+    },
+    {
+      "id": "arrow-turn-right-up",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "turn",
+        "right",
+        "up"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-turn-right-up.svg",
+        "filled": "icon-assets/outline/arrow/arrow-turn-right-up.svg"
+      }
+    },
+    {
+      "id": "arrow-undo",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "undo"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-undo.svg",
+        "filled": "icon-assets/outline/arrow/arrow-undo.svg"
       }
     },
     {
@@ -531,7 +1036,47 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-undo-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-undo-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-undo-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-undo-alt-2",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "undo",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-undo-alt-2.svg",
+        "filled": "icon-assets/outline/arrow/arrow-undo-alt-2.svg"
+      }
+    },
+    {
+      "id": "arrow-undo-alt-3",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "undo",
+        "alt",
+        "3"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-undo-alt-3.svg",
+        "filled": "icon-assets/outline/arrow/arrow-undo-alt-3.svg"
+      }
+    },
+    {
+      "id": "arrow-up",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up.svg"
       }
     },
     {
@@ -544,7 +1089,20 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-chevron",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "chevron"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-chevron.svg"
       }
     },
     {
@@ -558,7 +1116,21 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-chevron-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-chevron-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-chevron-double",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "chevron",
+        "double"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron-double.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-chevron-double.svg"
       }
     },
     {
@@ -573,7 +1145,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-chevron-double-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-chevron-double-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-chevron-double-alt.svg"
       }
     },
     {
@@ -586,7 +1158,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-circle.svg"
       }
     },
     {
@@ -600,7 +1172,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-circle-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-circle-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-circle-alt.svg"
       }
     },
     {
@@ -613,7 +1185,47 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-down.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-down.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-down.svg"
+      }
+    },
+    {
+      "id": "arrow-up-down-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "down",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-down-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-down-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-end",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "end"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-end.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-end.svg"
+      }
+    },
+    {
+      "id": "arrow-up-left",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-left.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-left.svg"
       }
     },
     {
@@ -627,7 +1239,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-left-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-left-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-left-alt.svg"
       }
     },
     {
@@ -641,7 +1253,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-left-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-left-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-left-circle.svg"
       }
     },
     {
@@ -656,7 +1268,33 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-left-circle-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-left-circle-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-left-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-out",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "out"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-out.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-out.svg"
+      }
+    },
+    {
+      "id": "arrow-up-right",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-right.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-right.svg"
       }
     },
     {
@@ -670,7 +1308,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-right-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-right-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-right-alt.svg"
       }
     },
     {
@@ -684,7 +1322,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-right-circle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-right-circle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-right-circle.svg"
       }
     },
     {
@@ -699,7 +1337,34 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-right-circle-alt.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-right-circle-alt.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-right-circle-alt.svg"
+      }
+    },
+    {
+      "id": "arrow-up-right-out",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "right",
+        "out"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-right-out.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-right-out.svg"
+      }
+    },
+    {
+      "id": "arrow-up-start",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "start"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-start.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-start.svg"
       }
     },
     {
@@ -712,7 +1377,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/arrow/arrow-up-triangle.svg",
-        "outline": "icon-assets/filled/arrow/arrow-up-triangle.svg"
+        "outline": "icon-assets/outline/arrow/arrow-up-triangle.svg"
       }
     },
     {
