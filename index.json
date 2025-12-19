@@ -4178,8 +4178,8 @@
         "cloud"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud.svg"
       }
     },
     {
@@ -4191,8 +4191,8 @@
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-alt.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-alt.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-alt.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-alt.svg"
       }
     },
     {
@@ -4204,8 +4204,8 @@
         "day"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-day.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-day.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-day.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-day.svg"
       }
     },
     {
@@ -4217,8 +4217,8 @@
         "fog"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-fog.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-fog.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-fog.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-fog.svg"
       }
     },
     {
@@ -4231,8 +4231,8 @@
         "day"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-fog-day.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-fog-day.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-fog-day.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-fog-day.svg"
       }
     },
     {
@@ -4245,8 +4245,8 @@
         "night"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-fog-night.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-fog-night.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-fog-night.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-fog-night.svg"
       }
     },
     {
@@ -4258,8 +4258,8 @@
         "hail"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-hail.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-hail.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-hail.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-hail.svg"
       }
     },
     {
@@ -4272,8 +4272,8 @@
         "day"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-hail-day.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-hail-day.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-hail-day.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-hail-day.svg"
       }
     },
     {
@@ -4286,8 +4286,8 @@
         "night"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-hail-night.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-hail-night.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-hail-night.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-hail-night.svg"
       }
     },
     {
@@ -4299,8 +4299,8 @@
         "night"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-night.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-night.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-night.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-night.svg"
       }
     },
     {
@@ -4312,8 +4312,8 @@
         "rain"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain.svg"
       }
     },
     {
@@ -4326,8 +4326,8 @@
         "day"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-day.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-day.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-day.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-day.svg"
       }
     },
     {
@@ -4341,8 +4341,8 @@
         "heavy"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-day-heavy.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-day-heavy.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-day-heavy.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-day-heavy.svg"
       }
     },
     {
@@ -4356,8 +4356,8 @@
         "medium"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-day-medium.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-day-medium.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-day-medium.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-day-medium.svg"
       }
     },
     {
@@ -4371,8 +4371,8 @@
         "thunder"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-day-thunder.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-day-thunder.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-day-thunder.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-day-thunder.svg"
       }
     },
     {
@@ -4385,8 +4385,8 @@
         "heavy"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-heavy.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-heavy.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-heavy.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-heavy.svg"
       }
     },
     {
@@ -4399,8 +4399,8 @@
         "medium"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-medium.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-medium.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-medium.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-medium.svg"
       }
     },
     {
@@ -4413,8 +4413,8 @@
         "night"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-night.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-night.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-night.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-night.svg"
       }
     },
     {
@@ -4428,8 +4428,8 @@
         "heavy"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-night-heavy.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-night-heavy.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-night-heavy.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-night-heavy.svg"
       }
     },
     {
@@ -4443,8 +4443,8 @@
         "medium"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-night-medium.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-night-medium.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-night-medium.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-night-medium.svg"
       }
     },
     {
@@ -4458,8 +4458,8 @@
         "thunder"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-night-thunder.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-night-thunder.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-night-thunder.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-night-thunder.svg"
       }
     },
     {
@@ -4472,8 +4472,8 @@
         "thunder"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-rain-thunder.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-rain-thunder.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-rain-thunder.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-rain-thunder.svg"
       }
     },
     {
@@ -4485,8 +4485,8 @@
         "snow"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-snow.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-snow.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-snow.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-snow.svg"
       }
     },
     {
@@ -4499,8 +4499,8 @@
         "day"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-snow-day.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-snow-day.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-snow-day.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-snow-day.svg"
       }
     },
     {
@@ -4513,8 +4513,8 @@
         "night"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-snow-night.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-snow-night.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-snow-night.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-snow-night.svg"
       }
     },
     {
@@ -4526,8 +4526,8 @@
         "thunder"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-thunder.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-thunder.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-thunder.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-thunder.svg"
       }
     },
     {
@@ -4540,8 +4540,8 @@
         "day"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-thunder-day.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-thunder-day.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-thunder-day.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-thunder-day.svg"
       }
     },
     {
@@ -4554,8 +4554,8 @@
         "night"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-thunder-night.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-thunder-night.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-thunder-night.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-thunder-night.svg"
       }
     },
     {
@@ -4567,8 +4567,8 @@
         "wind"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-wind.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-wind.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-wind.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-wind.svg"
       }
     },
     {
@@ -4581,8 +4581,8 @@
         "day"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-wind-day.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-wind-day.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-wind-day.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-wind-day.svg"
       }
     },
     {
@@ -4595,8 +4595,8 @@
         "night"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-cloud-wind-night.svg",
-        "outline": "icon-assets/outline/weather/weather-cloud-wind-night.svg"
+        "outline": "icon-assets/outline/weather/weather-cloud-wind-night.svg",
+        "filled": "icon-assets/outline/weather/weather-cloud-wind-night.svg"
       }
     },
     {
@@ -4608,8 +4608,8 @@
         "night"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-day-night.svg",
-        "outline": "icon-assets/outline/weather/weather-day-night.svg"
+        "outline": "icon-assets/outline/weather/weather-day-night.svg",
+        "filled": "icon-assets/outline/weather/weather-day-night.svg"
       }
     },
     {
@@ -4622,8 +4622,8 @@
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-day-night-alt.svg",
-        "outline": "icon-assets/outline/weather/weather-day-night-alt.svg"
+        "outline": "icon-assets/outline/weather/weather-day-night-alt.svg",
+        "filled": "icon-assets/outline/weather/weather-day-night-alt.svg"
       }
     },
     {
@@ -4634,8 +4634,8 @@
         "flood"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-flood.svg",
-        "outline": "icon-assets/outline/weather/weather-flood.svg"
+        "outline": "icon-assets/outline/weather/weather-flood.svg",
+        "filled": "icon-assets/outline/weather/weather-flood.svg"
       }
     },
     {
@@ -4646,8 +4646,8 @@
         "half"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-half.svg",
-        "outline": "icon-assets/outline/weather/weather-half.svg"
+        "outline": "icon-assets/outline/weather/weather-half.svg",
+        "filled": "icon-assets/outline/weather/weather-half.svg"
       }
     },
     {
@@ -4658,8 +4658,8 @@
         "lightning"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-lightning.svg",
-        "outline": "icon-assets/outline/weather/weather-lightning.svg"
+        "outline": "icon-assets/outline/weather/weather-lightning.svg",
+        "filled": "icon-assets/outline/weather/weather-lightning.svg"
       }
     },
     {
@@ -4671,8 +4671,8 @@
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-lightning-alt.svg",
-        "outline": "icon-assets/outline/weather/weather-lightning-alt.svg"
+        "outline": "icon-assets/outline/weather/weather-lightning-alt.svg",
+        "filled": "icon-assets/outline/weather/weather-lightning-alt.svg"
       }
     },
     {
@@ -4683,8 +4683,8 @@
         "moon"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-moon.svg",
-        "outline": "icon-assets/outline/weather/weather-moon.svg"
+        "outline": "icon-assets/outline/weather/weather-moon.svg",
+        "filled": "icon-assets/outline/weather/weather-moon.svg"
       }
     },
     {
@@ -4696,8 +4696,8 @@
         "sea"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-moon-sea.svg",
-        "outline": "icon-assets/outline/weather/weather-moon-sea.svg"
+        "outline": "icon-assets/outline/weather/weather-moon-sea.svg",
+        "filled": "icon-assets/outline/weather/weather-moon-sea.svg"
       }
     },
     {
@@ -4709,8 +4709,8 @@
         "star"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-moon-star.svg",
-        "outline": "icon-assets/outline/weather/weather-moon-star.svg"
+        "outline": "icon-assets/outline/weather/weather-moon-star.svg",
+        "filled": "icon-assets/outline/weather/weather-moon-star.svg"
       }
     },
     {
@@ -4721,8 +4721,8 @@
         "rain"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-rain.svg",
-        "outline": "icon-assets/outline/weather/weather-rain.svg"
+        "outline": "icon-assets/outline/weather/weather-rain.svg",
+        "filled": "icon-assets/outline/weather/weather-rain.svg"
       }
     },
     {
@@ -4733,8 +4733,8 @@
         "rainbow"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-rainbow.svg",
-        "outline": "icon-assets/outline/weather/weather-rainbow.svg"
+        "outline": "icon-assets/outline/weather/weather-rainbow.svg",
+        "filled": "icon-assets/outline/weather/weather-rainbow.svg"
       }
     },
     {
@@ -4745,8 +4745,8 @@
         "snow"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-snow.svg",
-        "outline": "icon-assets/outline/weather/weather-snow.svg"
+        "outline": "icon-assets/outline/weather/weather-snow.svg",
+        "filled": "icon-assets/outline/weather/weather-snow.svg"
       }
     },
     {
@@ -4758,8 +4758,8 @@
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-snow-alt.svg",
-        "outline": "icon-assets/outline/weather/weather-snow-alt.svg"
+        "outline": "icon-assets/outline/weather/weather-snow-alt.svg",
+        "filled": "icon-assets/outline/weather/weather-snow-alt.svg"
       }
     },
     {
@@ -4772,8 +4772,8 @@
         "2"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-snow-alt-2.svg",
-        "outline": "icon-assets/outline/weather/weather-snow-alt-2.svg"
+        "outline": "icon-assets/outline/weather/weather-snow-alt-2.svg",
+        "filled": "icon-assets/outline/weather/weather-snow-alt-2.svg"
       }
     },
     {
@@ -4786,8 +4786,8 @@
         "3"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-snow-alt-3.svg",
-        "outline": "icon-assets/outline/weather/weather-snow-alt-3.svg"
+        "outline": "icon-assets/outline/weather/weather-snow-alt-3.svg",
+        "filled": "icon-assets/outline/weather/weather-snow-alt-3.svg"
       }
     },
     {
@@ -4798,8 +4798,8 @@
         "sun"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-sun.svg",
-        "outline": "icon-assets/outline/weather/weather-sun.svg"
+        "outline": "icon-assets/outline/weather/weather-sun.svg",
+        "filled": "icon-assets/outline/weather/weather-sun.svg"
       }
     },
     {
@@ -4811,8 +4811,8 @@
         "sea"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-sun-sea.svg",
-        "outline": "icon-assets/outline/weather/weather-sun-sea.svg"
+        "outline": "icon-assets/outline/weather/weather-sun-sea.svg",
+        "filled": "icon-assets/outline/weather/weather-sun-sea.svg"
       }
     },
     {
@@ -4823,8 +4823,8 @@
         "sunrise"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-sunrise.svg",
-        "outline": "icon-assets/outline/weather/weather-sunrise.svg"
+        "outline": "icon-assets/outline/weather/weather-sunrise.svg",
+        "filled": "icon-assets/outline/weather/weather-sunrise.svg"
       }
     },
     {
@@ -4835,8 +4835,8 @@
         "sunset"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-sunset.svg",
-        "outline": "icon-assets/outline/weather/weather-sunset.svg"
+        "outline": "icon-assets/outline/weather/weather-sunset.svg",
+        "filled": "icon-assets/outline/weather/weather-sunset.svg"
       }
     },
     {
@@ -4848,8 +4848,8 @@
         "celcius"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-temperature-celcius.svg",
-        "outline": "icon-assets/outline/weather/weather-temperature-celcius.svg"
+        "outline": "icon-assets/outline/weather/weather-temperature-celcius.svg",
+        "filled": "icon-assets/outline/weather/weather-temperature-celcius.svg"
       }
     },
     {
@@ -4861,8 +4861,8 @@
         "decrease"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-temperature-decrease.svg",
-        "outline": "icon-assets/outline/weather/weather-temperature-decrease.svg"
+        "outline": "icon-assets/outline/weather/weather-temperature-decrease.svg",
+        "filled": "icon-assets/outline/weather/weather-temperature-decrease.svg"
       }
     },
     {
@@ -4874,8 +4874,8 @@
         "fahrenheit"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-temperature-fahrenheit.svg",
-        "outline": "icon-assets/outline/weather/weather-temperature-fahrenheit.svg"
+        "outline": "icon-assets/outline/weather/weather-temperature-fahrenheit.svg",
+        "filled": "icon-assets/outline/weather/weather-temperature-fahrenheit.svg"
       }
     },
     {
@@ -4887,8 +4887,8 @@
         "high"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-temperature-high.svg",
-        "outline": "icon-assets/outline/weather/weather-temperature-high.svg"
+        "outline": "icon-assets/outline/weather/weather-temperature-high.svg",
+        "filled": "icon-assets/outline/weather/weather-temperature-high.svg"
       }
     },
     {
@@ -4900,8 +4900,8 @@
         "increase"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-temperature-increase.svg",
-        "outline": "icon-assets/outline/weather/weather-temperature-increase.svg"
+        "outline": "icon-assets/outline/weather/weather-temperature-increase.svg",
+        "filled": "icon-assets/outline/weather/weather-temperature-increase.svg"
       }
     },
     {
@@ -4913,8 +4913,8 @@
         "low"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-temperature_low.svg",
-        "outline": "icon-assets/outline/weather/weather-temperature_low.svg"
+        "outline": "icon-assets/outline/weather/weather-temperature_low.svg",
+        "filled": "icon-assets/outline/weather/weather-temperature_low.svg"
       }
     },
     {
@@ -4926,8 +4926,8 @@
         "medium"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-temperature-medium.svg",
-        "outline": "icon-assets/outline/weather/weather-temperature-medium.svg"
+        "outline": "icon-assets/outline/weather/weather-temperature-medium.svg",
+        "filled": "icon-assets/outline/weather/weather-temperature-medium.svg"
       }
     },
     {
@@ -4938,8 +4938,8 @@
         "tornado"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-tornado.svg",
-        "outline": "icon-assets/outline/weather/weather-tornado.svg"
+        "outline": "icon-assets/outline/weather/weather-tornado.svg",
+        "filled": "icon-assets/outline/weather/weather-tornado.svg"
       }
     },
     {
@@ -4950,8 +4950,8 @@
         "typhoon"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-typhoon.svg",
-        "outline": "icon-assets/outline/weather/weather-typhoon.svg"
+        "outline": "icon-assets/outline/weather/weather-typhoon.svg",
+        "filled": "icon-assets/outline/weather/weather-typhoon.svg"
       }
     },
     {
@@ -4963,8 +4963,8 @@
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-typhoon-alt.svg",
-        "outline": "icon-assets/outline/weather/weather-typhoon-alt.svg"
+        "outline": "icon-assets/outline/weather/weather-typhoon-alt.svg",
+        "filled": "icon-assets/outline/weather/weather-typhoon-alt.svg"
       }
     },
     {
@@ -4975,8 +4975,8 @@
         "umbrella"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-umbrella.svg",
-        "outline": "icon-assets/outline/weather/weather-umbrella.svg"
+        "outline": "icon-assets/outline/weather/weather-umbrella.svg",
+        "filled": "icon-assets/outline/weather/weather-umbrella.svg"
       }
     },
     {
@@ -4987,8 +4987,8 @@
         "wind"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-wind.svg",
-        "outline": "icon-assets/outline/weather/weather-wind.svg"
+        "outline": "icon-assets/outline/weather/weather-wind.svg",
+        "filled": "icon-assets/outline/weather/weather-wind.svg"
       }
     },
     {
@@ -5000,8 +5000,8 @@
         "vane"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-wind-vane.svg",
-        "outline": "icon-assets/outline/weather/weather-wind-vane.svg"
+        "outline": "icon-assets/outline/weather/weather-wind-vane.svg",
+        "filled": "icon-assets/outline/weather/weather-wind-vane.svg"
       }
     }
   ]
