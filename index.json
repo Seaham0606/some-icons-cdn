@@ -1910,8 +1910,8 @@
         "radio"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-button-radio.svg",
-        "filled": "icon-assets/outline/general/general-button-radio.svg"
+        "filled": "icon-assets/filled/general/general-button-radio.svg",
+        "outline": "icon-assets/outline/general/general-button-radio.svg"
       }
     },
     {
@@ -1924,8 +1924,8 @@
         "selected"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-button-radio-selected.svg",
-        "filled": "icon-assets/outline/general/general-button-radio-selected.svg"
+        "filled": "icon-assets/filled/general/general-button-radio-selected.svg",
+        "outline": "icon-assets/outline/general/general-button-radio-selected.svg"
       }
     },
     {
