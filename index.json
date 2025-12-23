@@ -1902,6 +1902,33 @@
       }
     },
     {
+      "id": "general-button-radio",
+      "category": "general",
+      "tags": [
+        "general",
+        "button",
+        "radio"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-button-radio.svg",
+        "filled": "icon-assets/outline/general/general-button-radio.svg"
+      }
+    },
+    {
+      "id": "general-button-radio-selected",
+      "category": "general",
+      "tags": [
+        "general",
+        "button",
+        "radio",
+        "selected"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-button-radio-selected.svg",
+        "filled": "icon-assets/outline/general/general-button-radio-selected.svg"
+      }
+    },
+    {
       "id": "general-calendar",
       "category": "general",
       "tags": [
