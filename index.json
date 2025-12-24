@@ -235,6 +235,20 @@
       }
     },
     {
+      "id": "arrow-down-in-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "down",
+        "in",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-down-in-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-down-in-alt.svg"
+      }
+    },
+    {
       "id": "arrow-down-left",
       "category": "arrow",
       "tags": [
@@ -1282,6 +1296,20 @@
       "files": {
         "outline": "icon-assets/outline/arrow/arrow-up-out.svg",
         "filled": "icon-assets/outline/arrow/arrow-up-out.svg"
+      }
+    },
+    {
+      "id": "arrow-up-out-alt",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "up",
+        "out",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-up-out-alt.svg",
+        "filled": "icon-assets/outline/arrow/arrow-up-out-alt.svg"
       }
     },
     {
