@@ -4234,8 +4234,8 @@
         "cube"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-3d-cube.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-3d-cube.svg"
+        "outline": "icon-assets/outline/shapes/shape-3d-cube.svg",
+        "filled": "icon-assets/outline/shapes/shape-3d-cube.svg"
       }
     },
     {
@@ -4249,8 +4249,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-3d-cube-alt.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-3d-cube-alt.svg"
+        "outline": "icon-assets/outline/shapes/shape-3d-cube-alt.svg",
+        "filled": "icon-assets/outline/shapes/shape-3d-cube-alt.svg"
       }
     },
     {
@@ -4263,8 +4263,8 @@
         "cylinder"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-3d-cylinder.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-3d-cylinder.svg"
+        "outline": "icon-assets/outline/shapes/shape-3d-cylinder.svg",
+        "filled": "icon-assets/outline/shapes/shape-3d-cylinder.svg"
       }
     },
     {
@@ -4277,8 +4277,8 @@
         "tetrahendron"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-3d-tetrahendron.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-3d-tetrahendron.svg"
+        "outline": "icon-assets/outline/shapes/shape-3d-tetrahendron.svg",
+        "filled": "icon-assets/outline/shapes/shape-3d-tetrahendron.svg"
       }
     },
     {
@@ -4290,8 +4290,8 @@
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-circle.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-circle.svg"
+        "outline": "icon-assets/outline/shapes/shape-circle.svg",
+        "filled": "icon-assets/outline/shapes/shape-circle.svg"
       }
     },
     {
@@ -4303,8 +4303,8 @@
         "club"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-club.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-club.svg"
+        "outline": "icon-assets/outline/shapes/shape-club.svg",
+        "filled": "icon-assets/outline/shapes/shape-club.svg"
       }
     },
     {
@@ -4316,8 +4316,8 @@
         "diamond"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-diamond.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-diamond.svg"
+        "outline": "icon-assets/outline/shapes/shape-diamond.svg",
+        "filled": "icon-assets/outline/shapes/shape-diamond.svg"
       }
     },
     {
@@ -4329,8 +4329,8 @@
         "heart"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-heart.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-heart.svg"
+        "outline": "icon-assets/outline/shapes/shape-heart.svg",
+        "filled": "icon-assets/outline/shapes/shape-heart.svg"
       }
     },
     {
@@ -4342,8 +4342,8 @@
         "hexagon"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-hexagon.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-hexagon.svg"
+        "outline": "icon-assets/outline/shapes/shape-hexagon.svg",
+        "filled": "icon-assets/outline/shapes/shape-hexagon.svg"
       }
     },
     {
@@ -4355,8 +4355,8 @@
         "octagon"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-octagon.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-octagon.svg"
+        "outline": "icon-assets/outline/shapes/shape-octagon.svg",
+        "filled": "icon-assets/outline/shapes/shape-octagon.svg"
       }
     },
     {
@@ -4368,8 +4368,8 @@
         "oval"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-oval.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-oval.svg"
+        "outline": "icon-assets/outline/shapes/shape-oval.svg",
+        "filled": "icon-assets/outline/shapes/shape-oval.svg"
       }
     },
     {
@@ -4381,8 +4381,8 @@
         "parallelogram"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-parallelogram.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-parallelogram.svg"
+        "outline": "icon-assets/outline/shapes/shape-parallelogram.svg",
+        "filled": "icon-assets/outline/shapes/shape-parallelogram.svg"
       }
     },
     {
@@ -4394,8 +4394,8 @@
         "pentagon"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-pentagon.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-pentagon.svg"
+        "outline": "icon-assets/outline/shapes/shape-pentagon.svg",
+        "filled": "icon-assets/outline/shapes/shape-pentagon.svg"
       }
     },
     {
@@ -4407,8 +4407,8 @@
         "rhombus"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-rhombus.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-rhombus.svg"
+        "outline": "icon-assets/outline/shapes/shape-rhombus.svg",
+        "filled": "icon-assets/outline/shapes/shape-rhombus.svg"
       }
     },
     {
@@ -4421,8 +4421,8 @@
         "rectangle"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-rounded-rectangle.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-rounded-rectangle.svg"
+        "outline": "icon-assets/outline/shapes/shape-rounded-rectangle.svg",
+        "filled": "icon-assets/outline/shapes/shape-rounded-rectangle.svg"
       }
     },
     {
@@ -4434,8 +4434,8 @@
         "spade"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-spade.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-spade.svg"
+        "outline": "icon-assets/outline/shapes/shape-spade.svg",
+        "filled": "icon-assets/outline/shapes/shape-spade.svg"
       }
     },
     {
@@ -4447,8 +4447,8 @@
         "square"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-square.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-square.svg"
+        "outline": "icon-assets/outline/shapes/shape-square.svg",
+        "filled": "icon-assets/outline/shapes/shape-square.svg"
       }
     },
     {
@@ -4460,8 +4460,8 @@
         "squircle"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-squircle.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-squircle.svg"
+        "outline": "icon-assets/outline/shapes/shape-squircle.svg",
+        "filled": "icon-assets/outline/shapes/shape-squircle.svg"
       }
     },
     {
@@ -4473,8 +4473,8 @@
         "star"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-star.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-star.svg"
+        "outline": "icon-assets/outline/shapes/shape-star.svg",
+        "filled": "icon-assets/outline/shapes/shape-star.svg"
       }
     },
     {
@@ -4487,8 +4487,8 @@
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-star-alt.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-star-alt.svg"
+        "outline": "icon-assets/outline/shapes/shape-star-alt.svg",
+        "filled": "icon-assets/outline/shapes/shape-star-alt.svg"
       }
     },
     {
@@ -4500,8 +4500,8 @@
         "trapezoid"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-trapezoid.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-trapezoid.svg"
+        "outline": "icon-assets/outline/shapes/shape-trapezoid.svg",
+        "filled": "icon-assets/outline/shapes/shape-trapezoid.svg"
       }
     },
     {
@@ -4513,8 +4513,8 @@
         "triangle"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/category/shape-triangle.svg",
-        "filled": "icon-assets/outline/shapes/category/shape-triangle.svg"
+        "outline": "icon-assets/outline/shapes/shape-triangle.svg",
+        "filled": "icon-assets/outline/shapes/shape-triangle.svg"
       }
     },
     {
