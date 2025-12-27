@@ -2136,6 +2136,33 @@
       }
     },
     {
+      "id": "general-check-circle",
+      "category": "general",
+      "tags": [
+        "general",
+        "check",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-check-circle.svg",
+        "outline": "icon-assets/outline/general/general-check-circle.svg"
+      }
+    },
+    {
+      "id": "general-check-circle-1",
+      "category": "general",
+      "tags": [
+        "general",
+        "check",
+        "circle",
+        "1"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-check-circle-1.svg",
+        "filled": "icon-assets/outline/general/general-check-circle-1.svg"
+      }
+    },
+    {
       "id": "general-check-mark",
       "category": "general",
       "tags": [
@@ -4886,6 +4913,422 @@
       "files": {
         "filled": "icon-assets/filled/shape/shape-triangle.svg",
         "outline": "icon-assets/outline/shape/shape-triangle.svg"
+      }
+    },
+    {
+      "id": "symbol-",
+      "category": "symbol",
+      "tags": [
+        "symbol"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-.svg",
+        "outline": "icon-assets/outline/symbol/symbol-.svg"
+      }
+    },
+    {
+      "id": "symbol-copyright",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "copyright"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-copyright.svg",
+        "outline": "icon-assets/outline/symbol/symbol-copyright.svg"
+      }
+    },
+    {
+      "id": "symbol-currency-bitcoin",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "currency",
+        "bitcoin"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-currency-bitcoin.svg",
+        "outline": "icon-assets/outline/symbol/symbol-currency-bitcoin.svg"
+      }
+    },
+    {
+      "id": "symbol-currency-dollar",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "currency",
+        "dollar"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-currency-dollar.svg",
+        "outline": "icon-assets/outline/symbol/symbol-currency-dollar.svg"
+      }
+    },
+    {
+      "id": "symbol-currency-euro",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "currency",
+        "euro"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-currency-euro.svg",
+        "outline": "icon-assets/outline/symbol/symbol-currency-euro.svg"
+      }
+    },
+    {
+      "id": "symbol-currency-pound",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "currency",
+        "pound"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-currency-pound.svg",
+        "outline": "icon-assets/outline/symbol/symbol-currency-pound.svg"
+      }
+    },
+    {
+      "id": "symbol-currency-rupee",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "currency",
+        "rupee"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-currency-rupee.svg",
+        "outline": "icon-assets/outline/symbol/symbol-currency-rupee.svg"
+      }
+    },
+    {
+      "id": "symbol-currency-yen-yuan",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "currency",
+        "yen",
+        "yuan"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-currency-yen-yuan.svg",
+        "outline": "icon-assets/outline/symbol/symbol-currency-yen-yuan.svg"
+      }
+    },
+    {
+      "id": "symbol-divide",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "divide"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-divide.svg",
+        "outline": "icon-assets/outline/symbol/symbol-divide.svg"
+      }
+    },
+    {
+      "id": "symbol-divide-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "divide",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-divide-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-divide-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-equal",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "equal"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-equal.svg",
+        "outline": "icon-assets/outline/symbol/symbol-equal.svg"
+      }
+    },
+    {
+      "id": "symbol-equal-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "equal",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-equal-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-equal-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-greater",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "greater"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-greater.svg",
+        "outline": "icon-assets/outline/symbol/symbol-greater.svg"
+      }
+    },
+    {
+      "id": "symbol-greater-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "greater",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-greater-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-greater-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-hashtag-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "hashtag",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-hashtag-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-hashtag-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-infinity",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "infinity"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/symbol/symbol-infinity.svg",
+        "filled": "icon-assets/outline/symbol/symbol-infinity.svg"
+      }
+    },
+    {
+      "id": "symbol-infinity-alt",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "infinity",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-infinity_alt.svg",
+        "outline": "icon-assets/outline/symbol/symbol-infinity_alt.svg"
+      }
+    },
+    {
+      "id": "symbol-less",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "less"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-less.svg",
+        "outline": "icon-assets/outline/symbol/symbol-less.svg"
+      }
+    },
+    {
+      "id": "symbol-less-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "less",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-less-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-less-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-minus",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "minus"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-minus.svg",
+        "outline": "icon-assets/outline/symbol/symbol-minus.svg"
+      }
+    },
+    {
+      "id": "symbol-minus-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "minus",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-minus-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-minus-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-multiply",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "multiply"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-multiply.svg",
+        "outline": "icon-assets/outline/symbol/symbol-multiply.svg"
+      }
+    },
+    {
+      "id": "symbol-multiply-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "multiply",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-multiply-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-multiply-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-percentage",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "percentage"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-percentage.svg",
+        "outline": "icon-assets/outline/symbol/symbol-percentage.svg"
+      }
+    },
+    {
+      "id": "symbol-pi",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "pi"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-pi.svg",
+        "outline": "icon-assets/outline/symbol/symbol-pi.svg"
+      }
+    },
+    {
+      "id": "symbol-pi-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "pi",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-pi-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-pi-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-plus",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "plus"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-plus.svg",
+        "outline": "icon-assets/outline/symbol/symbol-plus.svg"
+      }
+    },
+    {
+      "id": "symbol-plus-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "plus",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-plus-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-plus-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-plus-minus",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "plus",
+        "minus"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-plus-minus.svg",
+        "outline": "icon-assets/outline/symbol/symbol-plus-minus.svg"
+      }
+    },
+    {
+      "id": "symbol-plus-minus-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "plus",
+        "minus",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-plus-minus-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-plus-minus-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-registered",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "registered"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-registered.svg",
+        "outline": "icon-assets/outline/symbol/symbol-registered.svg"
+      }
+    },
+    {
+      "id": "symbol-root-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "root",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-root-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-root-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-sigma",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "sigma"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-sigma.svg",
+        "outline": "icon-assets/outline/symbol/symbol-sigma.svg"
       }
     },
     {
