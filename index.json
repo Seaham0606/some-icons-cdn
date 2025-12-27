@@ -2149,20 +2149,6 @@
       }
     },
     {
-      "id": "general-check-circle-1",
-      "category": "general",
-      "tags": [
-        "general",
-        "check",
-        "circle",
-        "1"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-check-circle-1.svg",
-        "filled": "icon-assets/outline/general/general-check-circle-1.svg"
-      }
-    },
-    {
       "id": "general-check-mark",
       "category": "general",
       "tags": [
