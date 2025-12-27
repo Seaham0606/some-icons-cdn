@@ -2124,6 +2124,19 @@
       }
     },
     {
+      "id": "general-check-mark",
+      "category": "general",
+      "tags": [
+        "general",
+        "check",
+        "mark"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-check-mark.svg",
+        "outline": "icon-assets/outline/general/general-check-mark.svg"
+      }
+    },
+    {
       "id": "general-chip-processor",
       "category": "general",
       "tags": [
@@ -2173,6 +2186,19 @@
       "files": {
         "filled": "icon-assets/filled/general/general-clipboard-paste.svg",
         "outline": "icon-assets/outline/general/general-clipboard-paste.svg"
+      }
+    },
+    {
+      "id": "general-clipboard-warning",
+      "category": "general",
+      "tags": [
+        "general",
+        "clipboard",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-clipboard-warning.svg",
+        "outline": "icon-assets/outline/general/general-clipboard-warning.svg"
       }
     },
     {
@@ -2284,6 +2310,32 @@
       "files": {
         "filled": "icon-assets/filled/general/general-corner.svg",
         "outline": "icon-assets/outline/general/general-corner.svg"
+      }
+    },
+    {
+      "id": "general-cross-octagon",
+      "category": "general",
+      "tags": [
+        "general",
+        "cross",
+        "octagon"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-cross-octagon.svg",
+        "outline": "icon-assets/outline/general/general-cross-octagon.svg"
+      }
+    },
+    {
+      "id": "general-crossbones-poison",
+      "category": "general",
+      "tags": [
+        "general",
+        "crossbones",
+        "poison"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-crossbones-poison.svg",
+        "outline": "icon-assets/outline/general/general-crossbones-poison.svg"
       }
     },
     {
@@ -2424,6 +2476,32 @@
       }
     },
     {
+      "id": "general-ellipsis-horizontal",
+      "category": "general",
+      "tags": [
+        "general",
+        "ellipsis",
+        "horizontal"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-ellipsis-horizontal.svg",
+        "outline": "icon-assets/outline/general/general-ellipsis-horizontal.svg"
+      }
+    },
+    {
+      "id": "general-ellipsis-vertical",
+      "category": "general",
+      "tags": [
+        "general",
+        "ellipsis",
+        "vertical"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-ellipsis-vertical.svg",
+        "outline": "icon-assets/outline/general/general-ellipsis-vertical.svg"
+      }
+    },
+    {
       "id": "general-email-envelope",
       "category": "general",
       "tags": [
@@ -2462,6 +2540,33 @@
       "files": {
         "filled": "icon-assets/filled/general/general-email-envelope-open.svg",
         "outline": "icon-assets/outline/general/general-email-envelope-open.svg"
+      }
+    },
+    {
+      "id": "general-exclamation-mark",
+      "category": "general",
+      "tags": [
+        "general",
+        "exclamation",
+        "mark"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-exclamation-mark.svg",
+        "outline": "icon-assets/outline/general/general-exclamation-mark.svg"
+      }
+    },
+    {
+      "id": "general-exclamation-mark-double",
+      "category": "general",
+      "tags": [
+        "general",
+        "exclamation",
+        "mark",
+        "double"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-exclamation-mark-double.svg",
+        "outline": "icon-assets/outline/general/general-exclamation-mark-double.svg"
       }
     },
     {
@@ -2644,6 +2749,19 @@
       }
     },
     {
+      "id": "general-general-exclamation-tripple",
+      "category": "general",
+      "tags": [
+        "general",
+        "exclamation",
+        "tripple"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-general-exclamation-tripple.svg",
+        "outline": "icon-assets/outline/general/general-general-exclamation-tripple.svg"
+      }
+    },
+    {
       "id": "general-general-location-pin-map",
       "category": "general",
       "tags": [
@@ -2670,6 +2788,19 @@
       "files": {
         "filled": "icon-assets/filled/general/general-general-location-pin-map-alt.svg",
         "outline": "icon-assets/outline/general/general-general-location-pin-map-alt.svg"
+      }
+    },
+    {
+      "id": "general-glass-fragile",
+      "category": "general",
+      "tags": [
+        "general",
+        "glass",
+        "fragile"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-glass-fragile.svg",
+        "outline": "icon-assets/outline/general/general-glass-fragile.svg"
       }
     },
     {
@@ -2770,6 +2901,19 @@
       "files": {
         "filled": "icon-assets/filled/general/general-identification-card.svg",
         "outline": "icon-assets/outline/general/general-identification-card.svg"
+      }
+    },
+    {
+      "id": "general-information-circle",
+      "category": "general",
+      "tags": [
+        "general",
+        "information",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-information-circle.svg",
+        "outline": "icon-assets/outline/general/general-information-circle.svg"
       }
     },
     {
@@ -2978,6 +3122,20 @@
       }
     },
     {
+      "id": "general-location-pin-check",
+      "category": "general",
+      "tags": [
+        "general",
+        "location",
+        "pin",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-location-pin-check.svg",
+        "outline": "icon-assets/outline/general/general-location-pin-check.svg"
+      }
+    },
+    {
       "id": "general-location-pin-delete",
       "category": "general",
       "tags": [
@@ -2989,6 +3147,34 @@
       "files": {
         "filled": "icon-assets/filled/general/general-location-pin-delete.svg",
         "outline": "icon-assets/outline/general/general-location-pin-delete.svg"
+      }
+    },
+    {
+      "id": "general-location-pin-minus",
+      "category": "general",
+      "tags": [
+        "general",
+        "location",
+        "pin",
+        "minus"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-location-pin-minus.svg",
+        "outline": "icon-assets/outline/general/general-location-pin-minus.svg"
+      }
+    },
+    {
+      "id": "general-location-pin-question",
+      "category": "general",
+      "tags": [
+        "general",
+        "location",
+        "pin",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-location-pin-question.svg",
+        "outline": "icon-assets/outline/general/general-location-pin-question.svg"
       }
     },
     {
@@ -3341,6 +3527,32 @@
       }
     },
     {
+      "id": "general-question-circle",
+      "category": "general",
+      "tags": [
+        "general",
+        "question",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-question-circle.svg",
+        "outline": "icon-assets/outline/general/general-question-circle.svg"
+      }
+    },
+    {
+      "id": "general-question-mark",
+      "category": "general",
+      "tags": [
+        "general",
+        "question",
+        "mark"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-question-mark.svg",
+        "outline": "icon-assets/outline/general/general-question-mark.svg"
+      }
+    },
+    {
       "id": "general-radar-scan",
       "category": "general",
       "tags": [
@@ -3405,6 +3617,19 @@
       "files": {
         "filled": "icon-assets/filled/general/general-radio.svg",
         "outline": "icon-assets/outline/general/general-radio.svg"
+      }
+    },
+    {
+      "id": "general-radioactive-nuclear",
+      "category": "general",
+      "tags": [
+        "general",
+        "radioactive",
+        "nuclear"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-radioactive-nuclear.svg",
+        "outline": "icon-assets/outline/general/general-radioactive-nuclear.svg"
       }
     },
     {
@@ -3644,6 +3869,19 @@
       }
     },
     {
+      "id": "general-sheild-info",
+      "category": "general",
+      "tags": [
+        "general",
+        "sheild",
+        "info"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-sheild-info.svg",
+        "outline": "icon-assets/outline/general/general-sheild-info.svg"
+      }
+    },
+    {
       "id": "general-shredder",
       "category": "general",
       "tags": [
@@ -3730,6 +3968,19 @@
       "files": {
         "filled": "icon-assets/filled/general/general-sim-card.svg",
         "outline": "icon-assets/outline/general/general-sim-card.svg"
+      }
+    },
+    {
+      "id": "general-skull-poison",
+      "category": "general",
+      "tags": [
+        "general",
+        "skull",
+        "poison"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-skull-poison.svg",
+        "outline": "icon-assets/outline/general/general-skull-poison.svg"
       }
     },
     {
@@ -3910,6 +4161,58 @@
       "files": {
         "filled": "icon-assets/filled/general/general-sticker-square.svg",
         "outline": "icon-assets/outline/general/general-sticker-square.svg"
+      }
+    },
+    {
+      "id": "general-stop",
+      "category": "general",
+      "tags": [
+        "general",
+        "stop"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-stop.svg",
+        "filled": "icon-assets/outline/general/general-stop.svg"
+      }
+    },
+    {
+      "id": "general-stop-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "stop",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-stop-alt.svg",
+        "outline": "icon-assets/outline/general/general-stop-alt.svg"
+      }
+    },
+    {
+      "id": "general-stop-diagonal",
+      "category": "general",
+      "tags": [
+        "general",
+        "stop",
+        "diagonal"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-stop-diagonal.svg",
+        "filled": "icon-assets/outline/general/general-stop-diagonal.svg"
+      }
+    },
+    {
+      "id": "general-stop-diagonal-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "stop",
+        "diagonal",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-stop-diagonal-alt.svg",
+        "outline": "icon-assets/outline/general/general-stop-diagonal-alt.svg"
       }
     },
     {
@@ -4133,6 +4436,70 @@
       "files": {
         "filled": "icon-assets/filled/general/general-voice-command.svg",
         "outline": "icon-assets/outline/general/general-voice-command.svg"
+      }
+    },
+    {
+      "id": "general-warning",
+      "category": "general",
+      "tags": [
+        "general",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-warning.svg",
+        "outline": "icon-assets/outline/general/general-warning.svg"
+      }
+    },
+    {
+      "id": "general-warning-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "warning",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-warning-alt.svg",
+        "outline": "icon-assets/outline/general/general-warning-alt.svg"
+      }
+    },
+    {
+      "id": "general-warning-circle",
+      "category": "general",
+      "tags": [
+        "general",
+        "warning",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-warning-circle.svg",
+        "outline": "icon-assets/outline/general/general-warning-circle.svg"
+      }
+    },
+    {
+      "id": "general-warning-electricity",
+      "category": "general",
+      "tags": [
+        "general",
+        "warning",
+        "electricity"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-warning-electricity.svg",
+        "outline": "icon-assets/outline/general/general-warning-electricity.svg"
+      }
+    },
+    {
+      "id": "general-warning-octagon",
+      "category": "general",
+      "tags": [
+        "general",
+        "warning",
+        "octagon"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-warning-octagon.svg",
+        "outline": "icon-assets/outline/general/general-warning-octagon.svg"
       }
     },
     {
