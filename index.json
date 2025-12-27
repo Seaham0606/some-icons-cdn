@@ -1957,6 +1957,18 @@
       }
     },
     {
+      "id": "general-calculation",
+      "category": "general",
+      "tags": [
+        "general",
+        "calculation"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-calculation.svg",
+        "outline": "icon-assets/outline/general/general-calculation.svg"
+      }
+    },
+    {
       "id": "general-calendar",
       "category": "general",
       "tags": [
@@ -4593,295 +4605,287 @@
     },
     {
       "id": "shape-3d-cube",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "3d",
         "cube"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-3d-cube.svg",
-        "filled": "icon-assets/outline/shapes/shape-3d-cube.svg"
+        "filled": "icon-assets/filled/shape/shape-3d-cube.svg",
+        "outline": "icon-assets/outline/shape/shape-3d-cube.svg"
       }
     },
     {
       "id": "shape-3d-cube-alt",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "3d",
         "cube",
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-3d-cube-alt.svg",
-        "filled": "icon-assets/outline/shapes/shape-3d-cube-alt.svg"
+        "filled": "icon-assets/filled/shape/shape-3d-cube-alt.svg",
+        "outline": "icon-assets/outline/shape/shape-3d-cube-alt.svg"
       }
     },
     {
       "id": "shape-3d-cylinder",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "3d",
         "cylinder"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-3d-cylinder.svg",
-        "filled": "icon-assets/outline/shapes/shape-3d-cylinder.svg"
+        "filled": "icon-assets/filled/shape/shape-3d-cylinder.svg",
+        "outline": "icon-assets/outline/shape/shape-3d-cylinder.svg"
       }
     },
     {
       "id": "shape-3d-tetrahendron",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "3d",
         "tetrahendron"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-3d-tetrahendron.svg",
-        "filled": "icon-assets/outline/shapes/shape-3d-tetrahendron.svg"
+        "filled": "icon-assets/filled/shape/shape-3d-tetrahendron.svg",
+        "outline": "icon-assets/outline/shape/shape-3d-tetrahendron.svg"
       }
     },
     {
       "id": "shape-circle",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "circle"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-circle.svg",
-        "filled": "icon-assets/outline/shapes/shape-circle.svg"
+        "filled": "icon-assets/filled/shape/shape-circle.svg",
+        "outline": "icon-assets/outline/shape/shape-circle.svg"
       }
     },
     {
       "id": "shape-club",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "club"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-club.svg",
-        "filled": "icon-assets/outline/shapes/shape-club.svg"
+        "filled": "icon-assets/filled/shape/shape-club.svg",
+        "outline": "icon-assets/outline/shape/shape-club.svg"
       }
     },
     {
       "id": "shape-diamond",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "diamond"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-diamond.svg",
-        "filled": "icon-assets/outline/shapes/shape-diamond.svg"
+        "filled": "icon-assets/filled/shape/shape-diamond.svg",
+        "outline": "icon-assets/outline/shape/shape-diamond.svg"
       }
     },
     {
       "id": "shape-heart",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "heart"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-heart.svg",
-        "filled": "icon-assets/outline/shapes/shape-heart.svg"
+        "filled": "icon-assets/filled/shape/shape-heart.svg",
+        "outline": "icon-assets/outline/shape/shape-heart.svg"
       }
     },
     {
       "id": "shape-hexagon",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "hexagon"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-hexagon.svg",
-        "filled": "icon-assets/outline/shapes/shape-hexagon.svg"
+        "filled": "icon-assets/filled/shape/shape-hexagon.svg",
+        "outline": "icon-assets/outline/shape/shape-hexagon.svg"
       }
     },
     {
       "id": "shape-octagon",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "octagon"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-octagon.svg",
-        "filled": "icon-assets/outline/shapes/shape-octagon.svg"
+        "filled": "icon-assets/filled/shape/shape-octagon.svg",
+        "outline": "icon-assets/outline/shape/shape-octagon.svg"
       }
     },
     {
       "id": "shape-oval",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "oval"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-oval.svg",
-        "filled": "icon-assets/outline/shapes/shape-oval.svg"
+        "filled": "icon-assets/filled/shape/shape-oval.svg",
+        "outline": "icon-assets/outline/shape/shape-oval.svg"
       }
     },
     {
       "id": "shape-parallelogram",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "parallelogram"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-parallelogram.svg",
-        "filled": "icon-assets/outline/shapes/shape-parallelogram.svg"
+        "filled": "icon-assets/filled/shape/shape-parallelogram.svg",
+        "outline": "icon-assets/outline/shape/shape-parallelogram.svg"
       }
     },
     {
       "id": "shape-pentagon",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "pentagon"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-pentagon.svg",
-        "filled": "icon-assets/outline/shapes/shape-pentagon.svg"
+        "filled": "icon-assets/filled/shape/shape-pentagon.svg",
+        "outline": "icon-assets/outline/shape/shape-pentagon.svg"
       }
     },
     {
       "id": "shape-rhombus",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "rhombus"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-rhombus.svg",
-        "filled": "icon-assets/outline/shapes/shape-rhombus.svg"
+        "filled": "icon-assets/filled/shape/shape-rhombus.svg",
+        "outline": "icon-assets/outline/shape/shape-rhombus.svg"
       }
     },
     {
       "id": "shape-rounded-rectangle",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "rounded",
         "rectangle"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-rounded-rectangle.svg",
-        "filled": "icon-assets/outline/shapes/shape-rounded-rectangle.svg"
+        "filled": "icon-assets/filled/shape/shape-rounded-rectangle.svg",
+        "outline": "icon-assets/outline/shape/shape-rounded-rectangle.svg"
       }
     },
     {
       "id": "shape-spade",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "spade"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-spade.svg",
-        "filled": "icon-assets/outline/shapes/shape-spade.svg"
+        "filled": "icon-assets/filled/shape/shape-spade.svg",
+        "outline": "icon-assets/outline/shape/shape-spade.svg"
       }
     },
     {
       "id": "shape-square",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "square"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-square.svg",
-        "filled": "icon-assets/outline/shapes/shape-square.svg"
+        "filled": "icon-assets/filled/shape/shape-square.svg",
+        "outline": "icon-assets/outline/shape/shape-square.svg"
       }
     },
     {
       "id": "shape-squircle",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "squircle"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-squircle.svg",
-        "filled": "icon-assets/outline/shapes/shape-squircle.svg"
+        "filled": "icon-assets/filled/shape/shape-squircle.svg",
+        "outline": "icon-assets/outline/shape/shape-squircle.svg"
       }
     },
     {
       "id": "shape-star",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "star"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-star.svg",
-        "filled": "icon-assets/outline/shapes/shape-star.svg"
+        "filled": "icon-assets/filled/shape/shape-star.svg",
+        "outline": "icon-assets/outline/shape/shape-star.svg"
       }
     },
     {
       "id": "shape-star-alt",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "star",
         "alt"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-star-alt.svg",
-        "filled": "icon-assets/outline/shapes/shape-star-alt.svg"
+        "filled": "icon-assets/filled/shape/shape-star-alt.svg",
+        "outline": "icon-assets/outline/shape/shape-star-alt.svg"
+      }
+    },
+    {
+      "id": "shape-star-alt-2",
+      "category": "shape",
+      "tags": [
+        "shape",
+        "star",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/shape/shape-star-alt-2.svg",
+        "outline": "icon-assets/outline/shape/shape-star-alt-2.svg"
       }
     },
     {
       "id": "shape-trapezoid",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "trapezoid"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-trapezoid.svg",
-        "filled": "icon-assets/outline/shapes/shape-trapezoid.svg"
+        "filled": "icon-assets/filled/shape/shape-trapezoid.svg",
+        "outline": "icon-assets/outline/shape/shape-trapezoid.svg"
       }
     },
     {
       "id": "shape-triangle",
-      "category": "shapes",
+      "category": "shape",
       "tags": [
-        "shapes",
         "shape",
         "triangle"
       ],
       "files": {
-        "outline": "icon-assets/outline/shapes/shape-triangle.svg",
-        "filled": "icon-assets/outline/shapes/shape-triangle.svg"
+        "filled": "icon-assets/filled/shape/shape-triangle.svg",
+        "outline": "icon-assets/outline/shape/shape-triangle.svg"
       }
     },
     {
