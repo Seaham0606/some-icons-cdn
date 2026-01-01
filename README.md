@@ -142,3 +142,7 @@ Designed and maintained by Sihan.
 ## Current progress
 
 938/2000 icons
+
+Current progress:
+
+938/2000 icons
