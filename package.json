@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "generate:index": "node scripts/generate-index.js"
+    "generate:index": "node scripts/generate-index.js",
+    "update:readme-progress": "node scripts/update-readme-progress.js"
   }
 }

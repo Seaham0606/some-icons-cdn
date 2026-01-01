@@ -121,3 +121,7 @@ TBD (MIT recommended for public use)
 Credits
 
 Designed and maintained by Sihan.
+
+Current progress:
+
+938/2000 icons
