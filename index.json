@@ -2459,6 +2459,20 @@
       }
     },
     {
+      "id": "device-battery-level-0",
+      "category": "device",
+      "tags": [
+        "device",
+        "battery",
+        "level",
+        "0"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-battery-level-0.svg",
+        "outline": "icon-assets/outline/device/device-battery-level-0.svg"
+      }
+    },
+    {
       "id": "device-battery-level-1",
       "category": "device",
       "tags": [
@@ -2620,6 +2634,36 @@
       }
     },
     {
+      "id": "device-micro-sd-card-eject",
+      "category": "device",
+      "tags": [
+        "device",
+        "micro",
+        "sd",
+        "card",
+        "eject"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-micro-sd-card-eject.svg",
+        "outline": "icon-assets/outline/device/device-micro-sd-card-eject.svg"
+      }
+    },
+    {
+      "id": "device-micro-sd-card-insert",
+      "category": "device",
+      "tags": [
+        "device",
+        "micro",
+        "sd",
+        "card",
+        "insert"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-micro-sd-card-insert.svg",
+        "outline": "icon-assets/outline/device/device-micro-sd-card-insert.svg"
+      }
+    },
+    {
       "id": "device-plug",
       "category": "device",
       "tags": [
@@ -2691,6 +2735,34 @@
       "files": {
         "filled": "icon-assets/filled/device/device-sd-card.svg",
         "outline": "icon-assets/outline/device/device-sd-card.svg"
+      }
+    },
+    {
+      "id": "device-sd-card-eject",
+      "category": "device",
+      "tags": [
+        "device",
+        "sd",
+        "card",
+        "eject"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-sd-card-eject.svg",
+        "outline": "icon-assets/outline/device/device-sd-card-eject.svg"
+      }
+    },
+    {
+      "id": "device-sd-card-insert",
+      "category": "device",
+      "tags": [
+        "device",
+        "sd",
+        "card",
+        "insert"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-sd-card-insert.svg",
+        "outline": "icon-assets/outline/device/device-sd-card-insert.svg"
       }
     },
     {
