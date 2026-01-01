@@ -1,126 +1,145 @@
-Some Icons
+# Some Icons
 
-A clean, lightweight outline icon set designed for modern interfaces, with a Figma plugin for fast insertion and consistent sizing.
+A clean, lightweight icon set designed for modern interfaces, with a Figma plugin for fast insertion and consistent sizing.
 
 This project is focused on clarity, consistency, and scalability, making it suitable for product design, UI systems, and early engineering handoff.
 
-Features
+## Features
 
-Outline icons, designed on a consistent grid
+- **Outline and filled styles** — Icons designed on a consistent grid
+- **Default size** — 16 × 16 pixels
+- **Semantic naming** — Simple, predictable names (e.g., `weather-cloud`, `weather-cloud-alt`)
+- **Figma plugin** — Insert icons directly into your canvas
+- **Editable vectors** — Icons remain fully editable after insertion
+- **Free and open** — Open source and free to use
 
-Default size: 16 × 16
-
-Simple, semantic naming (weather-cloud, weather-cloud-alt)
-
-Insert icons directly into Figma via plugin
-
-Icons remain fully editable vectors
-
-Free and open to use
-
-Planned:
-
-Filled style
-
-More sizes
-
-Expanded icon coverage
-
-Figma Plugin
+## Figma Plugin
 
 The Figma plugin allows you to browse and insert icons directly into your canvas.
 
-Plugin features
+### Plugin Features
 
-Search by name
-
-Filter by category and style
-
-Choose insertion size (16 / 20 / 24 / 32)
-
-Insert as editable vector paths
+- Search by name
+- Filter by category and style
+- Choose insertion size (16 / 20 / 24 / 32)
+- Insert as editable vector paths
 
 The plugin is intended to feel lightweight and predictable, similar to established libraries like Feather or Material.
 
-Naming Convention
+## Naming Convention
 
-All icons follow lowercase kebab-case naming.
+All icons follow lowercase kebab-case naming:
 
+```
 collection-icon-name
 collection-icon-name-alt
+```
 
+### Examples
 
-Examples:
+- `weather-cloud`
+- `weather-cloud-alt`
+- `system-close`
+- `ui-search`
 
-weather-cloud
+This naming convention avoids collisions and keeps the API stable for future exports.
 
-weather-cloud-alt
+## Icon Design Guidelines
 
-system-close
-
-ui-search
-
-This avoids naming collisions and keeps the API stable for future exports.
-
-Icon Design Guidelines
-
-Grid: 16 × 16
-
-Outline icons use strokes (not outlined shapes)
-
-Consistent stroke weight across the set
-
-Rounded line caps and joins
-
-Optical padding applied consistently
+- **Grid**: 16 × 16
+- **Outline icons**: Use strokes (not outlined shapes)
+- **Stroke weight**: Consistent across the set
+- **Line caps and joins**: Rounded
+- **Optical padding**: Applied consistently
 
 Icons are designed to scale cleanly via code. Pixel-perfect size variants may be added later if needed.
 
-Repository Structure
-dist/
-  v1/
-    index.json
-    outline/
-      weather-cloud.svg
-      weather-cloud-alt.svg
+## Repository Structure
 
+```
+icon-assets/
+  filled/
+    arrow/
+    communication/
+    content/
+    device/
+    general/
+    media/
+    symbol/
+    weather/
+  outline/
+    arrow/
+    communication/
+    content/
+    device/
+    general/
+    media/
+    symbol/
+    weather/
+index.json
+```
 
-index.json contains icon metadata and paths
+- `icon-assets/` contains all SVG files organized by style and category
+- `index.json` contains icon metadata and paths
+- SVGs are served directly from GitHub raw URLs
+- Versioning is handled via tagged releases
 
-SVGs are hosted via GitHub + jsDelivr CDN
+## Icon Categories
 
-Versioning is handled via tagged releases
+Icons are organized into the following categories:
 
-Using the Icons Programmatically
+- **Arrow** — Directional and navigation icons
+- **Communication** — Messaging, phone, and contact icons
+- **Content** — Document, book, and editing icons
+- **Device** — Hardware and device-related icons
+- **General** — Common UI elements and actions
+- **Media** — Audio, video, and playback icons
+- **Symbol** — Symbols and special characters
+- **Weather** — Weather and climate icons
 
-Icons are served via CDN and can be consumed by tools or plugins.
+## Using the Icons Programmatically
 
-Example base URL:
+Icons are served directly from GitHub and can be consumed by tools or plugins.
 
-https://cdn.jsdelivr.net/gh/<owner>/<repo>@v1/dist/v1/
+### Example Base URL
 
+```
+https://raw.githubusercontent.com/<owner>/<repo>/<branch>/icon-assets/
+```
+
+### Example Icon Paths
+
+```
+https://raw.githubusercontent.com/<owner>/<repo>/<branch>/icon-assets/outline/weather/weather-cloud.svg
+https://raw.githubusercontent.com/<owner>/<repo>/<branch>/icon-assets/filled/weather/weather-cloud.svg
+```
+
+For tagged releases, use the tag name instead of branch:
+
+```
+https://raw.githubusercontent.com/<owner>/<repo>/<tag>/icon-assets/outline/weather/weather-cloud.svg
+```
 
 Icons are fetched on demand, keeping integrations fast and lightweight.
 
-Roadmap
+## Roadmap
 
-Filled icon style
+- More icon categories
+- Size-specific tuning for small icons
+- Component export (React / Vue)
+- Improved plugin browsing and grouping
 
-More icon categories
+## License
 
-Size-specific tuning for small icons
+MIT License
 
-Component export (React / Vue)
+Copyright (c) 2025 Sihan Liu
 
-Improved plugin browsing and grouping
-
-License
-
-TBD (MIT recommended for public use)
-
-Credits
+## Credits
 
 Designed and maintained by Sihan.
+
+---
 
 Current progress:
 
