@@ -2127,18 +2127,6 @@
       }
     },
     {
-      "id": "communication-user",
-      "category": "communication",
-      "tags": [
-        "communication",
-        "user"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/communication/communication-user.svg",
-        "filled": "icon-assets/outline/communication/communication-user.svg"
-      }
-    },
-    {
       "id": "communication-user-contact",
       "category": "communication",
       "tags": [
