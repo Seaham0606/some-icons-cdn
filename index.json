@@ -1434,6 +1434,71 @@
       }
     },
     {
+      "id": "communication-bubble-check",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "bubble",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-bubble-check.svg",
+        "outline": "icon-assets/outline/communication/communication-bubble-check.svg"
+      }
+    },
+    {
+      "id": "communication-bubble-information",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "bubble",
+        "information"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-bubble-information.svg",
+        "outline": "icon-assets/outline/communication/communication-bubble-information.svg"
+      }
+    },
+    {
+      "id": "communication-bubble-question",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "bubble",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-bubble-question.svg",
+        "outline": "icon-assets/outline/communication/communication-bubble-question.svg"
+      }
+    },
+    {
+      "id": "communication-bubble-voicemail",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "bubble",
+        "voicemail"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-bubble-voicemail.svg",
+        "outline": "icon-assets/outline/communication/communication-bubble-voicemail.svg"
+      }
+    },
+    {
+      "id": "communication-bubble-warning",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "bubble",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-bubble-warning.svg",
+        "outline": "icon-assets/outline/communication/communication-bubble-warning.svg"
+      }
+    },
+    {
       "id": "communication-chat",
       "category": "communication",
       "tags": [
@@ -1456,6 +1521,136 @@
       "files": {
         "filled": "icon-assets/filled/communication/communication-chat-alt.svg",
         "outline": "icon-assets/outline/communication/communication-chat-alt.svg"
+      }
+    },
+    {
+      "id": "communication-contact-add",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-add.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-add.svg"
+      }
+    },
+    {
+      "id": "communication-contact-block",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "block"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-block.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-block.svg"
+      }
+    },
+    {
+      "id": "communication-contact-edit",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "edit"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-edit.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-edit.svg"
+      }
+    },
+    {
+      "id": "communication-contact-group",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "group"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-group.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-group.svg"
+      }
+    },
+    {
+      "id": "communication-contact-like",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "like"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-like.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-like.svg"
+      }
+    },
+    {
+      "id": "communication-contact-minus",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "minus"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-minus.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-minus.svg"
+      }
+    },
+    {
+      "id": "communication-contact-question",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-question.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-question.svg"
+      }
+    },
+    {
+      "id": "communication-contact-remove",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-remove.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-remove.svg"
+      }
+    },
+    {
+      "id": "communication-contact-search",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "search"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-search.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-search.svg"
+      }
+    },
+    {
+      "id": "communication-contact-settings",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "contact",
+        "settings"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-contact-settings.svg",
+        "outline": "icon-assets/outline/communication/communication-contact-settings.svg"
       }
     },
     {
@@ -1559,6 +1754,255 @@
       "files": {
         "filled": "icon-assets/filled/communication/communication-phone.svg",
         "outline": "icon-assets/outline/communication/communication-phone.svg"
+      }
+    },
+    {
+      "id": "communication-phone-add",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-add.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-add.svg"
+      }
+    },
+    {
+      "id": "communication-phone-block",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "block"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-block.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-block.svg"
+      }
+    },
+    {
+      "id": "communication-phone-contact",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "contact"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-contact.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-contact.svg"
+      }
+    },
+    {
+      "id": "communication-phone-hang-up",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "hang",
+        "up"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-hang-up.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-hang-up.svg"
+      }
+    },
+    {
+      "id": "communication-phone-hang-up-alt",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "hang",
+        "up",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-hang-up-alt.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-hang-up-alt.svg"
+      }
+    },
+    {
+      "id": "communication-phone-hang-up-alt-2",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "hang",
+        "up",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-hang-up-alt-2.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-hang-up-alt-2.svg"
+      }
+    },
+    {
+      "id": "communication-phone-hang-up-alt-3",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "hang",
+        "up",
+        "alt",
+        "3"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-hang-up-alt-3.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-hang-up-alt-3.svg"
+      }
+    },
+    {
+      "id": "communication-phone-hold",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "hold"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-hold.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-hold.svg"
+      }
+    },
+    {
+      "id": "communication-phone-incoming-call",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "incoming",
+        "call"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-incoming-call.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-incoming-call.svg"
+      }
+    },
+    {
+      "id": "communication-phone-incoming-call-alt",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "incoming",
+        "call",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-incoming-call-alt.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-incoming-call-alt.svg"
+      }
+    },
+    {
+      "id": "communication-phone-outgoing-call",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "outgoing",
+        "call"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-outgoing-call.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-outgoing-call.svg"
+      }
+    },
+    {
+      "id": "communication-phone-outgoing-call-alt",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "outgoing",
+        "call",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-outgoing-call-alt.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-outgoing-call-alt.svg"
+      }
+    },
+    {
+      "id": "communication-phone-question",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-question.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-question.svg"
+      }
+    },
+    {
+      "id": "communication-phone-reject",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "reject"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-reject.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-reject.svg"
+      }
+    },
+    {
+      "id": "communication-phone-return",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "return"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-return.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-return.svg"
+      }
+    },
+    {
+      "id": "communication-phone-video",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "video"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-video.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-video.svg"
+      }
+    },
+    {
+      "id": "communication-phone-voicemail",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "voicemail"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-voicemail.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-voicemail.svg"
+      }
+    },
+    {
+      "id": "communication-phone-wifi",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "phone",
+        "wifi"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-phone-wifi.svg",
+        "outline": "icon-assets/outline/communication/communication-phone-wifi.svg"
       }
     },
     {
@@ -1683,6 +2127,18 @@
       }
     },
     {
+      "id": "communication-user",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "user"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-user.svg",
+        "outline": "icon-assets/outline/communication/communication-user.svg"
+      }
+    },
+    {
       "id": "communication-voice-command",
       "category": "communication",
       "tags": [
@@ -1693,6 +2149,18 @@
       "files": {
         "filled": "icon-assets/filled/communication/communication-voice-command.svg",
         "outline": "icon-assets/outline/communication/communication-voice-command.svg"
+      }
+    },
+    {
+      "id": "communication-voicemail",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "voicemail"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/communication/communication-voicemail.svg",
+        "filled": "icon-assets/outline/communication/communication-voicemail.svg"
       }
     },
     {
@@ -3586,8 +4054,8 @@
         "hamburger"
       ],
       "files": {
-        "outline": "icon-assets/outline/general/general-menu-hamburger.svg",
-        "filled": "icon-assets/outline/general/general-menu-hamburger.svg"
+        "filled": "icon-assets/filled/general/general-menu-hamburger.svg",
+        "outline": "icon-assets/outline/general/general-menu-hamburger.svg"
       }
     },
     {
@@ -4126,18 +4594,6 @@
       "files": {
         "filled": "icon-assets/filled/general/general-trophy.svg",
         "outline": "icon-assets/outline/general/general-trophy.svg"
-      }
-    },
-    {
-      "id": "general-user",
-      "category": "general",
-      "tags": [
-        "general",
-        "user"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-user.svg",
-        "outline": "icon-assets/outline/general/general-user.svg"
       }
     },
     {
