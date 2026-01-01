@@ -2681,6 +2681,19 @@
       }
     },
     {
+      "id": "device-sd-card",
+      "category": "device",
+      "tags": [
+        "device",
+        "sd",
+        "card"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-sd-card.svg",
+        "outline": "icon-assets/outline/device/device-sd-card.svg"
+      }
+    },
+    {
       "id": "device-settings-nobs",
       "category": "device",
       "tags": [
