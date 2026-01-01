@@ -145,4 +145,4 @@ Designed and maintained by Sihan.
 
 Current progress:
 
-940/2000 icons
+955/2000 icons
