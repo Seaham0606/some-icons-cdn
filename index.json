@@ -2134,8 +2134,21 @@
         "user"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-user.svg",
-        "outline": "icon-assets/outline/communication/communication-user.svg"
+        "outline": "icon-assets/outline/communication/communication-user.svg",
+        "filled": "icon-assets/outline/communication/communication-user.svg"
+      }
+    },
+    {
+      "id": "communication-user-contact",
+      "category": "communication",
+      "tags": [
+        "communication",
+        "user",
+        "contact"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/communication/communication-user-contact.svg",
+        "outline": "icon-assets/outline/communication/communication-user-contact.svg"
       }
     },
     {
