@@ -640,6 +640,19 @@
       }
     },
     {
+      "id": "arrow-redo-large",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "redo",
+        "large"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-redo-large.svg",
+        "filled": "icon-assets/outline/arrow/arrow-redo-large.svg"
+      }
+    },
+    {
       "id": "arrow-repeat",
       "category": "arrow",
       "tags": [
@@ -649,6 +662,19 @@
       "files": {
         "outline": "icon-assets/outline/arrow/arrow-repeat.svg",
         "filled": "icon-assets/outline/arrow/arrow-repeat.svg"
+      }
+    },
+    {
+      "id": "arrow-repeat-large",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "repeat",
+        "large"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-repeat-large.svg",
+        "filled": "icon-assets/outline/arrow/arrow-repeat-large.svg"
       }
     },
     {
@@ -1079,6 +1105,19 @@
       "files": {
         "outline": "icon-assets/outline/arrow/arrow-undo-alt-3.svg",
         "filled": "icon-assets/outline/arrow/arrow-undo-alt-3.svg"
+      }
+    },
+    {
+      "id": "arrow-undo-large",
+      "category": "arrow",
+      "tags": [
+        "arrow",
+        "undo",
+        "large"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/arrow/arrow-undo-large.svg",
+        "filled": "icon-assets/outline/arrow/arrow-undo-large.svg"
       }
     },
     {
@@ -2394,6 +2433,32 @@
       }
     },
     {
+      "id": "device-airpods",
+      "category": "device",
+      "tags": [
+        "device",
+        "airpods"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-airpods.svg",
+        "outline": "icon-assets/outline/device/device-airpods.svg"
+      }
+    },
+    {
+      "id": "device-airpods-pro-case",
+      "category": "device",
+      "tags": [
+        "device",
+        "airpods",
+        "pro",
+        "case"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-airpods-pro-case.svg",
+        "outline": "icon-assets/outline/device/device-airpods-pro-case.svg"
+      }
+    },
+    {
       "id": "device-battery",
       "category": "device",
       "tags": [
@@ -2569,6 +2634,31 @@
       }
     },
     {
+      "id": "device-calculator",
+      "category": "device",
+      "tags": [
+        "device",
+        "calculator"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-calculator.svg",
+        "outline": "icon-assets/outline/device/device-calculator.svg"
+      }
+    },
+    {
+      "id": "device-calculator-alt",
+      "category": "device",
+      "tags": [
+        "device",
+        "calculator",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-calculator-alt.svg",
+        "outline": "icon-assets/outline/device/device-calculator-alt.svg"
+      }
+    },
+    {
       "id": "device-charging-wireless",
       "category": "device",
       "tags": [
@@ -2595,6 +2685,101 @@
       }
     },
     {
+      "id": "device-clock-watch-smart",
+      "category": "device",
+      "tags": [
+        "device",
+        "clock",
+        "watch",
+        "smart"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-clock-watch-smart.svg",
+        "outline": "icon-assets/outline/device/device-clock-watch-smart.svg"
+      }
+    },
+    {
+      "id": "device-computer-imac",
+      "category": "device",
+      "tags": [
+        "device",
+        "computer",
+        "imac"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-computer-imac.svg",
+        "outline": "icon-assets/outline/device/device-computer-imac.svg"
+      }
+    },
+    {
+      "id": "device-computer-laptop",
+      "category": "device",
+      "tags": [
+        "device",
+        "computer",
+        "laptop"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-computer-laptop.svg",
+        "outline": "icon-assets/outline/device/device-computer-laptop.svg"
+      }
+    },
+    {
+      "id": "device-computer-tower-pc",
+      "category": "device",
+      "tags": [
+        "device",
+        "computer",
+        "tower",
+        "pc"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-computer-tower-pc.svg",
+        "outline": "icon-assets/outline/device/device-computer-tower-pc.svg"
+      }
+    },
+    {
+      "id": "device-controller-gaming",
+      "category": "device",
+      "tags": [
+        "device",
+        "controller",
+        "gaming"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-controller-gaming.svg",
+        "outline": "icon-assets/outline/device/device-controller-gaming.svg"
+      }
+    },
+    {
+      "id": "device-controller-gaming-wired",
+      "category": "device",
+      "tags": [
+        "device",
+        "controller",
+        "gaming",
+        "wired"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-controller-gaming-wired.svg",
+        "outline": "icon-assets/outline/device/device-controller-gaming-wired.svg"
+      }
+    },
+    {
+      "id": "device-controller-gaming-wireless",
+      "category": "device",
+      "tags": [
+        "device",
+        "controller",
+        "gaming",
+        "wireless"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-controller-gaming-wireless.svg",
+        "outline": "icon-assets/outline/device/device-controller-gaming-wireless.svg"
+      }
+    },
+    {
       "id": "device-disc",
       "category": "device",
       "tags": [
@@ -2617,6 +2802,82 @@
       "files": {
         "filled": "icon-assets/filled/device/device-floppy-disk.svg",
         "outline": "icon-assets/outline/device/device-floppy-disk.svg"
+      }
+    },
+    {
+      "id": "device-headphone",
+      "category": "device",
+      "tags": [
+        "device",
+        "headphone"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-headphone.svg",
+        "outline": "icon-assets/outline/device/device-headphone.svg"
+      }
+    },
+    {
+      "id": "device-headphone-mic",
+      "category": "device",
+      "tags": [
+        "device",
+        "headphone",
+        "mic"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-headphone-mic.svg",
+        "outline": "icon-assets/outline/device/device-headphone-mic.svg"
+      }
+    },
+    {
+      "id": "device-keyboard",
+      "category": "device",
+      "tags": [
+        "device",
+        "keyboard"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-keyboard.svg",
+        "outline": "icon-assets/outline/device/device-keyboard.svg"
+      }
+    },
+    {
+      "id": "device-keyboard-wired",
+      "category": "device",
+      "tags": [
+        "device",
+        "keyboard",
+        "wired"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-keyboard-wired.svg",
+        "outline": "icon-assets/outline/device/device-keyboard-wired.svg"
+      }
+    },
+    {
+      "id": "device-keyboard-wireless",
+      "category": "device",
+      "tags": [
+        "device",
+        "keyboard",
+        "wireless"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-keyboard-wireless.svg",
+        "outline": "icon-assets/outline/device/device-keyboard-wireless.svg"
+      }
+    },
+    {
+      "id": "device-laptop-phone",
+      "category": "device",
+      "tags": [
+        "device",
+        "laptop",
+        "phone"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-laptop-phone.svg",
+        "outline": "icon-assets/outline/device/device-laptop-phone.svg"
       }
     },
     {
@@ -2661,6 +2922,147 @@
       "files": {
         "filled": "icon-assets/filled/device/device-micro-sd-card-insert.svg",
         "outline": "icon-assets/outline/device/device-micro-sd-card-insert.svg"
+      }
+    },
+    {
+      "id": "device-mouse",
+      "category": "device",
+      "tags": [
+        "device",
+        "mouse"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-mouse.svg",
+        "outline": "icon-assets/outline/device/device-mouse.svg"
+      }
+    },
+    {
+      "id": "device-mouse-wired",
+      "category": "device",
+      "tags": [
+        "device",
+        "mouse",
+        "wired"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-mouse-wired.svg",
+        "outline": "icon-assets/outline/device/device-mouse-wired.svg"
+      }
+    },
+    {
+      "id": "device-mouse-wireless",
+      "category": "device",
+      "tags": [
+        "device",
+        "mouse",
+        "wireless"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-mouse-wireless.svg",
+        "outline": "icon-assets/outline/device/device-mouse-wireless.svg"
+      }
+    },
+    {
+      "id": "device-phone",
+      "category": "device",
+      "tags": [
+        "device",
+        "phone"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-phone.svg",
+        "outline": "icon-assets/outline/device/device-phone.svg"
+      }
+    },
+    {
+      "id": "device-phone-check",
+      "category": "device",
+      "tags": [
+        "device",
+        "phone",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-phone-check.svg",
+        "outline": "icon-assets/outline/device/device-phone-check.svg"
+      }
+    },
+    {
+      "id": "device-phone-connect",
+      "category": "device",
+      "tags": [
+        "device",
+        "phone",
+        "connect"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-phone-connect.svg",
+        "outline": "icon-assets/outline/device/device-phone-connect.svg"
+      }
+    },
+    {
+      "id": "device-phone-cross",
+      "category": "device",
+      "tags": [
+        "device",
+        "phone",
+        "cross"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-phone-cross.svg",
+        "outline": "icon-assets/outline/device/device-phone-cross.svg"
+      }
+    },
+    {
+      "id": "device-phone-question",
+      "category": "device",
+      "tags": [
+        "device",
+        "phone",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-phone-question.svg",
+        "outline": "icon-assets/outline/device/device-phone-question.svg"
+      }
+    },
+    {
+      "id": "device-phone-rotate",
+      "category": "device",
+      "tags": [
+        "device",
+        "phone",
+        "rotate"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-phone-rotate.svg",
+        "outline": "icon-assets/outline/device/device-phone-rotate.svg"
+      }
+    },
+    {
+      "id": "device-phone-warning",
+      "category": "device",
+      "tags": [
+        "device",
+        "phone",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-phone-warning.svg",
+        "outline": "icon-assets/outline/device/device-phone-warning.svg"
+      }
+    },
+    {
+      "id": "device-phone-wifi",
+      "category": "device",
+      "tags": [
+        "device",
+        "phone",
+        "wifi"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-phone-wifi.svg",
+        "outline": "icon-assets/outline/device/device-phone-wifi.svg"
       }
     },
     {
@@ -2829,6 +3231,73 @@
       }
     },
     {
+      "id": "device-tablet",
+      "category": "device",
+      "tags": [
+        "device",
+        "tablet"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-tablet.svg",
+        "outline": "icon-assets/outline/device/device-tablet.svg"
+      }
+    },
+    {
+      "id": "device-tablet-phone",
+      "category": "device",
+      "tags": [
+        "device",
+        "tablet",
+        "phone"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-tablet-phone.svg",
+        "outline": "icon-assets/outline/device/device-tablet-phone.svg"
+      }
+    },
+    {
+      "id": "device-tv-screen",
+      "category": "device",
+      "tags": [
+        "device",
+        "tv",
+        "screen"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-tv-screen.svg",
+        "outline": "icon-assets/outline/device/device-tv-screen.svg"
+      }
+    },
+    {
+      "id": "device-tv-screen-airplay-cast",
+      "category": "device",
+      "tags": [
+        "device",
+        "tv",
+        "screen",
+        "airplay",
+        "cast"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-tv-screen-airplay-cast.svg",
+        "outline": "icon-assets/outline/device/device-tv-screen-airplay-cast.svg"
+      }
+    },
+    {
+      "id": "device-tv-screen-play",
+      "category": "device",
+      "tags": [
+        "device",
+        "tv",
+        "screen",
+        "play"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-tv-screen-play.svg",
+        "outline": "icon-assets/outline/device/device-tv-screen-play.svg"
+      }
+    },
+    {
       "id": "device-usb",
       "category": "device",
       "tags": [
@@ -2838,6 +3307,20 @@
       "files": {
         "filled": "icon-assets/filled/device/device-usb.svg",
         "outline": "icon-assets/outline/device/device-usb.svg"
+      }
+    },
+    {
+      "id": "device-vr-goggles-headset",
+      "category": "device",
+      "tags": [
+        "device",
+        "vr",
+        "goggles",
+        "headset"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-vr-goggles-headset.svg",
+        "outline": "icon-assets/outline/device/device-vr-goggles-headset.svg"
       }
     },
     {
@@ -3031,8 +3514,8 @@
         "radio"
       ],
       "files": {
-        "filled": "icon-assets/filled/general/general-button-radio.svg",
-        "outline": "icon-assets/outline/general/general-button-radio.svg"
+        "outline": "icon-assets/outline/general/general-button-radio.svg",
+        "filled": "icon-assets/outline/general/general-button-radio.svg"
       }
     },
     {
@@ -3047,6 +3530,20 @@
       "files": {
         "filled": "icon-assets/filled/general/general-button-radio-selected.svg",
         "outline": "icon-assets/outline/general/general-button-radio-selected.svg"
+      }
+    },
+    {
+      "id": "general-button-radio-unselected",
+      "category": "general",
+      "tags": [
+        "general",
+        "button",
+        "radio",
+        "unselected"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-button-radio-unselected.svg",
+        "filled": "icon-assets/outline/general/general-button-radio-unselected.svg"
       }
     },
     {
@@ -3127,6 +3624,20 @@
       }
     },
     {
+      "id": "general-chain-link-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "chain",
+        "link",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-chain-link-alt.svg",
+        "filled": "icon-assets/outline/general/general-chain-link-alt.svg"
+      }
+    },
+    {
       "id": "general-chain-link-broken",
       "category": "general",
       "tags": [
@@ -3193,6 +3704,18 @@
       }
     },
     {
+      "id": "general-check",
+      "category": "general",
+      "tags": [
+        "general",
+        "check"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-check.svg",
+        "filled": "icon-assets/outline/general/general-check.svg"
+      }
+    },
+    {
       "id": "general-check-circle",
       "category": "general",
       "tags": [
@@ -3216,6 +3739,58 @@
       "files": {
         "filled": "icon-assets/filled/general/general-check-mark.svg",
         "outline": "icon-assets/outline/general/general-check-mark.svg"
+      }
+    },
+    {
+      "id": "general-check-multiple",
+      "category": "general",
+      "tags": [
+        "general",
+        "check",
+        "multiple"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-check-multiple.svg",
+        "filled": "icon-assets/outline/general/general-check-multiple.svg"
+      }
+    },
+    {
+      "id": "general-checkbox-checked",
+      "category": "general",
+      "tags": [
+        "general",
+        "checkbox",
+        "checked"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-checkbox-checked.svg",
+        "outline": "icon-assets/outline/general/general-checkbox-checked.svg"
+      }
+    },
+    {
+      "id": "general-checkbox-indeterminate",
+      "category": "general",
+      "tags": [
+        "general",
+        "checkbox",
+        "indeterminate"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-checkbox-indeterminate.svg",
+        "outline": "icon-assets/outline/general/general-checkbox-indeterminate.svg"
+      }
+    },
+    {
+      "id": "general-checkbox-unchecked",
+      "category": "general",
+      "tags": [
+        "general",
+        "checkbox",
+        "unchecked"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-checkbox-unchecked.svg",
+        "filled": "icon-assets/outline/general/general-checkbox-unchecked.svg"
       }
     },
     {
@@ -3536,6 +4111,19 @@
       }
     },
     {
+      "id": "general-exclamation-tripple",
+      "category": "general",
+      "tags": [
+        "general",
+        "exclamation",
+        "tripple"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-exclamation-tripple.svg",
+        "outline": "icon-assets/outline/general/general-exclamation-tripple.svg"
+      }
+    },
+    {
       "id": "general-eye-close",
       "category": "general",
       "tags": [
@@ -3687,19 +4275,6 @@
       "files": {
         "filled": "icon-assets/filled/general/general-folder-open.svg",
         "outline": "icon-assets/outline/general/general-folder-open.svg"
-      }
-    },
-    {
-      "id": "general-general-exclamation-tripple",
-      "category": "general",
-      "tags": [
-        "general",
-        "exclamation",
-        "tripple"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-general-exclamation-tripple.svg",
-        "outline": "icon-assets/outline/general/general-general-exclamation-tripple.svg"
       }
     },
     {
@@ -4182,6 +4757,19 @@
       }
     },
     {
+      "id": "general-pen-edit",
+      "category": "general",
+      "tags": [
+        "general",
+        "pen",
+        "edit"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-pen-edit.svg",
+        "outline": "icon-assets/outline/general/general-pen-edit.svg"
+      }
+    },
+    {
       "id": "general-pill",
       "category": "general",
       "tags": [
@@ -4605,6 +5193,34 @@
       "files": {
         "filled": "icon-assets/filled/general/general-target-alt.svg",
         "outline": "icon-assets/outline/general/general-target-alt.svg"
+      }
+    },
+    {
+      "id": "general-toggle-switch-off",
+      "category": "general",
+      "tags": [
+        "general",
+        "toggle",
+        "switch",
+        "off"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-toggle-switch-off.svg",
+        "outline": "icon-assets/outline/general/general-toggle-switch-off.svg"
+      }
+    },
+    {
+      "id": "general-toggle-switch-on",
+      "category": "general",
+      "tags": [
+        "general",
+        "toggle",
+        "switch",
+        "on"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-toggle-switch-on.svg",
+        "outline": "icon-assets/outline/general/general-toggle-switch-on.svg"
       }
     },
     {
