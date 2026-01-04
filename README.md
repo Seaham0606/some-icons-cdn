@@ -133,15 +133,11 @@ Icons are fetched on demand, keeping integrations fast and lightweight.
 
 MIT License
 
-Copyright © 2025 Sihan Liu
+Copyright © 2026 Sihan Liu
 
 ## Credits
 
 Designed and maintained by Sihan.
-
-## Current progress
-
-938/2000 icons
 
 Current progress:
 
