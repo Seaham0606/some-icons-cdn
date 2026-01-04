@@ -3533,20 +3533,6 @@
       }
     },
     {
-      "id": "general-button-radio-unselected",
-      "category": "general",
-      "tags": [
-        "general",
-        "button",
-        "radio",
-        "unselected"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-button-radio-unselected.svg",
-        "filled": "icon-assets/outline/general/general-button-radio-unselected.svg"
-      }
-    },
-    {
       "id": "general-calculation",
       "category": "general",
       "tags": [
