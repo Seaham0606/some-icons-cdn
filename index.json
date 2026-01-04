@@ -3324,6 +3324,980 @@
       }
     },
     {
+      "id": "file-cloud",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud.svg",
+        "outline": "icon-assets/outline/file/file-cloud.svg"
+      }
+    },
+    {
+      "id": "file-cloud-add",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-add.svg",
+        "outline": "icon-assets/outline/file/file-cloud-add.svg"
+      }
+    },
+    {
+      "id": "file-cloud-admin",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "admin"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-admin.svg",
+        "outline": "icon-assets/outline/file/file-cloud-admin.svg"
+      }
+    },
+    {
+      "id": "file-cloud-backup",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "backup"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-backup.svg",
+        "outline": "icon-assets/outline/file/file-cloud-backup.svg"
+      }
+    },
+    {
+      "id": "file-cloud-check",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-check.svg",
+        "outline": "icon-assets/outline/file/file-cloud-check.svg"
+      }
+    },
+    {
+      "id": "file-cloud-connect",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "connect"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-connect.svg",
+        "outline": "icon-assets/outline/file/file-cloud-connect.svg"
+      }
+    },
+    {
+      "id": "file-cloud-connecting",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "connecting"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-connecting.svg",
+        "outline": "icon-assets/outline/file/file-cloud-connecting.svg"
+      }
+    },
+    {
+      "id": "file-cloud-denied",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "denied"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-denied.svg",
+        "outline": "icon-assets/outline/file/file-cloud-denied.svg"
+      }
+    },
+    {
+      "id": "file-cloud-disconnected",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "disconnected"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-disconnected.svg",
+        "outline": "icon-assets/outline/file/file-cloud-disconnected.svg"
+      }
+    },
+    {
+      "id": "file-cloud-download",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "download"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-download.svg",
+        "outline": "icon-assets/outline/file/file-cloud-download.svg"
+      }
+    },
+    {
+      "id": "file-cloud-lock-protected",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "lock",
+        "protected"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-lock-protected.svg",
+        "outline": "icon-assets/outline/file/file-cloud-lock-protected.svg"
+      }
+    },
+    {
+      "id": "file-cloud-question",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-question.svg",
+        "outline": "icon-assets/outline/file/file-cloud-question.svg"
+      }
+    },
+    {
+      "id": "file-cloud-remove",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-remove.svg",
+        "outline": "icon-assets/outline/file/file-cloud-remove.svg"
+      }
+    },
+    {
+      "id": "file-cloud-sync",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "sync"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-sync.svg",
+        "outline": "icon-assets/outline/file/file-cloud-sync.svg"
+      }
+    },
+    {
+      "id": "file-cloud-upload",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "upload"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-upload.svg",
+        "outline": "icon-assets/outline/file/file-cloud-upload.svg"
+      }
+    },
+    {
+      "id": "file-cloud-warning",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-cloud-warning.svg",
+        "outline": "icon-assets/outline/file/file-cloud-warning.svg"
+      }
+    },
+    {
+      "id": "file-drive-add",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-add.svg",
+        "outline": "icon-assets/outline/file/file-drive-add.svg"
+      }
+    },
+    {
+      "id": "file-drive-backup",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "backup"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-backup.svg",
+        "outline": "icon-assets/outline/file/file-drive-backup.svg"
+      }
+    },
+    {
+      "id": "file-drive-check",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-check.svg",
+        "outline": "icon-assets/outline/file/file-drive-check.svg"
+      }
+    },
+    {
+      "id": "file-drive-cloud",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "cloud"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-cloud.svg",
+        "outline": "icon-assets/outline/file/file-drive-cloud.svg"
+      }
+    },
+    {
+      "id": "file-drive-denied",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "denied"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-denied.svg",
+        "outline": "icon-assets/outline/file/file-drive-denied.svg"
+      }
+    },
+    {
+      "id": "file-drive-eject",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "eject"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-eject.svg",
+        "outline": "icon-assets/outline/file/file-drive-eject.svg"
+      }
+    },
+    {
+      "id": "file-drive-find",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "find"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-find.svg",
+        "outline": "icon-assets/outline/file/file-drive-find.svg"
+      }
+    },
+    {
+      "id": "file-drive-lock-protected",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "lock",
+        "protected"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-lock-protected.svg",
+        "outline": "icon-assets/outline/file/file-drive-lock-protected.svg"
+      }
+    },
+    {
+      "id": "file-drive-network",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "network"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-network.svg",
+        "outline": "icon-assets/outline/file/file-drive-network.svg"
+      }
+    },
+    {
+      "id": "file-drive-question",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-question.svg",
+        "outline": "icon-assets/outline/file/file-drive-question.svg"
+      }
+    },
+    {
+      "id": "file-drive-recovery",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "recovery"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-recovery.svg",
+        "outline": "icon-assets/outline/file/file-drive-recovery.svg"
+      }
+    },
+    {
+      "id": "file-drive-remote",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "remote"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-remote.svg",
+        "outline": "icon-assets/outline/file/file-drive-remote.svg"
+      }
+    },
+    {
+      "id": "file-drive-remove",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-remove.svg",
+        "outline": "icon-assets/outline/file/file-drive-remove.svg"
+      }
+    },
+    {
+      "id": "file-drive-shared",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "shared"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-shared.svg",
+        "outline": "icon-assets/outline/file/file-drive-shared.svg"
+      }
+    },
+    {
+      "id": "file-drive-stacked",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "stacked"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-stacked.svg",
+        "outline": "icon-assets/outline/file/file-drive-stacked.svg"
+      }
+    },
+    {
+      "id": "file-drive-stacked-network",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "stacked",
+        "network"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-stacked-network.svg",
+        "outline": "icon-assets/outline/file/file-drive-stacked-network.svg"
+      }
+    },
+    {
+      "id": "file-drive-storage",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "storage"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-storage.svg",
+        "outline": "icon-assets/outline/file/file-drive-storage.svg"
+      }
+    },
+    {
+      "id": "file-drive-transfer",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "transfer"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-transfer.svg",
+        "outline": "icon-assets/outline/file/file-drive-transfer.svg"
+      }
+    },
+    {
+      "id": "file-drive-warning",
+      "category": "file",
+      "tags": [
+        "file",
+        "drive",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-drive-warning.svg",
+        "outline": "icon-assets/outline/file/file-drive-warning.svg"
+      }
+    },
+    {
+      "id": "file-file",
+      "category": "file",
+      "tags": [
+        "file"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file.svg",
+        "outline": "icon-assets/outline/file/file-file.svg"
+      }
+    },
+    {
+      "id": "file-file-add",
+      "category": "file",
+      "tags": [
+        "file",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-add.svg",
+        "outline": "icon-assets/outline/file/file-file-add.svg"
+      }
+    },
+    {
+      "id": "file-file-admin",
+      "category": "file",
+      "tags": [
+        "file",
+        "admin"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-admin.svg",
+        "outline": "icon-assets/outline/file/file-file-admin.svg"
+      }
+    },
+    {
+      "id": "file-file-attachment",
+      "category": "file",
+      "tags": [
+        "file",
+        "attachment"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-attachment.svg",
+        "outline": "icon-assets/outline/file/file-file-attachment.svg"
+      }
+    },
+    {
+      "id": "file-file-check",
+      "category": "file",
+      "tags": [
+        "file",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-check.svg",
+        "outline": "icon-assets/outline/file/file-file-check.svg"
+      }
+    },
+    {
+      "id": "file-file-cloud",
+      "category": "file",
+      "tags": [
+        "file",
+        "cloud"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-cloud.svg",
+        "outline": "icon-assets/outline/file/file-file-cloud.svg"
+      }
+    },
+    {
+      "id": "file-file-code",
+      "category": "file",
+      "tags": [
+        "file",
+        "code"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-code.svg",
+        "outline": "icon-assets/outline/file/file-file-code.svg"
+      }
+    },
+    {
+      "id": "file-file-corrupted",
+      "category": "file",
+      "tags": [
+        "file",
+        "corrupted"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-corrupted.svg",
+        "outline": "icon-assets/outline/file/file-file-corrupted.svg"
+      }
+    },
+    {
+      "id": "file-file-denied",
+      "category": "file",
+      "tags": [
+        "file",
+        "denied"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-denied.svg",
+        "outline": "icon-assets/outline/file/file-file-denied.svg"
+      }
+    },
+    {
+      "id": "file-file-document",
+      "category": "file",
+      "tags": [
+        "file",
+        "document"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-document.svg",
+        "outline": "icon-assets/outline/file/file-file-document.svg"
+      }
+    },
+    {
+      "id": "file-file-group",
+      "category": "file",
+      "tags": [
+        "file",
+        "group"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-group.svg",
+        "outline": "icon-assets/outline/file/file-file-group.svg"
+      }
+    },
+    {
+      "id": "file-file-image",
+      "category": "file",
+      "tags": [
+        "file",
+        "image"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-image.svg",
+        "outline": "icon-assets/outline/file/file-file-image.svg"
+      }
+    },
+    {
+      "id": "file-file-lock-protected",
+      "category": "file",
+      "tags": [
+        "file",
+        "lock",
+        "protected"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-lock-protected.svg",
+        "outline": "icon-assets/outline/file/file-file-lock-protected.svg"
+      }
+    },
+    {
+      "id": "file-file-question",
+      "category": "file",
+      "tags": [
+        "file",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-question.svg",
+        "outline": "icon-assets/outline/file/file-file-question.svg"
+      }
+    },
+    {
+      "id": "file-file-remove",
+      "category": "file",
+      "tags": [
+        "file",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-remove.svg",
+        "outline": "icon-assets/outline/file/file-file-remove.svg"
+      }
+    },
+    {
+      "id": "file-file-video-media",
+      "category": "file",
+      "tags": [
+        "file",
+        "video",
+        "media"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-video-media.svg",
+        "outline": "icon-assets/outline/file/file-file-video-media.svg"
+      }
+    },
+    {
+      "id": "file-file-warning",
+      "category": "file",
+      "tags": [
+        "file",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-file-warning.svg",
+        "outline": "icon-assets/outline/file/file-file-warning.svg"
+      }
+    },
+    {
+      "id": "file-folder-",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-.svg",
+        "outline": "icon-assets/outline/file/file-folder-.svg"
+      }
+    },
+    {
+      "id": "file-folder-add",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-add.svg",
+        "outline": "icon-assets/outline/file/file-folder-add.svg"
+      }
+    },
+    {
+      "id": "file-folder-admin",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "admin"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-admin.svg",
+        "outline": "icon-assets/outline/file/file-folder-admin.svg"
+      }
+    },
+    {
+      "id": "file-folder-check",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-check.svg",
+        "outline": "icon-assets/outline/file/file-folder-check.svg"
+      }
+    },
+    {
+      "id": "file-folder-cloud",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "cloud"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-cloud.svg",
+        "outline": "icon-assets/outline/file/file-folder-cloud.svg"
+      }
+    },
+    {
+      "id": "file-folder-compressed",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "compressed"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-compressed.svg",
+        "outline": "icon-assets/outline/file/file-folder-compressed.svg"
+      }
+    },
+    {
+      "id": "file-folder-denied",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "denied"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-denied.svg",
+        "outline": "icon-assets/outline/file/file-folder-denied.svg"
+      }
+    },
+    {
+      "id": "file-folder-download",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "download"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-download.svg",
+        "outline": "icon-assets/outline/file/file-folder-download.svg"
+      }
+    },
+    {
+      "id": "file-folder-group",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "group"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-group.svg",
+        "outline": "icon-assets/outline/file/file-folder-group.svg"
+      }
+    },
+    {
+      "id": "file-folder-home",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "home"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-home.svg",
+        "outline": "icon-assets/outline/file/file-folder-home.svg"
+      }
+    },
+    {
+      "id": "file-folder-lock-protected",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "lock",
+        "protected"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-lock-protected.svg",
+        "outline": "icon-assets/outline/file/file-folder-lock-protected.svg"
+      }
+    },
+    {
+      "id": "file-folder-question",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-question.svg",
+        "outline": "icon-assets/outline/file/file-folder-question.svg"
+      }
+    },
+    {
+      "id": "file-folder-remove",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-remove.svg",
+        "outline": "icon-assets/outline/file/file-folder-remove.svg"
+      }
+    },
+    {
+      "id": "file-folder-shared",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "shared"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-shared.svg",
+        "outline": "icon-assets/outline/file/file-folder-shared.svg"
+      }
+    },
+    {
+      "id": "file-folder-sync",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "sync"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-sync.svg",
+        "outline": "icon-assets/outline/file/file-folder-sync.svg"
+      }
+    },
+    {
+      "id": "file-folder-warning",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-warning.svg",
+        "outline": "icon-assets/outline/file/file-folder-warning.svg"
+      }
+    },
+    {
+      "id": "file-network-cloud",
+      "category": "file",
+      "tags": [
+        "file",
+        "network",
+        "cloud"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-network-cloud.svg",
+        "outline": "icon-assets/outline/file/file-network-cloud.svg"
+      }
+    },
+    {
+      "id": "file-network-drive",
+      "category": "file",
+      "tags": [
+        "file",
+        "network",
+        "drive"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-network-drive.svg",
+        "outline": "icon-assets/outline/file/file-network-drive.svg"
+      }
+    },
+    {
+      "id": "file-network-folder",
+      "category": "file",
+      "tags": [
+        "file",
+        "network",
+        "folder"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-network-folder.svg",
+        "outline": "icon-assets/outline/file/file-network-folder.svg"
+      }
+    },
+    {
+      "id": "file-network-internet",
+      "category": "file",
+      "tags": [
+        "file",
+        "network",
+        "internet"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-network-internet.svg",
+        "outline": "icon-assets/outline/file/file-network-internet.svg"
+      }
+    },
+    {
+      "id": "file-sync-cloud",
+      "category": "file",
+      "tags": [
+        "file",
+        "sync",
+        "cloud"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-sync-cloud.svg",
+        "outline": "icon-assets/outline/file/file-sync-cloud.svg"
+      }
+    },
+    {
+      "id": "file-sync-drive",
+      "category": "file",
+      "tags": [
+        "file",
+        "sync",
+        "drive"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-sync-drive.svg",
+        "outline": "icon-assets/outline/file/file-sync-drive.svg"
+      }
+    },
+    {
+      "id": "file-sync-folder",
+      "category": "file",
+      "tags": [
+        "file",
+        "sync",
+        "folder"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-sync-folder.svg",
+        "outline": "icon-assets/outline/file/file-sync-folder.svg"
+      }
+    },
+    {
+      "id": "file-sync-internet",
+      "category": "file",
+      "tags": [
+        "file",
+        "sync",
+        "internet"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-sync-internet.svg",
+        "outline": "icon-assets/outline/file/file-sync-internet.svg"
+      }
+    },
+    {
       "id": "general-anchor",
       "category": "general",
       "tags": [
