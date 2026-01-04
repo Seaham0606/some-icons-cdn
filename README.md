@@ -17,15 +17,6 @@ This project is focused on clarity, consistency, and scalability, making it suit
 
 The Figma plugin allows you to browse and insert icons directly into your canvas.
 
-### Plugin Features
-
-- Search by name
-- Filter by category and style
-- Choose insertion size (16 / 20 / 24 / 32)
-- Insert as editable vector paths
-
-The plugin is intended to feel lightweight and predictable, similar to established libraries like Feather or Material.
-
 ## Naming Convention
 
 All icons follow lowercase kebab-case naming:
