@@ -1448,426 +1448,424 @@
       }
     },
     {
-      "id": "communication-bluetooth",
-      "category": "communication",
+      "id": "chat-bluetooth",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "bluetooth"
       ],
       "files": {
-        "outline": "icon-assets/outline/communication/communication-bluetooth.svg",
-        "filled": "icon-assets/outline/communication/communication-bluetooth.svg"
+        "outline": "icon-assets/outline/chat/chat-bluetooth.svg",
+        "filled": "icon-assets/outline/chat/chat-bluetooth.svg"
       }
     },
     {
-      "id": "communication-book-contact",
-      "category": "communication",
+      "id": "chat-book-contact",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "book",
         "contact"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-book-contact.svg",
-        "outline": "icon-assets/outline/communication/communication-book-contact.svg"
+        "filled": "icon-assets/filled/chat/chat-book-contact.svg",
+        "outline": "icon-assets/outline/chat/chat-book-contact.svg"
       }
     },
     {
-      "id": "communication-bubble-check",
-      "category": "communication",
+      "id": "chat-bubble-check",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "bubble",
         "check"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-bubble-check.svg",
-        "outline": "icon-assets/outline/communication/communication-bubble-check.svg"
+        "filled": "icon-assets/filled/chat/chat-bubble-check.svg",
+        "outline": "icon-assets/outline/chat/chat-bubble-check.svg"
       }
     },
     {
-      "id": "communication-bubble-information",
-      "category": "communication",
+      "id": "chat-bubble-information",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "bubble",
         "information"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-bubble-information.svg",
-        "outline": "icon-assets/outline/communication/communication-bubble-information.svg"
+        "filled": "icon-assets/filled/chat/chat-bubble-information.svg",
+        "outline": "icon-assets/outline/chat/chat-bubble-information.svg"
       }
     },
     {
-      "id": "communication-bubble-question",
-      "category": "communication",
+      "id": "chat-bubble-question",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "bubble",
         "question"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-bubble-question.svg",
-        "outline": "icon-assets/outline/communication/communication-bubble-question.svg"
+        "filled": "icon-assets/filled/chat/chat-bubble-question.svg",
+        "outline": "icon-assets/outline/chat/chat-bubble-question.svg"
       }
     },
     {
-      "id": "communication-bubble-voicemail",
-      "category": "communication",
+      "id": "chat-bubble-voicemail",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "bubble",
         "voicemail"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-bubble-voicemail.svg",
-        "outline": "icon-assets/outline/communication/communication-bubble-voicemail.svg"
+        "filled": "icon-assets/filled/chat/chat-bubble-voicemail.svg",
+        "outline": "icon-assets/outline/chat/chat-bubble-voicemail.svg"
       }
     },
     {
-      "id": "communication-bubble-warning",
-      "category": "communication",
+      "id": "chat-bubble-warning",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "bubble",
         "warning"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-bubble-warning.svg",
-        "outline": "icon-assets/outline/communication/communication-bubble-warning.svg"
+        "filled": "icon-assets/filled/chat/chat-bubble-warning.svg",
+        "outline": "icon-assets/outline/chat/chat-bubble-warning.svg"
       }
     },
     {
-      "id": "communication-chat",
-      "category": "communication",
+      "id": "chat-chat",
+      "category": "chat",
       "tags": [
-        "communication",
         "chat"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-chat.svg",
-        "outline": "icon-assets/outline/communication/communication-chat.svg"
+        "filled": "icon-assets/filled/chat/chat-chat.svg",
+        "outline": "icon-assets/outline/chat/chat-chat.svg"
       }
     },
     {
-      "id": "communication-chat-alt",
-      "category": "communication",
+      "id": "chat-chat-alt",
+      "category": "chat",
       "tags": [
-        "communication",
         "chat",
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-chat-alt.svg",
-        "outline": "icon-assets/outline/communication/communication-chat-alt.svg"
+        "filled": "icon-assets/filled/chat/chat-chat-alt.svg",
+        "outline": "icon-assets/outline/chat/chat-chat-alt.svg"
       }
     },
     {
-      "id": "communication-contact-add",
-      "category": "communication",
+      "id": "chat-contact-add",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "add"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-add.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-add.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-add.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-add.svg"
       }
     },
     {
-      "id": "communication-contact-block",
-      "category": "communication",
+      "id": "chat-contact-block",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "block"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-block.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-block.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-block.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-block.svg"
       }
     },
     {
-      "id": "communication-contact-edit",
-      "category": "communication",
+      "id": "chat-contact-edit",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "edit"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-edit.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-edit.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-edit.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-edit.svg"
       }
     },
     {
-      "id": "communication-contact-group",
-      "category": "communication",
+      "id": "chat-contact-group",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "group"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-group.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-group.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-group.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-group.svg"
       }
     },
     {
-      "id": "communication-contact-like",
-      "category": "communication",
+      "id": "chat-contact-like",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "like"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-like.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-like.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-like.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-like.svg"
       }
     },
     {
-      "id": "communication-contact-minus",
-      "category": "communication",
+      "id": "chat-contact-minus",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "minus"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-minus.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-minus.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-minus.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-minus.svg"
       }
     },
     {
-      "id": "communication-contact-question",
-      "category": "communication",
+      "id": "chat-contact-question",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "question"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-question.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-question.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-question.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-question.svg"
       }
     },
     {
-      "id": "communication-contact-remove",
-      "category": "communication",
+      "id": "chat-contact-remove",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "remove"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-remove.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-remove.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-remove.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-remove.svg"
       }
     },
     {
-      "id": "communication-contact-search",
-      "category": "communication",
+      "id": "chat-contact-search",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "search"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-search.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-search.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-search.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-search.svg"
       }
     },
     {
-      "id": "communication-contact-settings",
-      "category": "communication",
+      "id": "chat-contact-settings",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "contact",
         "settings"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-contact-settings.svg",
-        "outline": "icon-assets/outline/communication/communication-contact-settings.svg"
+        "filled": "icon-assets/filled/chat/chat-contact-settings.svg",
+        "outline": "icon-assets/outline/chat/chat-contact-settings.svg"
       }
     },
     {
-      "id": "communication-email-envelope",
-      "category": "communication",
+      "id": "chat-email-envelope",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "email",
         "envelope"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-email-envelope.svg",
-        "outline": "icon-assets/outline/communication/communication-email-envelope.svg"
+        "filled": "icon-assets/filled/chat/chat-email-envelope.svg",
+        "outline": "icon-assets/outline/chat/chat-email-envelope.svg"
       }
     },
     {
-      "id": "communication-email-envelope-alt",
-      "category": "communication",
+      "id": "chat-email-envelope-alt",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "email",
         "envelope",
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-email-envelope-alt.svg",
-        "outline": "icon-assets/outline/communication/communication-email-envelope-alt.svg"
+        "filled": "icon-assets/filled/chat/chat-email-envelope-alt.svg",
+        "outline": "icon-assets/outline/chat/chat-email-envelope-alt.svg"
       }
     },
     {
-      "id": "communication-email-envelope-open",
-      "category": "communication",
+      "id": "chat-email-envelope-open",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "email",
         "envelope",
         "open"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-email-envelope-open.svg",
-        "outline": "icon-assets/outline/communication/communication-email-envelope-open.svg"
+        "filled": "icon-assets/filled/chat/chat-email-envelope-open.svg",
+        "outline": "icon-assets/outline/chat/chat-email-envelope-open.svg"
       }
     },
     {
-      "id": "communication-message",
-      "category": "communication",
+      "id": "chat-message",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "message"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-message.svg",
-        "outline": "icon-assets/outline/communication/communication-message.svg"
+        "filled": "icon-assets/filled/chat/chat-message.svg",
+        "outline": "icon-assets/outline/chat/chat-message.svg"
       }
     },
     {
-      "id": "communication-nfc",
-      "category": "communication",
+      "id": "chat-nfc",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "nfc"
       ],
       "files": {
-        "outline": "icon-assets/outline/communication/communication-nfc.svg",
-        "filled": "icon-assets/outline/communication/communication-nfc.svg"
+        "outline": "icon-assets/outline/chat/chat-nfc.svg",
+        "filled": "icon-assets/outline/chat/chat-nfc.svg"
       }
     },
     {
-      "id": "communication-notebook-contact",
-      "category": "communication",
+      "id": "chat-notebook-contact",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "notebook",
         "contact"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-notebook-contact.svg",
-        "outline": "icon-assets/outline/communication/communication-notebook-contact.svg"
+        "filled": "icon-assets/filled/chat/chat-notebook-contact.svg",
+        "outline": "icon-assets/outline/chat/chat-notebook-contact.svg"
       }
     },
     {
-      "id": "communication-paper-airplane",
-      "category": "communication",
+      "id": "chat-paper-airplane",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "paper",
         "airplane"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-paper-airplane.svg",
-        "outline": "icon-assets/outline/communication/communication-paper-airplane.svg"
+        "filled": "icon-assets/filled/chat/chat-paper-airplane.svg",
+        "outline": "icon-assets/outline/chat/chat-paper-airplane.svg"
       }
     },
     {
-      "id": "communication-phone",
-      "category": "communication",
+      "id": "chat-phone",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone.svg",
-        "outline": "icon-assets/outline/communication/communication-phone.svg"
+        "filled": "icon-assets/filled/chat/chat-phone.svg",
+        "outline": "icon-assets/outline/chat/chat-phone.svg"
       }
     },
     {
-      "id": "communication-phone-add",
-      "category": "communication",
+      "id": "chat-phone-add",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "add"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-add.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-add.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-add.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-add.svg"
       }
     },
     {
-      "id": "communication-phone-block",
-      "category": "communication",
+      "id": "chat-phone-block",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "block"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-block.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-block.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-block.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-block.svg"
       }
     },
     {
-      "id": "communication-phone-contact",
-      "category": "communication",
+      "id": "chat-phone-contact",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "contact"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-contact.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-contact.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-contact.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-contact.svg"
       }
     },
     {
-      "id": "communication-phone-hang-up",
-      "category": "communication",
+      "id": "chat-phone-hang-up",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "hang",
         "up"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-hang-up.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-hang-up.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-hang-up.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-hang-up.svg"
       }
     },
     {
-      "id": "communication-phone-hang-up-alt",
-      "category": "communication",
+      "id": "chat-phone-hang-up-alt",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "hang",
         "up",
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-hang-up-alt.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-hang-up-alt.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-hang-up-alt.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-hang-up-alt.svg"
       }
     },
     {
-      "id": "communication-phone-hang-up-alt-2",
-      "category": "communication",
+      "id": "chat-phone-hang-up-alt-2",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "hang",
         "up",
@@ -1875,15 +1873,15 @@
         "2"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-hang-up-alt-2.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-hang-up-alt-2.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-hang-up-alt-2.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-hang-up-alt-2.svg"
       }
     },
     {
-      "id": "communication-phone-hang-up-alt-3",
-      "category": "communication",
+      "id": "chat-phone-hang-up-alt-3",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "hang",
         "up",
@@ -1891,354 +1889,342 @@
         "3"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-hang-up-alt-3.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-hang-up-alt-3.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-hang-up-alt-3.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-hang-up-alt-3.svg"
       }
     },
     {
-      "id": "communication-phone-hold",
-      "category": "communication",
+      "id": "chat-phone-hold",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "hold"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-hold.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-hold.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-hold.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-hold.svg"
       }
     },
     {
-      "id": "communication-phone-incoming-call",
-      "category": "communication",
+      "id": "chat-phone-incoming-call",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "incoming",
         "call"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-incoming-call.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-incoming-call.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-incoming-call.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-incoming-call.svg"
       }
     },
     {
-      "id": "communication-phone-incoming-call-alt",
-      "category": "communication",
+      "id": "chat-phone-incoming-call-alt",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "incoming",
         "call",
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-incoming-call-alt.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-incoming-call-alt.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-incoming-call-alt.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-incoming-call-alt.svg"
       }
     },
     {
-      "id": "communication-phone-outgoing-call",
-      "category": "communication",
+      "id": "chat-phone-outgoing-call",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "outgoing",
         "call"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-outgoing-call.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-outgoing-call.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-outgoing-call.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-outgoing-call.svg"
       }
     },
     {
-      "id": "communication-phone-outgoing-call-alt",
-      "category": "communication",
+      "id": "chat-phone-outgoing-call-alt",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "outgoing",
         "call",
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-outgoing-call-alt.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-outgoing-call-alt.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-outgoing-call-alt.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-outgoing-call-alt.svg"
       }
     },
     {
-      "id": "communication-phone-question",
-      "category": "communication",
+      "id": "chat-phone-question",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "question"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-question.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-question.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-question.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-question.svg"
       }
     },
     {
-      "id": "communication-phone-reject",
-      "category": "communication",
+      "id": "chat-phone-reject",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "reject"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-reject.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-reject.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-reject.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-reject.svg"
       }
     },
     {
-      "id": "communication-phone-return",
-      "category": "communication",
+      "id": "chat-phone-return",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "return"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-return.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-return.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-return.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-return.svg"
       }
     },
     {
-      "id": "communication-phone-video",
-      "category": "communication",
+      "id": "chat-phone-video",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "video"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-video.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-video.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-video.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-video.svg"
       }
     },
     {
-      "id": "communication-phone-voicemail",
-      "category": "communication",
+      "id": "chat-phone-voicemail",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "voicemail"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-voicemail.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-voicemail.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-voicemail.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-voicemail.svg"
       }
     },
     {
-      "id": "communication-phone-wifi",
-      "category": "communication",
+      "id": "chat-phone-wifi",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "phone",
         "wifi"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-phone-wifi.svg",
-        "outline": "icon-assets/outline/communication/communication-phone-wifi.svg"
+        "filled": "icon-assets/filled/chat/chat-phone-wifi.svg",
+        "outline": "icon-assets/outline/chat/chat-phone-wifi.svg"
       }
     },
     {
-      "id": "communication-radar-scan",
-      "category": "communication",
+      "id": "chat-radar-scan",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "radar",
         "scan"
       ],
       "files": {
-        "outline": "icon-assets/outline/communication/communication-radar-scan.svg",
-        "filled": "icon-assets/outline/communication/communication-radar-scan.svg"
+        "outline": "icon-assets/outline/chat/chat-radar-scan.svg",
+        "filled": "icon-assets/outline/chat/chat-radar-scan.svg"
       }
     },
     {
-      "id": "communication-radar-scan-alt",
-      "category": "communication",
+      "id": "chat-radar-scan-alt",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "radar",
         "scan",
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-radar-scan-alt.svg",
-        "outline": "icon-assets/outline/communication/communication-radar-scan-alt.svg"
+        "filled": "icon-assets/filled/chat/chat-radar-scan-alt.svg",
+        "outline": "icon-assets/outline/chat/chat-radar-scan-alt.svg"
       }
     },
     {
-      "id": "communication-radar-scan-alt-2",
-      "category": "communication",
+      "id": "chat-radar-scan-alt-2",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "radar",
         "scan",
         "alt",
         "2"
       ],
       "files": {
-        "outline": "icon-assets/outline/communication/communication-radar-scan-alt-2.svg",
-        "filled": "icon-assets/outline/communication/communication-radar-scan-alt-2.svg"
+        "outline": "icon-assets/outline/chat/chat-radar-scan-alt-2.svg",
+        "filled": "icon-assets/outline/chat/chat-radar-scan-alt-2.svg"
       }
     },
     {
-      "id": "communication-radar-scan-alt-3",
-      "category": "communication",
+      "id": "chat-radar-scan-alt-3",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "radar",
         "scan",
         "alt",
         "3"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-radar-scan-alt-3.svg",
-        "outline": "icon-assets/outline/communication/communication-radar-scan-alt-3.svg"
+        "filled": "icon-assets/filled/chat/chat-radar-scan-alt-3.svg",
+        "outline": "icon-assets/outline/chat/chat-radar-scan-alt-3.svg"
       }
     },
     {
-      "id": "communication-share",
-      "category": "communication",
+      "id": "chat-signal",
+      "category": "chat",
       "tags": [
-        "communication",
-        "share"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/communication/communication-share.svg",
-        "outline": "icon-assets/outline/communication/communication-share.svg"
-      }
-    },
-    {
-      "id": "communication-signal",
-      "category": "communication",
-      "tags": [
-        "communication",
+        "chat",
         "signal"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-signal.svg",
-        "outline": "icon-assets/outline/communication/communication-signal.svg"
+        "filled": "icon-assets/filled/chat/chat-signal.svg",
+        "outline": "icon-assets/outline/chat/chat-signal.svg"
       }
     },
     {
-      "id": "communication-signal-reception",
-      "category": "communication",
+      "id": "chat-signal-reception",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "signal",
         "reception"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-signal-reception.svg",
-        "outline": "icon-assets/outline/communication/communication-signal-reception.svg"
+        "filled": "icon-assets/filled/chat/chat-signal-reception.svg",
+        "outline": "icon-assets/outline/chat/chat-signal-reception.svg"
       }
     },
     {
-      "id": "communication-signal-reception-alt",
-      "category": "communication",
+      "id": "chat-signal-reception-alt",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "signal",
         "reception",
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-signal-reception-alt.svg",
-        "outline": "icon-assets/outline/communication/communication-signal-reception-alt.svg"
+        "filled": "icon-assets/filled/chat/chat-signal-reception-alt.svg",
+        "outline": "icon-assets/outline/chat/chat-signal-reception-alt.svg"
       }
     },
     {
-      "id": "communication-signal-tower",
-      "category": "communication",
+      "id": "chat-signal-tower",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "signal",
         "tower"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-signal-tower.svg",
-        "outline": "icon-assets/outline/communication/communication-signal-tower.svg"
+        "filled": "icon-assets/filled/chat/chat-signal-tower.svg",
+        "outline": "icon-assets/outline/chat/chat-signal-tower.svg"
       }
     },
     {
-      "id": "communication-user-contact",
-      "category": "communication",
+      "id": "chat-user-contact",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "user",
         "contact"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-user-contact.svg",
-        "outline": "icon-assets/outline/communication/communication-user-contact.svg"
+        "filled": "icon-assets/filled/chat/chat-user-contact.svg",
+        "outline": "icon-assets/outline/chat/chat-user-contact.svg"
       }
     },
     {
-      "id": "communication-voice-command",
-      "category": "communication",
+      "id": "chat-voice-command",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "voice",
         "command"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-voice-command.svg",
-        "outline": "icon-assets/outline/communication/communication-voice-command.svg"
+        "filled": "icon-assets/filled/chat/chat-voice-command.svg",
+        "outline": "icon-assets/outline/chat/chat-voice-command.svg"
       }
     },
     {
-      "id": "communication-voicemail",
-      "category": "communication",
+      "id": "chat-voicemail",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "voicemail"
       ],
       "files": {
-        "outline": "icon-assets/outline/communication/communication-voicemail.svg",
-        "filled": "icon-assets/outline/communication/communication-voicemail.svg"
+        "filled": "icon-assets/filled/chat/chat-voicemail.svg",
+        "outline": "icon-assets/outline/chat/chat-voicemail.svg"
       }
     },
     {
-      "id": "communication-wifi",
-      "category": "communication",
+      "id": "chat-wifi",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "wifi"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-wifi.svg",
-        "outline": "icon-assets/outline/communication/communication-wifi.svg"
+        "filled": "icon-assets/filled/chat/chat-wifi.svg",
+        "outline": "icon-assets/outline/chat/chat-wifi.svg"
       }
     },
     {
-      "id": "communication-wifi-alt",
-      "category": "communication",
+      "id": "chat-wifi-alt",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "wifi",
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-wifi-alt.svg",
-        "outline": "icon-assets/outline/communication/communication-wifi-alt.svg"
+        "filled": "icon-assets/filled/chat/chat-wifi-alt.svg",
+        "outline": "icon-assets/outline/chat/chat-wifi-alt.svg"
       }
     },
     {
-      "id": "communication-wifi-disabled",
-      "category": "communication",
+      "id": "chat-wifi-disabled",
+      "category": "chat",
       "tags": [
-        "communication",
+        "chat",
         "wifi",
         "disabled"
       ],
       "files": {
-        "filled": "icon-assets/filled/communication/communication-wifi-disabled.svg",
-        "outline": "icon-assets/outline/communication/communication-wifi-disabled.svg"
+        "filled": "icon-assets/filled/chat/chat-wifi-disabled.svg",
+        "outline": "icon-assets/outline/chat/chat-wifi-disabled.svg"
       }
     },
     {
@@ -4612,6 +4598,21 @@
       }
     },
     {
+      "id": "general-chain-link-broken-alt",
+      "category": "general",
+      "tags": [
+        "general",
+        "chain",
+        "link",
+        "broken",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/general/general-chain-link-broken-alt.svg",
+        "filled": "icon-assets/outline/general/general-chain-link-broken-alt.svg"
+      }
+    },
+    {
       "id": "general-chart-line",
       "category": "general",
       "tags": [
@@ -5937,6 +5938,18 @@
       "files": {
         "filled": "icon-assets/filled/general/general-settings-wrench.svg",
         "outline": "icon-assets/outline/general/general-settings-wrench.svg"
+      }
+    },
+    {
+      "id": "general-share",
+      "category": "general",
+      "tags": [
+        "general",
+        "share"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-share.svg",
+        "outline": "icon-assets/outline/general/general-share.svg"
       }
     },
     {
