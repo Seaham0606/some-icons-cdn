@@ -132,4 +132,4 @@ Designed and maintained by Sihan.
 
 Current progress:
 
-1186/2000 icons
+1246/2000 icons
