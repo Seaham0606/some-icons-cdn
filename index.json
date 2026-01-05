@@ -5472,31 +5472,6 @@
       }
     },
     {
-      "id": "general-like",
-      "category": "general",
-      "tags": [
-        "general",
-        "like"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-like.svg",
-        "outline": "icon-assets/outline/general/general-like.svg"
-      }
-    },
-    {
-      "id": "general-like-dislike",
-      "category": "general",
-      "tags": [
-        "general",
-        "like",
-        "dislike"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-like-dislike.svg",
-        "outline": "icon-assets/outline/general/general-like-dislike.svg"
-      }
-    },
-    {
       "id": "general-list",
       "category": "general",
       "tags": [
@@ -6156,6 +6131,32 @@
       }
     },
     {
+      "id": "general-thumb-down",
+      "category": "general",
+      "tags": [
+        "general",
+        "thumb",
+        "down"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-thumb-down.svg",
+        "outline": "icon-assets/outline/general/general-thumb-down.svg"
+      }
+    },
+    {
+      "id": "general-thumb-up",
+      "category": "general",
+      "tags": [
+        "general",
+        "thumb",
+        "up"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/general/general-thumb-up.svg",
+        "outline": "icon-assets/outline/general/general-thumb-up.svg"
+      }
+    },
+    {
       "id": "general-toggle-switch-off",
       "category": "general",
       "tags": [
@@ -6382,6 +6383,424 @@
       "files": {
         "filled": "icon-assets/filled/general/general-zoom-out.svg",
         "outline": "icon-assets/outline/general/general-zoom-out.svg"
+      }
+    },
+    {
+      "id": "gesture-move-2-finger-down",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "2",
+        "finger",
+        "down"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-2-finger-down.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-2-finger-down.svg"
+      }
+    },
+    {
+      "id": "gesture-move-2-finger-left",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "2",
+        "finger",
+        "left"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-2-finger-left.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-2-finger-left.svg"
+      }
+    },
+    {
+      "id": "gesture-move-2-finger-right",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "2",
+        "finger",
+        "right"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-2-finger-right.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-2-finger-right.svg"
+      }
+    },
+    {
+      "id": "gesture-move-2-finger-up",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "2",
+        "finger",
+        "up"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-2-finger-up.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-2-finger-up.svg"
+      }
+    },
+    {
+      "id": "gesture-move-3-finger-down",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "3",
+        "finger",
+        "down"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-3-finger-down.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-3-finger-down.svg"
+      }
+    },
+    {
+      "id": "gesture-move-3-finger-left",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "3",
+        "finger",
+        "left"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-3-finger-left.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-3-finger-left.svg"
+      }
+    },
+    {
+      "id": "gesture-move-3-finger-right",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "3",
+        "finger",
+        "right"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-3-finger-right.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-3-finger-right.svg"
+      }
+    },
+    {
+      "id": "gesture-move-3-finger-up",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "3",
+        "finger",
+        "up"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-3-finger-up.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-3-finger-up.svg"
+      }
+    },
+    {
+      "id": "gesture-move-horizontal",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "horizontal"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-horizontal.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-horizontal.svg"
+      }
+    },
+    {
+      "id": "gesture-move-vertical",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "move",
+        "vertical"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-move-vertical.svg",
+        "outline": "icon-assets/outline/gesture/gesture-move-vertical.svg"
+      }
+    },
+    {
+      "id": "gesture-pinch-zoom-in",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "pinch",
+        "zoom",
+        "in"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-pinch-zoom-in.svg",
+        "outline": "icon-assets/outline/gesture/gesture-pinch-zoom-in.svg"
+      }
+    },
+    {
+      "id": "gesture-pinch-zoom-out",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "pinch",
+        "zoom",
+        "out"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-pinch-zoom-out.svg",
+        "outline": "icon-assets/outline/gesture/gesture-pinch-zoom-out.svg"
+      }
+    },
+    {
+      "id": "gesture-point-1-finger",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "point",
+        "1",
+        "finger"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-point-1-finger.svg",
+        "outline": "icon-assets/outline/gesture/gesture-point-1-finger.svg"
+      }
+    },
+    {
+      "id": "gesture-point-1-finger-alt",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "point",
+        "1",
+        "finger",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-point-1-finger-alt.svg",
+        "outline": "icon-assets/outline/gesture/gesture-point-1-finger-alt.svg"
+      }
+    },
+    {
+      "id": "gesture-point-1-finger-alt-1",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "point",
+        "1",
+        "finger",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-point-1-finger-alt-1.svg",
+        "outline": "icon-assets/outline/gesture/gesture-point-1-finger-alt-1.svg"
+      }
+    },
+    {
+      "id": "gesture-point-2-finger",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "point",
+        "2",
+        "finger"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-point-2-finger.svg",
+        "outline": "icon-assets/outline/gesture/gesture-point-2-finger.svg"
+      }
+    },
+    {
+      "id": "gesture-point-3-finger",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "point",
+        "3",
+        "finger"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-point-3-finger.svg",
+        "outline": "icon-assets/outline/gesture/gesture-point-3-finger.svg"
+      }
+    },
+    {
+      "id": "gesture-point-4-finger",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "point",
+        "4",
+        "finger"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-point-4-finger.svg",
+        "outline": "icon-assets/outline/gesture/gesture-point-4-finger.svg"
+      }
+    },
+    {
+      "id": "gesture-rotate-clockwise",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "rotate",
+        "clockwise"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-rotate-clockwise.svg",
+        "outline": "icon-assets/outline/gesture/gesture-rotate-clockwise.svg"
+      }
+    },
+    {
+      "id": "gesture-rotate-counterclockwise",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "rotate",
+        "counterclockwise"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-rotate-counterclockwise.svg",
+        "outline": "icon-assets/outline/gesture/gesture-rotate-counterclockwise.svg"
+      }
+    },
+    {
+      "id": "gesture-scroll-horizontal",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "scroll",
+        "horizontal"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-scroll-horizontal.svg",
+        "outline": "icon-assets/outline/gesture/gesture-scroll-horizontal.svg"
+      }
+    },
+    {
+      "id": "gesture-scroll-vertical",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "scroll",
+        "vertical"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-scroll-vertical.svg",
+        "outline": "icon-assets/outline/gesture/gesture-scroll-vertical.svg"
+      }
+    },
+    {
+      "id": "gesture-swipe-left",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "swipe",
+        "left"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-swipe-left.svg",
+        "outline": "icon-assets/outline/gesture/gesture-swipe-left.svg"
+      }
+    },
+    {
+      "id": "gesture-swipe-left-alt",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "swipe",
+        "left",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-swipe-left-alt.svg",
+        "outline": "icon-assets/outline/gesture/gesture-swipe-left-alt.svg"
+      }
+    },
+    {
+      "id": "gesture-swipe-right",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "swipe",
+        "right"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-swipe-right.svg",
+        "outline": "icon-assets/outline/gesture/gesture-swipe-right.svg"
+      }
+    },
+    {
+      "id": "gesture-swipe-right-alt",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "swipe",
+        "right",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-swipe-right-alt.svg",
+        "outline": "icon-assets/outline/gesture/gesture-swipe-right-alt.svg"
+      }
+    },
+    {
+      "id": "gesture-tap",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "tap"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-tap.svg",
+        "outline": "icon-assets/outline/gesture/gesture-tap.svg"
+      }
+    },
+    {
+      "id": "gesture-tap-alt",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "tap",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-tap-alt.svg",
+        "outline": "icon-assets/outline/gesture/gesture-tap-alt.svg"
+      }
+    },
+    {
+      "id": "gesture-tap-hold",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "tap",
+        "hold"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-tap-hold.svg",
+        "outline": "icon-assets/outline/gesture/gesture-tap-hold.svg"
+      }
+    },
+    {
+      "id": "gesture-tap-hold-alt",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "tap",
+        "hold",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-tap-hold-alt.svg",
+        "outline": "icon-assets/outline/gesture/gesture-tap-hold-alt.svg"
       }
     },
     {
