@@ -4284,2121 +4284,6 @@
       }
     },
     {
-      "id": "general-anchor",
-      "category": "general",
-      "tags": [
-        "general",
-        "anchor"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-anchor.svg",
-        "filled": "icon-assets/outline/general/general-anchor.svg"
-      }
-    },
-    {
-      "id": "general-archive",
-      "category": "general",
-      "tags": [
-        "general",
-        "archive"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-archive.svg",
-        "outline": "icon-assets/outline/general/general-archive.svg"
-      }
-    },
-    {
-      "id": "general-attachment",
-      "category": "general",
-      "tags": [
-        "general",
-        "attachment"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-attachment.svg",
-        "filled": "icon-assets/outline/general/general-attachment.svg"
-      }
-    },
-    {
-      "id": "general-backspace",
-      "category": "general",
-      "tags": [
-        "general",
-        "backspace"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-backspace.svg",
-        "outline": "icon-assets/outline/general/general-backspace.svg"
-      }
-    },
-    {
-      "id": "general-bacteria",
-      "category": "general",
-      "tags": [
-        "general",
-        "bacteria"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-bacteria.svg",
-        "outline": "icon-assets/outline/general/general-bacteria.svg"
-      }
-    },
-    {
-      "id": "general-badge",
-      "category": "general",
-      "tags": [
-        "general",
-        "badge"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-badge.svg",
-        "outline": "icon-assets/outline/general/general-badge.svg"
-      }
-    },
-    {
-      "id": "general-bandage",
-      "category": "general",
-      "tags": [
-        "general",
-        "bandage"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-bandage.svg",
-        "outline": "icon-assets/outline/general/general-bandage.svg"
-      }
-    },
-    {
-      "id": "general-binoculars",
-      "category": "general",
-      "tags": [
-        "general",
-        "binoculars"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-binoculars.svg",
-        "outline": "icon-assets/outline/general/general-binoculars.svg"
-      }
-    },
-    {
-      "id": "general-biscuit",
-      "category": "general",
-      "tags": [
-        "general",
-        "biscuit"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-biscuit.svg",
-        "outline": "icon-assets/outline/general/general-biscuit.svg"
-      }
-    },
-    {
-      "id": "general-bone",
-      "category": "general",
-      "tags": [
-        "general",
-        "bone"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-bone.svg",
-        "outline": "icon-assets/outline/general/general-bone.svg"
-      }
-    },
-    {
-      "id": "general-briefcase",
-      "category": "general",
-      "tags": [
-        "general",
-        "briefcase"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-briefcase.svg",
-        "outline": "icon-assets/outline/general/general-briefcase.svg"
-      }
-    },
-    {
-      "id": "general-brightness-decrease",
-      "category": "general",
-      "tags": [
-        "general",
-        "brightness",
-        "decrease"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-brightness-decrease.svg",
-        "outline": "icon-assets/outline/general/general-brightness-decrease.svg"
-      }
-    },
-    {
-      "id": "general-brightness-increase",
-      "category": "general",
-      "tags": [
-        "general",
-        "brightness",
-        "increase"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-brightness-increase.svg",
-        "outline": "icon-assets/outline/general/general-brightness-increase.svg"
-      }
-    },
-    {
-      "id": "general-brush",
-      "category": "general",
-      "tags": [
-        "general",
-        "brush"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-brush.svg",
-        "outline": "icon-assets/outline/general/general-brush.svg"
-      }
-    },
-    {
-      "id": "general-bug",
-      "category": "general",
-      "tags": [
-        "general",
-        "bug"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-bug.svg",
-        "outline": "icon-assets/outline/general/general-bug.svg"
-      }
-    },
-    {
-      "id": "general-button-radio",
-      "category": "general",
-      "tags": [
-        "general",
-        "button",
-        "radio"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-button-radio.svg",
-        "filled": "icon-assets/outline/general/general-button-radio.svg"
-      }
-    },
-    {
-      "id": "general-button-radio-selected",
-      "category": "general",
-      "tags": [
-        "general",
-        "button",
-        "radio",
-        "selected"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-button-radio-selected.svg",
-        "outline": "icon-assets/outline/general/general-button-radio-selected.svg"
-      }
-    },
-    {
-      "id": "general-calculation",
-      "category": "general",
-      "tags": [
-        "general",
-        "calculation"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-calculation.svg",
-        "outline": "icon-assets/outline/general/general-calculation.svg"
-      }
-    },
-    {
-      "id": "general-calendar",
-      "category": "general",
-      "tags": [
-        "general",
-        "calendar"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-calendar.svg",
-        "outline": "icon-assets/outline/general/general-calendar.svg"
-      }
-    },
-    {
-      "id": "general-calendar-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "calendar",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-calendar-alt.svg",
-        "outline": "icon-assets/outline/general/general-calendar-alt.svg"
-      }
-    },
-    {
-      "id": "general-calendar-alt-2",
-      "category": "general",
-      "tags": [
-        "general",
-        "calendar",
-        "alt",
-        "2"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-calendar-alt-2.svg",
-        "outline": "icon-assets/outline/general/general-calendar-alt-2.svg"
-      }
-    },
-    {
-      "id": "general-calendar-date",
-      "category": "general",
-      "tags": [
-        "general",
-        "calendar",
-        "date"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-calendar-date.svg",
-        "outline": "icon-assets/outline/general/general-calendar-date.svg"
-      }
-    },
-    {
-      "id": "general-chain-link",
-      "category": "general",
-      "tags": [
-        "general",
-        "chain",
-        "link"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-chain-link.svg",
-        "filled": "icon-assets/outline/general/general-chain-link.svg"
-      }
-    },
-    {
-      "id": "general-chain-link-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "chain",
-        "link",
-        "alt"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-chain-link-alt.svg",
-        "filled": "icon-assets/outline/general/general-chain-link-alt.svg"
-      }
-    },
-    {
-      "id": "general-chain-link-broken",
-      "category": "general",
-      "tags": [
-        "general",
-        "chain",
-        "link",
-        "broken"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-chain-link-broken.svg",
-        "filled": "icon-assets/outline/general/general-chain-link-broken.svg"
-      }
-    },
-    {
-      "id": "general-chain-link-broken-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "chain",
-        "link",
-        "broken",
-        "alt"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-chain-link-broken-alt.svg",
-        "filled": "icon-assets/outline/general/general-chain-link-broken-alt.svg"
-      }
-    },
-    {
-      "id": "general-chart-line",
-      "category": "general",
-      "tags": [
-        "general",
-        "chart",
-        "line"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-chart-line.svg",
-        "outline": "icon-assets/outline/general/general-chart-line.svg"
-      }
-    },
-    {
-      "id": "general-charts-bar",
-      "category": "general",
-      "tags": [
-        "general",
-        "charts",
-        "bar"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-charts-bar.svg",
-        "outline": "icon-assets/outline/general/general-charts-bar.svg"
-      }
-    },
-    {
-      "id": "general-charts-pie",
-      "category": "general",
-      "tags": [
-        "general",
-        "charts",
-        "pie"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-charts-pie.svg",
-        "outline": "icon-assets/outline/general/general-charts-pie.svg"
-      }
-    },
-    {
-      "id": "general-charts-venn",
-      "category": "general",
-      "tags": [
-        "general",
-        "charts",
-        "venn"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-charts-venn.svg",
-        "filled": "icon-assets/outline/general/general-charts-venn.svg"
-      }
-    },
-    {
-      "id": "general-check",
-      "category": "general",
-      "tags": [
-        "general",
-        "check"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-check.svg",
-        "filled": "icon-assets/outline/general/general-check.svg"
-      }
-    },
-    {
-      "id": "general-check-circle",
-      "category": "general",
-      "tags": [
-        "general",
-        "check",
-        "circle"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-check-circle.svg",
-        "outline": "icon-assets/outline/general/general-check-circle.svg"
-      }
-    },
-    {
-      "id": "general-check-mark",
-      "category": "general",
-      "tags": [
-        "general",
-        "check",
-        "mark"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-check-mark.svg",
-        "outline": "icon-assets/outline/general/general-check-mark.svg"
-      }
-    },
-    {
-      "id": "general-check-multiple",
-      "category": "general",
-      "tags": [
-        "general",
-        "check",
-        "multiple"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-check-multiple.svg",
-        "filled": "icon-assets/outline/general/general-check-multiple.svg"
-      }
-    },
-    {
-      "id": "general-checkbox-checked",
-      "category": "general",
-      "tags": [
-        "general",
-        "checkbox",
-        "checked"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-checkbox-checked.svg",
-        "outline": "icon-assets/outline/general/general-checkbox-checked.svg"
-      }
-    },
-    {
-      "id": "general-checkbox-indeterminate",
-      "category": "general",
-      "tags": [
-        "general",
-        "checkbox",
-        "indeterminate"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-checkbox-indeterminate.svg",
-        "outline": "icon-assets/outline/general/general-checkbox-indeterminate.svg"
-      }
-    },
-    {
-      "id": "general-checkbox-unchecked",
-      "category": "general",
-      "tags": [
-        "general",
-        "checkbox",
-        "unchecked"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-checkbox-unchecked.svg",
-        "filled": "icon-assets/outline/general/general-checkbox-unchecked.svg"
-      }
-    },
-    {
-      "id": "general-circuit-line",
-      "category": "general",
-      "tags": [
-        "general",
-        "circuit",
-        "line"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-circuit-line.svg",
-        "outline": "icon-assets/outline/general/general-circuit-line.svg"
-      }
-    },
-    {
-      "id": "general-clipboard-check",
-      "category": "general",
-      "tags": [
-        "general",
-        "clipboard",
-        "check"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-clipboard-check.svg",
-        "outline": "icon-assets/outline/general/general-clipboard-check.svg"
-      }
-    },
-    {
-      "id": "general-clipboard-paste",
-      "category": "general",
-      "tags": [
-        "general",
-        "clipboard",
-        "paste"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-clipboard-paste.svg",
-        "outline": "icon-assets/outline/general/general-clipboard-paste.svg"
-      }
-    },
-    {
-      "id": "general-clipboard-warning",
-      "category": "general",
-      "tags": [
-        "general",
-        "clipboard",
-        "warning"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-clipboard-warning.svg",
-        "outline": "icon-assets/outline/general/general-clipboard-warning.svg"
-      }
-    },
-    {
-      "id": "general-clock",
-      "category": "general",
-      "tags": [
-        "general",
-        "clock"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-clock.svg",
-        "outline": "icon-assets/outline/general/general-clock.svg"
-      }
-    },
-    {
-      "id": "general-clock-alarm",
-      "category": "general",
-      "tags": [
-        "general",
-        "clock",
-        "alarm"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-clock-alarm.svg",
-        "outline": "icon-assets/outline/general/general-clock-alarm.svg"
-      }
-    },
-    {
-      "id": "general-clock-stopwatch",
-      "category": "general",
-      "tags": [
-        "general",
-        "clock",
-        "stopwatch"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-clock-stopwatch.svg",
-        "outline": "icon-assets/outline/general/general-clock-stopwatch.svg"
-      }
-    },
-    {
-      "id": "general-clock-watch",
-      "category": "general",
-      "tags": [
-        "general",
-        "clock",
-        "watch"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-clock-watch.svg",
-        "outline": "icon-assets/outline/general/general-clock-watch.svg"
-      }
-    },
-    {
-      "id": "general-command",
-      "category": "general",
-      "tags": [
-        "general",
-        "command"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-command.svg",
-        "filled": "icon-assets/outline/general/general-command.svg"
-      }
-    },
-    {
-      "id": "general-compass",
-      "category": "general",
-      "tags": [
-        "general",
-        "compass"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-compass.svg",
-        "outline": "icon-assets/outline/general/general-compass.svg"
-      }
-    },
-    {
-      "id": "general-cone",
-      "category": "general",
-      "tags": [
-        "general",
-        "cone"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-cone.svg",
-        "outline": "icon-assets/outline/general/general-cone.svg"
-      }
-    },
-    {
-      "id": "general-copy",
-      "category": "general",
-      "tags": [
-        "general",
-        "copy"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-copy.svg",
-        "outline": "icon-assets/outline/general/general-copy.svg"
-      }
-    },
-    {
-      "id": "general-corner",
-      "category": "general",
-      "tags": [
-        "general",
-        "corner"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-corner.svg",
-        "outline": "icon-assets/outline/general/general-corner.svg"
-      }
-    },
-    {
-      "id": "general-cross-octagon",
-      "category": "general",
-      "tags": [
-        "general",
-        "cross",
-        "octagon"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-cross-octagon.svg",
-        "outline": "icon-assets/outline/general/general-cross-octagon.svg"
-      }
-    },
-    {
-      "id": "general-cursor",
-      "category": "general",
-      "tags": [
-        "general",
-        "cursor"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-cursor.svg",
-        "outline": "icon-assets/outline/general/general-cursor.svg"
-      }
-    },
-    {
-      "id": "general-cursor-click",
-      "category": "general",
-      "tags": [
-        "general",
-        "cursor",
-        "click"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-cursor-click.svg",
-        "outline": "icon-assets/outline/general/general-cursor-click.svg"
-      }
-    },
-    {
-      "id": "general-cursor-click-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "cursor",
-        "click",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-cursor-click-alt.svg",
-        "outline": "icon-assets/outline/general/general-cursor-click-alt.svg"
-      }
-    },
-    {
-      "id": "general-data-stack",
-      "category": "general",
-      "tags": [
-        "general",
-        "data",
-        "stack"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-data-stack.svg",
-        "outline": "icon-assets/outline/general/general-data-stack.svg"
-      }
-    },
-    {
-      "id": "general-door",
-      "category": "general",
-      "tags": [
-        "general",
-        "door"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-door.svg",
-        "outline": "icon-assets/outline/general/general-door.svg"
-      }
-    },
-    {
-      "id": "general-ear",
-      "category": "general",
-      "tags": [
-        "general",
-        "ear"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-ear.svg",
-        "outline": "icon-assets/outline/general/general-ear.svg"
-      }
-    },
-    {
-      "id": "general-education",
-      "category": "general",
-      "tags": [
-        "general",
-        "education"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-education.svg",
-        "outline": "icon-assets/outline/general/general-education.svg"
-      }
-    },
-    {
-      "id": "general-ellipsis-horizontal",
-      "category": "general",
-      "tags": [
-        "general",
-        "ellipsis",
-        "horizontal"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-ellipsis-horizontal.svg",
-        "outline": "icon-assets/outline/general/general-ellipsis-horizontal.svg"
-      }
-    },
-    {
-      "id": "general-ellipsis-vertical",
-      "category": "general",
-      "tags": [
-        "general",
-        "ellipsis",
-        "vertical"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-ellipsis-vertical.svg",
-        "outline": "icon-assets/outline/general/general-ellipsis-vertical.svg"
-      }
-    },
-    {
-      "id": "general-exclamation-mark",
-      "category": "general",
-      "tags": [
-        "general",
-        "exclamation",
-        "mark"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-exclamation-mark.svg",
-        "outline": "icon-assets/outline/general/general-exclamation-mark.svg"
-      }
-    },
-    {
-      "id": "general-exclamation-mark-double",
-      "category": "general",
-      "tags": [
-        "general",
-        "exclamation",
-        "mark",
-        "double"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-exclamation-mark-double.svg",
-        "outline": "icon-assets/outline/general/general-exclamation-mark-double.svg"
-      }
-    },
-    {
-      "id": "general-exclamation-tripple",
-      "category": "general",
-      "tags": [
-        "general",
-        "exclamation",
-        "tripple"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-exclamation-tripple.svg",
-        "outline": "icon-assets/outline/general/general-exclamation-tripple.svg"
-      }
-    },
-    {
-      "id": "general-eye-close",
-      "category": "general",
-      "tags": [
-        "general",
-        "eye",
-        "close"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-eye-close.svg",
-        "filled": "icon-assets/outline/general/general-eye-close.svg"
-      }
-    },
-    {
-      "id": "general-eye-hide",
-      "category": "general",
-      "tags": [
-        "general",
-        "eye",
-        "hide"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-eye-hide.svg",
-        "outline": "icon-assets/outline/general/general-eye-hide.svg"
-      }
-    },
-    {
-      "id": "general-eye-hide-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "eye",
-        "hide",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-eye-hide-alt.svg",
-        "outline": "icon-assets/outline/general/general-eye-hide-alt.svg"
-      }
-    },
-    {
-      "id": "general-eye-show",
-      "category": "general",
-      "tags": [
-        "general",
-        "eye",
-        "show"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-eye-show.svg",
-        "outline": "icon-assets/outline/general/general-eye-show.svg"
-      }
-    },
-    {
-      "id": "general-eye-show-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "eye",
-        "show",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-eye-show-alt.svg",
-        "outline": "icon-assets/outline/general/general-eye-show-alt.svg"
-      }
-    },
-    {
-      "id": "general-eyedropper",
-      "category": "general",
-      "tags": [
-        "general",
-        "eyedropper"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-eyedropper.svg",
-        "outline": "icon-assets/outline/general/general-eyedropper.svg"
-      }
-    },
-    {
-      "id": "general-feather",
-      "category": "general",
-      "tags": [
-        "general",
-        "feather"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-feather.svg",
-        "outline": "icon-assets/outline/general/general-feather.svg"
-      }
-    },
-    {
-      "id": "general-filter-funnel",
-      "category": "general",
-      "tags": [
-        "general",
-        "filter",
-        "funnel"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-filter-funnel.svg",
-        "outline": "icon-assets/outline/general/general-filter-funnel.svg"
-      }
-    },
-    {
-      "id": "general-flag",
-      "category": "general",
-      "tags": [
-        "general",
-        "flag"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-flag.svg",
-        "outline": "icon-assets/outline/general/general-flag.svg"
-      }
-    },
-    {
-      "id": "general-flag-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "flag",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-flag-alt.svg",
-        "outline": "icon-assets/outline/general/general-flag-alt.svg"
-      }
-    },
-    {
-      "id": "general-flower",
-      "category": "general",
-      "tags": [
-        "general",
-        "flower"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-flower.svg",
-        "outline": "icon-assets/outline/general/general-flower.svg"
-      }
-    },
-    {
-      "id": "general-folder-open",
-      "category": "general",
-      "tags": [
-        "general",
-        "folder",
-        "open"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-folder-open.svg",
-        "outline": "icon-assets/outline/general/general-folder-open.svg"
-      }
-    },
-    {
-      "id": "general-general-location-pin-map",
-      "category": "general",
-      "tags": [
-        "general",
-        "location",
-        "pin",
-        "map"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-general-location-pin-map.svg",
-        "outline": "icon-assets/outline/general/general-general-location-pin-map.svg"
-      }
-    },
-    {
-      "id": "general-general-location-pin-map-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "location",
-        "pin",
-        "map",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-general-location-pin-map-alt.svg",
-        "outline": "icon-assets/outline/general/general-general-location-pin-map-alt.svg"
-      }
-    },
-    {
-      "id": "general-globe",
-      "category": "general",
-      "tags": [
-        "general",
-        "globe"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-globe.svg",
-        "filled": "icon-assets/outline/general/general-globe.svg"
-      }
-    },
-    {
-      "id": "general-globe-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "globe",
-        "alt"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-globe-alt.svg",
-        "filled": "icon-assets/outline/general/general-globe-alt.svg"
-      }
-    },
-    {
-      "id": "general-grid",
-      "category": "general",
-      "tags": [
-        "general",
-        "grid"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-grid.svg",
-        "outline": "icon-assets/outline/general/general-grid.svg"
-      }
-    },
-    {
-      "id": "general-heartbeat-monitor",
-      "category": "general",
-      "tags": [
-        "general",
-        "heartbeat",
-        "monitor"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-heartbeat-monitor.svg",
-        "outline": "icon-assets/outline/general/general-heartbeat-monitor.svg"
-      }
-    },
-    {
-      "id": "general-hourglass",
-      "category": "general",
-      "tags": [
-        "general",
-        "hourglass"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-hourglass.svg",
-        "outline": "icon-assets/outline/general/general-hourglass.svg"
-      }
-    },
-    {
-      "id": "general-identification-card",
-      "category": "general",
-      "tags": [
-        "general",
-        "identification",
-        "card"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-identification-card.svg",
-        "outline": "icon-assets/outline/general/general-identification-card.svg"
-      }
-    },
-    {
-      "id": "general-information-circle",
-      "category": "general",
-      "tags": [
-        "general",
-        "information",
-        "circle"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-information-circle.svg",
-        "outline": "icon-assets/outline/general/general-information-circle.svg"
-      }
-    },
-    {
-      "id": "general-key",
-      "category": "general",
-      "tags": [
-        "general",
-        "key"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-key.svg",
-        "outline": "icon-assets/outline/general/general-key.svg"
-      }
-    },
-    {
-      "id": "general-keychain",
-      "category": "general",
-      "tags": [
-        "general",
-        "keychain"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-keychain.svg",
-        "outline": "icon-assets/outline/general/general-keychain.svg"
-      }
-    },
-    {
-      "id": "general-legal",
-      "category": "general",
-      "tags": [
-        "general",
-        "legal"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-legal.svg",
-        "outline": "icon-assets/outline/general/general-legal.svg"
-      }
-    },
-    {
-      "id": "general-lifebuoy",
-      "category": "general",
-      "tags": [
-        "general",
-        "lifebuoy"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-lifebuoy.svg",
-        "outline": "icon-assets/outline/general/general-lifebuoy.svg"
-      }
-    },
-    {
-      "id": "general-lifebuoy-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "lifebuoy",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-lifebuoy-alt.svg",
-        "outline": "icon-assets/outline/general/general-lifebuoy-alt.svg"
-      }
-    },
-    {
-      "id": "general-light-bulb",
-      "category": "general",
-      "tags": [
-        "general",
-        "light",
-        "bulb"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-light-bulb.svg",
-        "outline": "icon-assets/outline/general/general-light-bulb.svg"
-      }
-    },
-    {
-      "id": "general-light-bulb-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "light",
-        "bulb",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-light-bulb-alt.svg",
-        "outline": "icon-assets/outline/general/general-light-bulb-alt.svg"
-      }
-    },
-    {
-      "id": "general-light-bulb-alt-2",
-      "category": "general",
-      "tags": [
-        "general",
-        "light",
-        "bulb",
-        "alt",
-        "2"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-light-bulb-alt-2.svg",
-        "outline": "icon-assets/outline/general/general-light-bulb-alt-2.svg"
-      }
-    },
-    {
-      "id": "general-light-bulb-smart",
-      "category": "general",
-      "tags": [
-        "general",
-        "light",
-        "bulb",
-        "smart"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-light-bulb-smart.svg",
-        "outline": "icon-assets/outline/general/general-light-bulb-smart.svg"
-      }
-    },
-    {
-      "id": "general-list",
-      "category": "general",
-      "tags": [
-        "general",
-        "list"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-list.svg",
-        "outline": "icon-assets/outline/general/general-list.svg"
-      }
-    },
-    {
-      "id": "general-loading",
-      "category": "general",
-      "tags": [
-        "general",
-        "loading"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-loading.svg",
-        "filled": "icon-assets/outline/general/general-loading.svg"
-      }
-    },
-    {
-      "id": "general-location-pin",
-      "category": "general",
-      "tags": [
-        "general",
-        "location",
-        "pin"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-location-pin.svg",
-        "outline": "icon-assets/outline/general/general-location-pin.svg"
-      }
-    },
-    {
-      "id": "general-location-pin-add",
-      "category": "general",
-      "tags": [
-        "general",
-        "location",
-        "pin",
-        "add"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-location-pin-add.svg",
-        "outline": "icon-assets/outline/general/general-location-pin-add.svg"
-      }
-    },
-    {
-      "id": "general-location-pin-check",
-      "category": "general",
-      "tags": [
-        "general",
-        "location",
-        "pin",
-        "check"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-location-pin-check.svg",
-        "outline": "icon-assets/outline/general/general-location-pin-check.svg"
-      }
-    },
-    {
-      "id": "general-location-pin-delete",
-      "category": "general",
-      "tags": [
-        "general",
-        "location",
-        "pin",
-        "delete"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-location-pin-delete.svg",
-        "outline": "icon-assets/outline/general/general-location-pin-delete.svg"
-      }
-    },
-    {
-      "id": "general-location-pin-minus",
-      "category": "general",
-      "tags": [
-        "general",
-        "location",
-        "pin",
-        "minus"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-location-pin-minus.svg",
-        "outline": "icon-assets/outline/general/general-location-pin-minus.svg"
-      }
-    },
-    {
-      "id": "general-location-pin-question",
-      "category": "general",
-      "tags": [
-        "general",
-        "location",
-        "pin",
-        "question"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-location-pin-question.svg",
-        "outline": "icon-assets/outline/general/general-location-pin-question.svg"
-      }
-    },
-    {
-      "id": "general-lock",
-      "category": "general",
-      "tags": [
-        "general",
-        "lock"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-lock.svg",
-        "outline": "icon-assets/outline/general/general-lock.svg"
-      }
-    },
-    {
-      "id": "general-lock-disabled",
-      "category": "general",
-      "tags": [
-        "general",
-        "lock",
-        "disabled"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-lock-disabled.svg",
-        "outline": "icon-assets/outline/general/general-lock-disabled.svg"
-      }
-    },
-    {
-      "id": "general-lock-unlock",
-      "category": "general",
-      "tags": [
-        "general",
-        "lock",
-        "unlock"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-lock-unlock.svg",
-        "outline": "icon-assets/outline/general/general-lock-unlock.svg"
-      }
-    },
-    {
-      "id": "general-map",
-      "category": "general",
-      "tags": [
-        "general",
-        "map"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-map.svg",
-        "outline": "icon-assets/outline/general/general-map.svg"
-      }
-    },
-    {
-      "id": "general-map-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "map",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-map-alt.svg",
-        "outline": "icon-assets/outline/general/general-map-alt.svg"
-      }
-    },
-    {
-      "id": "general-menu-hamburger",
-      "category": "general",
-      "tags": [
-        "general",
-        "menu",
-        "hamburger"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-menu-hamburger.svg",
-        "outline": "icon-assets/outline/general/general-menu-hamburger.svg"
-      }
-    },
-    {
-      "id": "general-metal",
-      "category": "general",
-      "tags": [
-        "general",
-        "metal"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-metal.svg",
-        "outline": "icon-assets/outline/general/general-metal.svg"
-      }
-    },
-    {
-      "id": "general-mountain",
-      "category": "general",
-      "tags": [
-        "general",
-        "mountain"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-mountain.svg",
-        "outline": "icon-assets/outline/general/general-mountain.svg"
-      }
-    },
-    {
-      "id": "general-paint-roller",
-      "category": "general",
-      "tags": [
-        "general",
-        "paint",
-        "roller"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-paint-roller.svg",
-        "outline": "icon-assets/outline/general/general-paint-roller.svg"
-      }
-    },
-    {
-      "id": "general-pen-edit",
-      "category": "general",
-      "tags": [
-        "general",
-        "pen",
-        "edit"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-pen-edit.svg",
-        "outline": "icon-assets/outline/general/general-pen-edit.svg"
-      }
-    },
-    {
-      "id": "general-pill",
-      "category": "general",
-      "tags": [
-        "general",
-        "pill"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-pill.svg",
-        "outline": "icon-assets/outline/general/general-pill.svg"
-      }
-    },
-    {
-      "id": "general-pin",
-      "category": "general",
-      "tags": [
-        "general",
-        "pin"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-pin.svg",
-        "outline": "icon-assets/outline/general/general-pin.svg"
-      }
-    },
-    {
-      "id": "general-pin-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "pin",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-pin-alt.svg",
-        "outline": "icon-assets/outline/general/general-pin-alt.svg"
-      }
-    },
-    {
-      "id": "general-puzzle",
-      "category": "general",
-      "tags": [
-        "general",
-        "puzzle"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-puzzle.svg",
-        "outline": "icon-assets/outline/general/general-puzzle.svg"
-      }
-    },
-    {
-      "id": "general-question-circle",
-      "category": "general",
-      "tags": [
-        "general",
-        "question",
-        "circle"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-question-circle.svg",
-        "outline": "icon-assets/outline/general/general-question-circle.svg"
-      }
-    },
-    {
-      "id": "general-question-mark",
-      "category": "general",
-      "tags": [
-        "general",
-        "question",
-        "mark"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-question-mark.svg",
-        "outline": "icon-assets/outline/general/general-question-mark.svg"
-      }
-    },
-    {
-      "id": "general-recording",
-      "category": "general",
-      "tags": [
-        "general",
-        "recording"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-recording.svg",
-        "outline": "icon-assets/outline/general/general-recording.svg"
-      }
-    },
-    {
-      "id": "general-robot",
-      "category": "general",
-      "tags": [
-        "general",
-        "robot"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-robot.svg",
-        "outline": "icon-assets/outline/general/general-robot.svg"
-      }
-    },
-    {
-      "id": "general-route",
-      "category": "general",
-      "tags": [
-        "general",
-        "route"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-route.svg",
-        "outline": "icon-assets/outline/general/general-route.svg"
-      }
-    },
-    {
-      "id": "general-ruler",
-      "category": "general",
-      "tags": [
-        "general",
-        "ruler"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-ruler.svg",
-        "outline": "icon-assets/outline/general/general-ruler.svg"
-      }
-    },
-    {
-      "id": "general-ruler-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "ruler",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-ruler-alt.svg",
-        "outline": "icon-assets/outline/general/general-ruler-alt.svg"
-      }
-    },
-    {
-      "id": "general-scale",
-      "category": "general",
-      "tags": [
-        "general",
-        "scale"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-scale.svg",
-        "outline": "icon-assets/outline/general/general-scale.svg"
-      }
-    },
-    {
-      "id": "general-scan",
-      "category": "general",
-      "tags": [
-        "general",
-        "scan"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-scan.svg",
-        "filled": "icon-assets/outline/general/general-scan.svg"
-      }
-    },
-    {
-      "id": "general-scissors",
-      "category": "general",
-      "tags": [
-        "general",
-        "scissors"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-scissors.svg",
-        "outline": "icon-assets/outline/general/general-scissors.svg"
-      }
-    },
-    {
-      "id": "general-screen",
-      "category": "general",
-      "tags": [
-        "general",
-        "screen"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-screen.svg",
-        "outline": "icon-assets/outline/general/general-screen.svg"
-      }
-    },
-    {
-      "id": "general-search",
-      "category": "general",
-      "tags": [
-        "general",
-        "search"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-search.svg",
-        "outline": "icon-assets/outline/general/general-search.svg"
-      }
-    },
-    {
-      "id": "general-settings-gear",
-      "category": "general",
-      "tags": [
-        "general",
-        "settings",
-        "gear"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-settings-gear.svg",
-        "outline": "icon-assets/outline/general/general-settings-gear.svg"
-      }
-    },
-    {
-      "id": "general-settings-nut",
-      "category": "general",
-      "tags": [
-        "general",
-        "settings",
-        "nut"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-settings-nut.svg",
-        "outline": "icon-assets/outline/general/general-settings-nut.svg"
-      }
-    },
-    {
-      "id": "general-settings-wrench",
-      "category": "general",
-      "tags": [
-        "general",
-        "settings",
-        "wrench"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-settings-wrench.svg",
-        "outline": "icon-assets/outline/general/general-settings-wrench.svg"
-      }
-    },
-    {
-      "id": "general-share",
-      "category": "general",
-      "tags": [
-        "general",
-        "share"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-share.svg",
-        "outline": "icon-assets/outline/general/general-share.svg"
-      }
-    },
-    {
-      "id": "general-sheild-info",
-      "category": "general",
-      "tags": [
-        "general",
-        "sheild",
-        "info"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-sheild-info.svg",
-        "outline": "icon-assets/outline/general/general-sheild-info.svg"
-      }
-    },
-    {
-      "id": "general-shutter",
-      "category": "general",
-      "tags": [
-        "general",
-        "shutter"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-shutter.svg",
-        "outline": "icon-assets/outline/general/general-shutter.svg"
-      }
-    },
-    {
-      "id": "general-speedometer-fast",
-      "category": "general",
-      "tags": [
-        "general",
-        "speedometer",
-        "fast"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-speedometer-fast.svg",
-        "outline": "icon-assets/outline/general/general-speedometer-fast.svg"
-      }
-    },
-    {
-      "id": "general-speedometer-medium",
-      "category": "general",
-      "tags": [
-        "general",
-        "speedometer",
-        "medium"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-speedometer-medium.svg",
-        "outline": "icon-assets/outline/general/general-speedometer-medium.svg"
-      }
-    },
-    {
-      "id": "general-speedometer-slow",
-      "category": "general",
-      "tags": [
-        "general",
-        "speedometer",
-        "slow"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-speedometer-slow.svg",
-        "outline": "icon-assets/outline/general/general-speedometer-slow.svg"
-      }
-    },
-    {
-      "id": "general-sticker-round",
-      "category": "general",
-      "tags": [
-        "general",
-        "sticker",
-        "round"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-sticker-round.svg",
-        "outline": "icon-assets/outline/general/general-sticker-round.svg"
-      }
-    },
-    {
-      "id": "general-sticker-square",
-      "category": "general",
-      "tags": [
-        "general",
-        "sticker",
-        "square"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-sticker-square.svg",
-        "outline": "icon-assets/outline/general/general-sticker-square.svg"
-      }
-    },
-    {
-      "id": "general-stop",
-      "category": "general",
-      "tags": [
-        "general",
-        "stop"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-stop.svg",
-        "filled": "icon-assets/outline/general/general-stop.svg"
-      }
-    },
-    {
-      "id": "general-stop-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "stop",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-stop-alt.svg",
-        "outline": "icon-assets/outline/general/general-stop-alt.svg"
-      }
-    },
-    {
-      "id": "general-stop-diagonal",
-      "category": "general",
-      "tags": [
-        "general",
-        "stop",
-        "diagonal"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-stop-diagonal.svg",
-        "filled": "icon-assets/outline/general/general-stop-diagonal.svg"
-      }
-    },
-    {
-      "id": "general-stop-diagonal-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "stop",
-        "diagonal",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-stop-diagonal-alt.svg",
-        "outline": "icon-assets/outline/general/general-stop-diagonal-alt.svg"
-      }
-    },
-    {
-      "id": "general-swatch",
-      "category": "general",
-      "tags": [
-        "general",
-        "swatch"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-swatch.svg",
-        "outline": "icon-assets/outline/general/general-swatch.svg"
-      }
-    },
-    {
-      "id": "general-table",
-      "category": "general",
-      "tags": [
-        "general",
-        "table"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-table.svg",
-        "outline": "icon-assets/outline/general/general-table.svg"
-      }
-    },
-    {
-      "id": "general-target",
-      "category": "general",
-      "tags": [
-        "general",
-        "target"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/general/general-target.svg",
-        "filled": "icon-assets/outline/general/general-target.svg"
-      }
-    },
-    {
-      "id": "general-target-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "target",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-target-alt.svg",
-        "outline": "icon-assets/outline/general/general-target-alt.svg"
-      }
-    },
-    {
-      "id": "general-thumb-down",
-      "category": "general",
-      "tags": [
-        "general",
-        "thumb",
-        "down"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-thumb-down.svg",
-        "outline": "icon-assets/outline/general/general-thumb-down.svg"
-      }
-    },
-    {
-      "id": "general-thumb-up",
-      "category": "general",
-      "tags": [
-        "general",
-        "thumb",
-        "up"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-thumb-up.svg",
-        "outline": "icon-assets/outline/general/general-thumb-up.svg"
-      }
-    },
-    {
-      "id": "general-toggle-switch-off",
-      "category": "general",
-      "tags": [
-        "general",
-        "toggle",
-        "switch",
-        "off"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-toggle-switch-off.svg",
-        "outline": "icon-assets/outline/general/general-toggle-switch-off.svg"
-      }
-    },
-    {
-      "id": "general-toggle-switch-on",
-      "category": "general",
-      "tags": [
-        "general",
-        "toggle",
-        "switch",
-        "on"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-toggle-switch-on.svg",
-        "outline": "icon-assets/outline/general/general-toggle-switch-on.svg"
-      }
-    },
-    {
-      "id": "general-toolbox",
-      "category": "general",
-      "tags": [
-        "general",
-        "toolbox"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-toolbox.svg",
-        "outline": "icon-assets/outline/general/general-toolbox.svg"
-      }
-    },
-    {
-      "id": "general-traffic-light",
-      "category": "general",
-      "tags": [
-        "general",
-        "traffic",
-        "light"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-traffic-light.svg",
-        "outline": "icon-assets/outline/general/general-traffic-light.svg"
-      }
-    },
-    {
-      "id": "general-trash",
-      "category": "general",
-      "tags": [
-        "general",
-        "trash"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-trash.svg",
-        "outline": "icon-assets/outline/general/general-trash.svg"
-      }
-    },
-    {
-      "id": "general-trash-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "trash",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-trash-alt.svg",
-        "outline": "icon-assets/outline/general/general-trash-alt.svg"
-      }
-    },
-    {
-      "id": "general-tray-open",
-      "category": "general",
-      "tags": [
-        "general",
-        "tray",
-        "open"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-tray-open.svg",
-        "outline": "icon-assets/outline/general/general-tray-open.svg"
-      }
-    },
-    {
-      "id": "general-trophy",
-      "category": "general",
-      "tags": [
-        "general",
-        "trophy"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-trophy.svg",
-        "outline": "icon-assets/outline/general/general-trophy.svg"
-      }
-    },
-    {
-      "id": "general-vector",
-      "category": "general",
-      "tags": [
-        "general",
-        "vector"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-vector.svg",
-        "outline": "icon-assets/outline/general/general-vector.svg"
-      }
-    },
-    {
-      "id": "general-virus",
-      "category": "general",
-      "tags": [
-        "general",
-        "virus"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-virus.svg",
-        "outline": "icon-assets/outline/general/general-virus.svg"
-      }
-    },
-    {
-      "id": "general-warning",
-      "category": "general",
-      "tags": [
-        "general",
-        "warning"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-warning.svg",
-        "outline": "icon-assets/outline/general/general-warning.svg"
-      }
-    },
-    {
-      "id": "general-warning-alt",
-      "category": "general",
-      "tags": [
-        "general",
-        "warning",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-warning-alt.svg",
-        "outline": "icon-assets/outline/general/general-warning-alt.svg"
-      }
-    },
-    {
-      "id": "general-warning-circle",
-      "category": "general",
-      "tags": [
-        "general",
-        "warning",
-        "circle"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-warning-circle.svg",
-        "outline": "icon-assets/outline/general/general-warning-circle.svg"
-      }
-    },
-    {
-      "id": "general-warning-electricity",
-      "category": "general",
-      "tags": [
-        "general",
-        "warning",
-        "electricity"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-warning-electricity.svg",
-        "outline": "icon-assets/outline/general/general-warning-electricity.svg"
-      }
-    },
-    {
-      "id": "general-warning-octagon",
-      "category": "general",
-      "tags": [
-        "general",
-        "warning",
-        "octagon"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-warning-octagon.svg",
-        "outline": "icon-assets/outline/general/general-warning-octagon.svg"
-      }
-    },
-    {
-      "id": "general-wayfinding",
-      "category": "general",
-      "tags": [
-        "general",
-        "wayfinding"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-wayfinding.svg",
-        "outline": "icon-assets/outline/general/general-wayfinding.svg"
-      }
-    },
-    {
-      "id": "general-zoom-in",
-      "category": "general",
-      "tags": [
-        "general",
-        "zoom",
-        "in"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-zoom-in.svg",
-        "outline": "icon-assets/outline/general/general-zoom-in.svg"
-      }
-    },
-    {
-      "id": "general-zoom-out",
-      "category": "general",
-      "tags": [
-        "general",
-        "zoom",
-        "out"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/general/general-zoom-out.svg",
-        "outline": "icon-assets/outline/general/general-zoom-out.svg"
-      }
-    },
-    {
       "id": "gesture-move-2-finger-down",
       "category": "gesture",
       "tags": [
@@ -6817,6 +4702,1453 @@
       }
     },
     {
+      "id": "interface-anchor",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "anchor"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-anchor.svg",
+        "filled": "icon-assets/outline/interface/interface-anchor.svg"
+      }
+    },
+    {
+      "id": "interface-archive",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "archive"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-archive.svg",
+        "outline": "icon-assets/outline/interface/interface-archive.svg"
+      }
+    },
+    {
+      "id": "interface-attachment",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "attachment"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-attachment.svg",
+        "filled": "icon-assets/outline/interface/interface-attachment.svg"
+      }
+    },
+    {
+      "id": "interface-backspace",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "backspace"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-backspace.svg",
+        "outline": "icon-assets/outline/interface/interface-backspace.svg"
+      }
+    },
+    {
+      "id": "interface-bacteria",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "bacteria"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-bacteria.svg",
+        "outline": "icon-assets/outline/interface/interface-bacteria.svg"
+      }
+    },
+    {
+      "id": "interface-bandage",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "bandage"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-bandage.svg",
+        "outline": "icon-assets/outline/interface/interface-bandage.svg"
+      }
+    },
+    {
+      "id": "interface-binoculars",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "binoculars"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-binoculars.svg",
+        "outline": "icon-assets/outline/interface/interface-binoculars.svg"
+      }
+    },
+    {
+      "id": "interface-biscuit",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "biscuit"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-biscuit.svg",
+        "outline": "icon-assets/outline/interface/interface-biscuit.svg"
+      }
+    },
+    {
+      "id": "interface-briefcase",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "briefcase"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-briefcase.svg",
+        "outline": "icon-assets/outline/interface/interface-briefcase.svg"
+      }
+    },
+    {
+      "id": "interface-brightness-decrease",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "brightness",
+        "decrease"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-brightness-decrease.svg",
+        "outline": "icon-assets/outline/interface/interface-brightness-decrease.svg"
+      }
+    },
+    {
+      "id": "interface-brightness-increase",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "brightness",
+        "increase"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-brightness-increase.svg",
+        "outline": "icon-assets/outline/interface/interface-brightness-increase.svg"
+      }
+    },
+    {
+      "id": "interface-bug",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "bug"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-bug.svg",
+        "outline": "icon-assets/outline/interface/interface-bug.svg"
+      }
+    },
+    {
+      "id": "interface-button-radio",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "button",
+        "radio"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-button-radio.svg",
+        "filled": "icon-assets/outline/interface/interface-button-radio.svg"
+      }
+    },
+    {
+      "id": "interface-button-radio-selected",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "button",
+        "radio",
+        "selected"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-button-radio-selected.svg",
+        "outline": "icon-assets/outline/interface/interface-button-radio-selected.svg"
+      }
+    },
+    {
+      "id": "interface-calculation",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "calculation"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-calculation.svg",
+        "outline": "icon-assets/outline/interface/interface-calculation.svg"
+      }
+    },
+    {
+      "id": "interface-chain-link",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "chain",
+        "link"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-chain-link.svg",
+        "filled": "icon-assets/outline/interface/interface-chain-link.svg"
+      }
+    },
+    {
+      "id": "interface-chain-link-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "chain",
+        "link",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-chain-link-alt.svg",
+        "filled": "icon-assets/outline/interface/interface-chain-link-alt.svg"
+      }
+    },
+    {
+      "id": "interface-chain-link-broken",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "chain",
+        "link",
+        "broken"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-chain-link-broken.svg",
+        "filled": "icon-assets/outline/interface/interface-chain-link-broken.svg"
+      }
+    },
+    {
+      "id": "interface-chain-link-broken-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "chain",
+        "link",
+        "broken",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-chain-link-broken-alt.svg",
+        "filled": "icon-assets/outline/interface/interface-chain-link-broken-alt.svg"
+      }
+    },
+    {
+      "id": "interface-chart-line",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "chart",
+        "line"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-chart-line.svg",
+        "outline": "icon-assets/outline/interface/interface-chart-line.svg"
+      }
+    },
+    {
+      "id": "interface-checkbox-checked",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "checkbox",
+        "checked"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-checkbox-checked.svg",
+        "outline": "icon-assets/outline/interface/interface-checkbox-checked.svg"
+      }
+    },
+    {
+      "id": "interface-checkbox-indeterminate",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "checkbox",
+        "indeterminate"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-checkbox-indeterminate.svg",
+        "outline": "icon-assets/outline/interface/interface-checkbox-indeterminate.svg"
+      }
+    },
+    {
+      "id": "interface-checkbox-unchecked",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "checkbox",
+        "unchecked"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-checkbox-unchecked.svg",
+        "filled": "icon-assets/outline/interface/interface-checkbox-unchecked.svg"
+      }
+    },
+    {
+      "id": "interface-clipboard-check",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "clipboard",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-clipboard-check.svg",
+        "outline": "icon-assets/outline/interface/interface-clipboard-check.svg"
+      }
+    },
+    {
+      "id": "interface-clipboard-paste",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "clipboard",
+        "paste"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-clipboard-paste.svg",
+        "outline": "icon-assets/outline/interface/interface-clipboard-paste.svg"
+      }
+    },
+    {
+      "id": "interface-clipboard-warning",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "clipboard",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-clipboard-warning.svg",
+        "outline": "icon-assets/outline/interface/interface-clipboard-warning.svg"
+      }
+    },
+    {
+      "id": "interface-command",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "command"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-command.svg",
+        "filled": "icon-assets/outline/interface/interface-command.svg"
+      }
+    },
+    {
+      "id": "interface-compass",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "compass"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-compass.svg",
+        "outline": "icon-assets/outline/interface/interface-compass.svg"
+      }
+    },
+    {
+      "id": "interface-compass-1",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "compass",
+        "1"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-compass-1.svg",
+        "outline": "icon-assets/outline/interface/interface-compass-1.svg"
+      }
+    },
+    {
+      "id": "interface-cone",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "cone"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-cone.svg",
+        "outline": "icon-assets/outline/interface/interface-cone.svg"
+      }
+    },
+    {
+      "id": "interface-copy",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "copy"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-copy.svg",
+        "outline": "icon-assets/outline/interface/interface-copy.svg"
+      }
+    },
+    {
+      "id": "interface-corner",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "corner"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-corner.svg",
+        "outline": "icon-assets/outline/interface/interface-corner.svg"
+      }
+    },
+    {
+      "id": "interface-cursor",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "cursor"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-cursor.svg",
+        "outline": "icon-assets/outline/interface/interface-cursor.svg"
+      }
+    },
+    {
+      "id": "interface-cursor-click",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "cursor",
+        "click"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-cursor-click.svg",
+        "outline": "icon-assets/outline/interface/interface-cursor-click.svg"
+      }
+    },
+    {
+      "id": "interface-cursor-click-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "cursor",
+        "click",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-cursor-click-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-cursor-click-alt.svg"
+      }
+    },
+    {
+      "id": "interface-door",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "door"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-door.svg",
+        "outline": "icon-assets/outline/interface/interface-door.svg"
+      }
+    },
+    {
+      "id": "interface-ear",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "ear"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-ear.svg",
+        "outline": "icon-assets/outline/interface/interface-ear.svg"
+      }
+    },
+    {
+      "id": "interface-education",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "education"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-education.svg",
+        "outline": "icon-assets/outline/interface/interface-education.svg"
+      }
+    },
+    {
+      "id": "interface-ellipsis-horizontal",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "ellipsis",
+        "horizontal"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-ellipsis-horizontal.svg",
+        "outline": "icon-assets/outline/interface/interface-ellipsis-horizontal.svg"
+      }
+    },
+    {
+      "id": "interface-ellipsis-vertical",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "ellipsis",
+        "vertical"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-ellipsis-vertical.svg",
+        "outline": "icon-assets/outline/interface/interface-ellipsis-vertical.svg"
+      }
+    },
+    {
+      "id": "interface-exclamation-mark",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "exclamation",
+        "mark"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-exclamation-mark.svg",
+        "outline": "icon-assets/outline/interface/interface-exclamation-mark.svg"
+      }
+    },
+    {
+      "id": "interface-exclamation-mark-double",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "exclamation",
+        "mark",
+        "double"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-exclamation-mark-double.svg",
+        "outline": "icon-assets/outline/interface/interface-exclamation-mark-double.svg"
+      }
+    },
+    {
+      "id": "interface-exclamation-tripple",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "exclamation",
+        "tripple"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-exclamation-tripple.svg",
+        "outline": "icon-assets/filled/interface/interface-exclamation-tripple.svg"
+      }
+    },
+    {
+      "id": "interface-eye-close",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "eye",
+        "close"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-eye-close.svg",
+        "filled": "icon-assets/outline/interface/interface-eye-close.svg"
+      }
+    },
+    {
+      "id": "interface-eye-hide",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "eye",
+        "hide"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-eye-hide.svg",
+        "outline": "icon-assets/outline/interface/interface-eye-hide.svg"
+      }
+    },
+    {
+      "id": "interface-eye-hide-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "eye",
+        "hide",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-eye-hide-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-eye-hide-alt.svg"
+      }
+    },
+    {
+      "id": "interface-eye-show",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "eye",
+        "show"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-eye-show.svg",
+        "outline": "icon-assets/outline/interface/interface-eye-show.svg"
+      }
+    },
+    {
+      "id": "interface-eye-show-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "eye",
+        "show",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-eye-show-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-eye-show-alt.svg"
+      }
+    },
+    {
+      "id": "interface-feather",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "feather"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-feather.svg",
+        "outline": "icon-assets/outline/interface/interface-feather.svg"
+      }
+    },
+    {
+      "id": "interface-filter-funnel",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "filter",
+        "funnel"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-filter-funnel.svg",
+        "outline": "icon-assets/outline/interface/interface-filter-funnel.svg"
+      }
+    },
+    {
+      "id": "interface-flag",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "flag"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-flag.svg",
+        "outline": "icon-assets/outline/interface/interface-flag.svg"
+      }
+    },
+    {
+      "id": "interface-flag-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "flag",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-flag-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-flag-alt.svg"
+      }
+    },
+    {
+      "id": "interface-flower",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "flower"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-flower.svg",
+        "outline": "icon-assets/outline/interface/interface-flower.svg"
+      }
+    },
+    {
+      "id": "interface-folder-open",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "folder",
+        "open"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-folder-open.svg",
+        "outline": "icon-assets/outline/interface/interface-folder-open.svg"
+      }
+    },
+    {
+      "id": "interface-general-exclamation-tripple",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "general",
+        "exclamation",
+        "tripple"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-general-exclamation-tripple.svg",
+        "filled": "icon-assets/outline/interface/interface-general-exclamation-tripple.svg"
+      }
+    },
+    {
+      "id": "interface-glass",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "glass"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-glass.svg",
+        "outline": "icon-assets/outline/interface/interface-glass.svg"
+      }
+    },
+    {
+      "id": "interface-glass-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "glass",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-glass-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-glass-alt.svg"
+      }
+    },
+    {
+      "id": "interface-globe",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "globe"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-globe.svg",
+        "filled": "icon-assets/outline/interface/interface-globe.svg"
+      }
+    },
+    {
+      "id": "interface-globe-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "globe",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-globe-alt.svg",
+        "filled": "icon-assets/outline/interface/interface-globe-alt.svg"
+      }
+    },
+    {
+      "id": "interface-grid",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "grid"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-grid.svg",
+        "outline": "icon-assets/outline/interface/interface-grid.svg"
+      }
+    },
+    {
+      "id": "interface-heartbeat-monitor",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "heartbeat",
+        "monitor"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-heartbeat-monitor.svg",
+        "outline": "icon-assets/outline/interface/interface-heartbeat-monitor.svg"
+      }
+    },
+    {
+      "id": "interface-home",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "home"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-home.svg",
+        "outline": "icon-assets/outline/interface/interface-home.svg"
+      }
+    },
+    {
+      "id": "interface-identification-card",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "identification",
+        "card"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-identification-card.svg",
+        "outline": "icon-assets/outline/interface/interface-identification-card.svg"
+      }
+    },
+    {
+      "id": "interface-key",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "key"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-key.svg",
+        "outline": "icon-assets/outline/interface/interface-key.svg"
+      }
+    },
+    {
+      "id": "interface-keychain",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "keychain"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-keychain.svg",
+        "outline": "icon-assets/outline/interface/interface-keychain.svg"
+      }
+    },
+    {
+      "id": "interface-legal",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "legal"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-legal.svg",
+        "outline": "icon-assets/outline/interface/interface-legal.svg"
+      }
+    },
+    {
+      "id": "interface-lifebuoy",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "lifebuoy"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-lifebuoy.svg",
+        "outline": "icon-assets/outline/interface/interface-lifebuoy.svg"
+      }
+    },
+    {
+      "id": "interface-lifebuoy-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "lifebuoy",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-lifebuoy-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-lifebuoy-alt.svg"
+      }
+    },
+    {
+      "id": "interface-light-bulb",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "light",
+        "bulb"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-light-bulb.svg",
+        "outline": "icon-assets/outline/interface/interface-light-bulb.svg"
+      }
+    },
+    {
+      "id": "interface-light-bulb-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "light",
+        "bulb",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-light-bulb-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-light-bulb-alt.svg"
+      }
+    },
+    {
+      "id": "interface-light-bulb-alt-2",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "light",
+        "bulb",
+        "alt",
+        "2"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-light-bulb-alt-2.svg",
+        "outline": "icon-assets/outline/interface/interface-light-bulb-alt-2.svg"
+      }
+    },
+    {
+      "id": "interface-light-bulb-smart",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "light",
+        "bulb",
+        "smart"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-light-bulb-smart.svg",
+        "outline": "icon-assets/outline/interface/interface-light-bulb-smart.svg"
+      }
+    },
+    {
+      "id": "interface-list",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "list"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-list.svg",
+        "outline": "icon-assets/outline/interface/interface-list.svg"
+      }
+    },
+    {
+      "id": "interface-loading",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "loading"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-loading.svg",
+        "filled": "icon-assets/outline/interface/interface-loading.svg"
+      }
+    },
+    {
+      "id": "interface-lock",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "lock"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-lock.svg",
+        "outline": "icon-assets/outline/interface/interface-lock.svg"
+      }
+    },
+    {
+      "id": "interface-lock-disabled",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "lock",
+        "disabled"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-lock-disabled.svg",
+        "outline": "icon-assets/outline/interface/interface-lock-disabled.svg"
+      }
+    },
+    {
+      "id": "interface-lock-unlock",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "lock",
+        "unlock"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-lock-unlock.svg",
+        "outline": "icon-assets/outline/interface/interface-lock-unlock.svg"
+      }
+    },
+    {
+      "id": "interface-menu-hamburger",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "menu",
+        "hamburger"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-menu-hamburger.svg",
+        "outline": "icon-assets/outline/interface/interface-menu-hamburger.svg"
+      }
+    },
+    {
+      "id": "interface-mountain",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "mountain"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-mountain.svg",
+        "outline": "icon-assets/outline/interface/interface-mountain.svg"
+      }
+    },
+    {
+      "id": "interface-pill",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "pill"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-pill.svg",
+        "outline": "icon-assets/outline/interface/interface-pill.svg"
+      }
+    },
+    {
+      "id": "interface-pin",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "pin"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-pin.svg",
+        "outline": "icon-assets/outline/interface/interface-pin.svg"
+      }
+    },
+    {
+      "id": "interface-puzzle",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "puzzle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-puzzle.svg",
+        "outline": "icon-assets/outline/interface/interface-puzzle.svg"
+      }
+    },
+    {
+      "id": "interface-recording",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "recording"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-recording.svg",
+        "outline": "icon-assets/outline/interface/interface-recording.svg"
+      }
+    },
+    {
+      "id": "interface-robot",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "robot"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-robot.svg",
+        "outline": "icon-assets/outline/interface/interface-robot.svg"
+      }
+    },
+    {
+      "id": "interface-ruler",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "ruler"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-ruler.svg",
+        "outline": "icon-assets/outline/interface/interface-ruler.svg"
+      }
+    },
+    {
+      "id": "interface-ruler-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "ruler",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-ruler-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-ruler-alt.svg"
+      }
+    },
+    {
+      "id": "interface-scale",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "scale"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-scale.svg",
+        "outline": "icon-assets/outline/interface/interface-scale.svg"
+      }
+    },
+    {
+      "id": "interface-scan",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "scan"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-scan.svg",
+        "filled": "icon-assets/outline/interface/interface-scan.svg"
+      }
+    },
+    {
+      "id": "interface-scissors",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "scissors"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-scissors.svg",
+        "outline": "icon-assets/outline/interface/interface-scissors.svg"
+      }
+    },
+    {
+      "id": "interface-search",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "search"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-search.svg",
+        "filled": "icon-assets/outline/interface/interface-search.svg"
+      }
+    },
+    {
+      "id": "interface-settings-gear",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "settings",
+        "gear"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-settings-gear.svg",
+        "outline": "icon-assets/outline/interface/interface-settings-gear.svg"
+      }
+    },
+    {
+      "id": "interface-settings-nut",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "settings",
+        "nut"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-settings-nut.svg",
+        "outline": "icon-assets/outline/interface/interface-settings-nut.svg"
+      }
+    },
+    {
+      "id": "interface-settings-wrench",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "settings",
+        "wrench"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-settings-wrench.svg",
+        "outline": "icon-assets/outline/interface/interface-settings-wrench.svg"
+      }
+    },
+    {
+      "id": "interface-share",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "share"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-share.svg",
+        "outline": "icon-assets/outline/interface/interface-share.svg"
+      }
+    },
+    {
+      "id": "interface-speedometer-fast",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "speedometer",
+        "fast"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-speedometer-fast.svg",
+        "outline": "icon-assets/outline/interface/interface-speedometer-fast.svg"
+      }
+    },
+    {
+      "id": "interface-speedometer-medium",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "speedometer",
+        "medium"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-speedometer-medium.svg",
+        "outline": "icon-assets/outline/interface/interface-speedometer-medium.svg"
+      }
+    },
+    {
+      "id": "interface-speedometer-slow",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "speedometer",
+        "slow"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-speedometer-slow.svg",
+        "outline": "icon-assets/outline/interface/interface-speedometer-slow.svg"
+      }
+    },
+    {
+      "id": "interface-sticker-round",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "sticker",
+        "round"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-sticker-round.svg",
+        "outline": "icon-assets/outline/interface/interface-sticker-round.svg"
+      }
+    },
+    {
+      "id": "interface-sticker-square",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "sticker",
+        "square"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-sticker-square.svg",
+        "outline": "icon-assets/outline/interface/interface-sticker-square.svg"
+      }
+    },
+    {
+      "id": "interface-target",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "target"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-target.svg",
+        "filled": "icon-assets/outline/interface/interface-target.svg"
+      }
+    },
+    {
+      "id": "interface-target-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "target",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-target-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-target-alt.svg"
+      }
+    },
+    {
+      "id": "interface-thumb-down",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "thumb",
+        "down"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-thumb-down.svg",
+        "outline": "icon-assets/outline/interface/interface-thumb-down.svg"
+      }
+    },
+    {
+      "id": "interface-thumb-up",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "thumb",
+        "up"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-thumb-up.svg",
+        "outline": "icon-assets/outline/interface/interface-thumb-up.svg"
+      }
+    },
+    {
+      "id": "interface-toggle-switch-off",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "toggle",
+        "switch",
+        "off"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-toggle-switch-off.svg",
+        "outline": "icon-assets/outline/interface/interface-toggle-switch-off.svg"
+      }
+    },
+    {
+      "id": "interface-toggle-switch-on",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "toggle",
+        "switch",
+        "on"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-toggle-switch-on.svg",
+        "outline": "icon-assets/outline/interface/interface-toggle-switch-on.svg"
+      }
+    },
+    {
+      "id": "interface-toolbox",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "toolbox"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-toolbox.svg",
+        "outline": "icon-assets/outline/interface/interface-toolbox.svg"
+      }
+    },
+    {
+      "id": "interface-traffic-light",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "traffic",
+        "light"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-traffic-light.svg",
+        "outline": "icon-assets/outline/interface/interface-traffic-light.svg"
+      }
+    },
+    {
+      "id": "interface-trash",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "trash"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-trash.svg",
+        "outline": "icon-assets/outline/interface/interface-trash.svg"
+      }
+    },
+    {
+      "id": "interface-trash-alt",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "trash",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-trash-alt.svg",
+        "outline": "icon-assets/outline/interface/interface-trash-alt.svg"
+      }
+    },
+    {
+      "id": "interface-tray-open",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "tray",
+        "open"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-tray-open.svg",
+        "outline": "icon-assets/outline/interface/interface-tray-open.svg"
+      }
+    },
+    {
+      "id": "interface-vector",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "vector"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-vector.svg",
+        "outline": "icon-assets/outline/interface/interface-vector.svg"
+      }
+    },
+    {
+      "id": "interface-virus",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "virus"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-virus.svg",
+        "outline": "icon-assets/outline/interface/interface-virus.svg"
+      }
+    },
+    {
+      "id": "interface-zoom-in",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "zoom",
+        "in"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-zoom-in.svg",
+        "outline": "icon-assets/outline/interface/interface-zoom-in.svg"
+      }
+    },
+    {
+      "id": "interface-zoom-out",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "zoom",
+        "out"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-zoom-out.svg",
+        "outline": "icon-assets/outline/interface/interface-zoom-out.svg"
+      }
+    },
+    {
       "id": "media-bell",
       "category": "media",
       "tags": [
@@ -7020,6 +6352,30 @@
       }
     },
     {
+      "id": "symbol-badge",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "badge"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-badge.svg",
+        "outline": "icon-assets/outline/symbol/symbol-badge.svg"
+      }
+    },
+    {
+      "id": "symbol-bone",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "bone"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-bone.svg",
+        "outline": "icon-assets/outline/symbol/symbol-bone.svg"
+      }
+    },
+    {
       "id": "symbol-bookmark",
       "category": "symbol",
       "tags": [
@@ -7032,6 +6388,97 @@
       }
     },
     {
+      "id": "symbol-charts-bar",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "charts",
+        "bar"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-charts-bar.svg",
+        "outline": "icon-assets/outline/symbol/symbol-charts-bar.svg"
+      }
+    },
+    {
+      "id": "symbol-charts-pie",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "charts",
+        "pie"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-charts-pie.svg",
+        "outline": "icon-assets/outline/symbol/symbol-charts-pie.svg"
+      }
+    },
+    {
+      "id": "symbol-charts-venn",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "charts",
+        "venn"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-charts-venn.svg",
+        "outline": "icon-assets/outline/symbol/symbol-charts-venn.svg"
+      }
+    },
+    {
+      "id": "symbol-check-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "check",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-check-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-check-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-check-mark",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "check",
+        "mark"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-check-mark.svg",
+        "outline": "icon-assets/outline/symbol/symbol-check-mark.svg"
+      }
+    },
+    {
+      "id": "symbol-check-multiple",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "check",
+        "multiple"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-check-multiple.svg",
+        "outline": "icon-assets/outline/symbol/symbol-check-multiple.svg"
+      }
+    },
+    {
+      "id": "symbol-circuit-line",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "circuit",
+        "line"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-circuit-line.svg",
+        "outline": "icon-assets/outline/symbol/symbol-circuit-line.svg"
+      }
+    },
+    {
       "id": "symbol-copyright",
       "category": "symbol",
       "tags": [
@@ -7041,6 +6488,19 @@
       "files": {
         "filled": "icon-assets/filled/symbol/symbol-copyright.svg",
         "outline": "icon-assets/outline/symbol/symbol-copyright.svg"
+      }
+    },
+    {
+      "id": "symbol-cross-octagon",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "cross",
+        "octagon"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-cross-octagon.svg",
+        "outline": "icon-assets/outline/symbol/symbol-cross-octagon.svg"
       }
     },
     {
@@ -7158,6 +6618,19 @@
       "files": {
         "filled": "icon-assets/filled/symbol/symbol-currency-yen-yuan.svg",
         "outline": "icon-assets/outline/symbol/symbol-currency-yen-yuan.svg"
+      }
+    },
+    {
+      "id": "symbol-data-stack",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "data",
+        "stack"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-data-stack.svg",
+        "outline": "icon-assets/outline/symbol/symbol-data-stack.svg"
       }
     },
     {
@@ -7306,21 +6779,21 @@
         "infinity"
       ],
       "files": {
-        "outline": "icon-assets/outline/symbol/symbol-infinity.svg",
-        "filled": "icon-assets/outline/symbol/symbol-infinity.svg"
+        "filled": "icon-assets/filled/symbol/symbol-infinity.svg",
+        "outline": "icon-assets/outline/symbol/symbol-infinity.svg"
       }
     },
     {
-      "id": "symbol-infinity-alt",
+      "id": "symbol-information-circle",
       "category": "symbol",
       "tags": [
         "symbol",
-        "infinity",
-        "alt"
+        "information",
+        "circle"
       ],
       "files": {
-        "filled": "icon-assets/filled/symbol/symbol-infinity_alt.svg",
-        "outline": "icon-assets/outline/symbol/symbol-infinity_alt.svg"
+        "filled": "icon-assets/filled/symbol/symbol-information-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-information-circle.svg"
       }
     },
     {
@@ -7358,6 +6831,18 @@
       "files": {
         "filled": "icon-assets/filled/symbol/symbol-less-circle.svg",
         "outline": "icon-assets/outline/symbol/symbol-less-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-metal",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "metal"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-metal.svg",
+        "outline": "icon-assets/outline/symbol/symbol-metal.svg"
       }
     },
     {
@@ -7513,6 +6998,32 @@
       }
     },
     {
+      "id": "symbol-question-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "question",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-question-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-question-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-question-mark",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "question",
+        "mark"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-question-mark.svg",
+        "outline": "icon-assets/outline/symbol/symbol-question-mark.svg"
+      }
+    },
+    {
       "id": "symbol-radioactive-nuclear",
       "category": "symbol",
       "tags": [
@@ -7548,6 +7059,18 @@
       "files": {
         "filled": "icon-assets/filled/symbol/symbol-root-circle.svg",
         "outline": "icon-assets/outline/symbol/symbol-root-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-screen",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "screen"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-screen.svg",
+        "outline": "icon-assets/outline/symbol/symbol-screen.svg"
       }
     },
     {
@@ -7859,6 +7382,31 @@
       }
     },
     {
+      "id": "symbol-sheild-info",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "sheild",
+        "info"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-sheild-info.svg",
+        "outline": "icon-assets/outline/symbol/symbol-sheild-info.svg"
+      }
+    },
+    {
+      "id": "symbol-shutter",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "shutter"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-shutter.svg",
+        "outline": "icon-assets/outline/symbol/symbol-shutter.svg"
+      }
+    },
+    {
       "id": "symbol-sigma",
       "category": "symbol",
       "tags": [
@@ -7893,6 +7441,119 @@
       "files": {
         "filled": "icon-assets/filled/symbol/symbol-star.svg",
         "outline": "icon-assets/outline/symbol/symbol-star.svg"
+      }
+    },
+    {
+      "id": "symbol-stop",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "stop"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-stop.svg",
+        "outline": "icon-assets/outline/symbol/symbol-stop.svg"
+      }
+    },
+    {
+      "id": "symbol-stop-diagonal",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "stop",
+        "diagonal"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-stop-diagonal.svg",
+        "outline": "icon-assets/outline/symbol/symbol-stop-diagonal.svg"
+      }
+    },
+    {
+      "id": "symbol-table",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "table"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-table.svg",
+        "outline": "icon-assets/outline/symbol/symbol-table.svg"
+      }
+    },
+    {
+      "id": "symbol-trophy",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "trophy"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-trophy.svg",
+        "outline": "icon-assets/outline/symbol/symbol-trophy.svg"
+      }
+    },
+    {
+      "id": "symbol-warning",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-warning.svg",
+        "outline": "icon-assets/outline/symbol/symbol-warning.svg"
+      }
+    },
+    {
+      "id": "symbol-warning-alt",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "warning",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-warning-alt.svg",
+        "outline": "icon-assets/outline/symbol/symbol-warning-alt.svg"
+      }
+    },
+    {
+      "id": "symbol-warning-circle",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "warning",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-warning-circle.svg",
+        "outline": "icon-assets/outline/symbol/symbol-warning-circle.svg"
+      }
+    },
+    {
+      "id": "symbol-warning-electricity",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "warning",
+        "electricity"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-warning-electricity.svg",
+        "outline": "icon-assets/outline/symbol/symbol-warning-electricity.svg"
+      }
+    },
+    {
+      "id": "symbol-warning-octagon",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "warning",
+        "octagon"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-warning-octagon.svg",
+        "outline": "icon-assets/outline/symbol/symbol-warning-octagon.svg"
       }
     },
     {
