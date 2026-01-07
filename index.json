@@ -3899,15 +3899,16 @@
       }
     },
     {
-      "id": "file-file-group",
+      "id": "file-file-group-share",
       "category": "file",
       "tags": [
         "file",
-        "group"
+        "group",
+        "share"
       ],
       "files": {
-        "filled": "icon-assets/filled/file/file-file-group.svg",
-        "outline": "icon-assets/outline/file/file-file-group.svg"
+        "filled": "icon-assets/filled/file/file-file-group-share.svg",
+        "outline": "icon-assets/outline/file/file-file-group-share.svg"
       }
     },
     {
@@ -3985,15 +3986,15 @@
       }
     },
     {
-      "id": "file-folder-",
+      "id": "file-folder",
       "category": "file",
       "tags": [
         "file",
         "folder"
       ],
       "files": {
-        "filled": "icon-assets/filled/file/file-folder-.svg",
-        "outline": "icon-assets/outline/file/file-folder-.svg"
+        "filled": "icon-assets/filled/file/file-folder.svg",
+        "outline": "icon-assets/outline/file/file-folder.svg"
       }
     },
     {
@@ -4020,6 +4021,19 @@
       "files": {
         "filled": "icon-assets/filled/file/file-folder-admin.svg",
         "outline": "icon-assets/outline/file/file-folder-admin.svg"
+      }
+    },
+    {
+      "id": "file-folder-alt",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-alt.svg",
+        "outline": "icon-assets/outline/file/file-folder-alt.svg"
       }
     },
     {
@@ -4088,16 +4102,17 @@
       }
     },
     {
-      "id": "file-folder-group",
+      "id": "file-folder-group-share",
       "category": "file",
       "tags": [
         "file",
         "folder",
-        "group"
+        "group",
+        "share"
       ],
       "files": {
-        "filled": "icon-assets/filled/file/file-folder-group.svg",
-        "outline": "icon-assets/outline/file/file-folder-group.svg"
+        "filled": "icon-assets/filled/file/file-folder-group-share.svg",
+        "outline": "icon-assets/outline/file/file-folder-group-share.svg"
       }
     },
     {
@@ -4125,6 +4140,19 @@
       "files": {
         "filled": "icon-assets/filled/file/file-folder-lock-protected.svg",
         "outline": "icon-assets/outline/file/file-folder-lock-protected.svg"
+      }
+    },
+    {
+      "id": "file-folder-open",
+      "category": "file",
+      "tags": [
+        "file",
+        "folder",
+        "open"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/file/file-folder-open.svg",
+        "outline": "icon-assets/outline/file/file-folder-open.svg"
       }
     },
     {
@@ -5405,7 +5433,7 @@
       ],
       "files": {
         "filled": "icon-assets/filled/interface/interface-exclamation-tripple.svg",
-        "outline": "icon-assets/filled/interface/interface-exclamation-tripple.svg"
+        "outline": "icon-assets/outline/interface/interface-exclamation-tripple.svg"
       }
     },
     {
@@ -5548,20 +5576,6 @@
       "files": {
         "filled": "icon-assets/filled/interface/interface-folder-open.svg",
         "outline": "icon-assets/outline/interface/interface-folder-open.svg"
-      }
-    },
-    {
-      "id": "interface-general-exclamation-tripple",
-      "category": "interface",
-      "tags": [
-        "interface",
-        "general",
-        "exclamation",
-        "tripple"
-      ],
-      "files": {
-        "outline": "icon-assets/outline/interface/interface-general-exclamation-tripple.svg",
-        "filled": "icon-assets/outline/interface/interface-general-exclamation-tripple.svg"
       }
     },
     {
@@ -6310,6 +6324,176 @@
       }
     },
     {
+      "id": "map-location-pin",
+      "category": "map",
+      "tags": [
+        "map",
+        "location",
+        "pin"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-location-pin.svg",
+        "outline": "icon-assets/outline/map/map-location-pin.svg"
+      }
+    },
+    {
+      "id": "map-location-pin-add",
+      "category": "map",
+      "tags": [
+        "map",
+        "location",
+        "pin",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-location-pin-add.svg",
+        "outline": "icon-assets/outline/map/map-location-pin-add.svg"
+      }
+    },
+    {
+      "id": "map-location-pin-check",
+      "category": "map",
+      "tags": [
+        "map",
+        "location",
+        "pin",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-location-pin-check.svg",
+        "outline": "icon-assets/outline/map/map-location-pin-check.svg"
+      }
+    },
+    {
+      "id": "map-location-pin-delete",
+      "category": "map",
+      "tags": [
+        "map",
+        "location",
+        "pin",
+        "delete"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-location-pin-delete.svg",
+        "outline": "icon-assets/outline/map/map-location-pin-delete.svg"
+      }
+    },
+    {
+      "id": "map-location-pin-map",
+      "category": "map",
+      "tags": [
+        "map",
+        "location",
+        "pin"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-location-pin-map.svg",
+        "outline": "icon-assets/outline/map/map-location-pin-map.svg"
+      }
+    },
+    {
+      "id": "map-location-pin-map-alt",
+      "category": "map",
+      "tags": [
+        "map",
+        "location",
+        "pin",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-location-pin-map-alt.svg",
+        "outline": "icon-assets/outline/map/map-location-pin-map-alt.svg"
+      }
+    },
+    {
+      "id": "map-location-pin-minus",
+      "category": "map",
+      "tags": [
+        "map",
+        "location",
+        "pin",
+        "minus"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-location-pin-minus.svg",
+        "outline": "icon-assets/outline/map/map-location-pin-minus.svg"
+      }
+    },
+    {
+      "id": "map-location-pin-question",
+      "category": "map",
+      "tags": [
+        "map",
+        "location",
+        "pin",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-location-pin-question.svg",
+        "outline": "icon-assets/outline/map/map-location-pin-question.svg"
+      }
+    },
+    {
+      "id": "map-map",
+      "category": "map",
+      "tags": [
+        "map"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-map.svg",
+        "outline": "icon-assets/outline/map/map-map.svg"
+      }
+    },
+    {
+      "id": "map-map-alt",
+      "category": "map",
+      "tags": [
+        "map",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-map-alt.svg",
+        "outline": "icon-assets/outline/map/map-map-alt.svg"
+      }
+    },
+    {
+      "id": "map-pin-alt",
+      "category": "map",
+      "tags": [
+        "map",
+        "pin",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-pin-alt.svg",
+        "outline": "icon-assets/outline/map/map-pin-alt.svg"
+      }
+    },
+    {
+      "id": "map-route",
+      "category": "map",
+      "tags": [
+        "map",
+        "route"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-route.svg",
+        "outline": "icon-assets/outline/map/map-route.svg"
+      }
+    },
+    {
+      "id": "map-wayfinding",
+      "category": "map",
+      "tags": [
+        "map",
+        "wayfinding"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-wayfinding.svg",
+        "outline": "icon-assets/outline/map/map-wayfinding.svg"
+      }
+    },
+    {
       "id": "media-bell",
       "category": "media",
       "tags": [
@@ -6559,6 +6743,19 @@
       "files": {
         "filled": "icon-assets/filled/symbol/symbol-charts-bar.svg",
         "outline": "icon-assets/outline/symbol/symbol-charts-bar.svg"
+      }
+    },
+    {
+      "id": "symbol-charts-line",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "charts",
+        "line"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-charts-line.svg",
+        "outline": "icon-assets/outline/symbol/symbol-charts-line.svg"
       }
     },
     {
