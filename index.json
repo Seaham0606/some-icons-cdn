@@ -2791,6 +2791,19 @@
       }
     },
     {
+      "id": "device-gaming-console",
+      "category": "device",
+      "tags": [
+        "device",
+        "gaming",
+        "console"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/device/device-gaming-console.svg",
+        "outline": "icon-assets/outline/device/device-gaming-console.svg"
+      }
+    },
+    {
       "id": "device-headphone",
       "category": "device",
       "tags": [
@@ -4281,6 +4294,154 @@
       "files": {
         "filled": "icon-assets/filled/file/file-sync-internet.svg",
         "outline": "icon-assets/outline/file/file-sync-internet.svg"
+      }
+    },
+    {
+      "id": "formatting-brush",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "brush"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-brush.svg",
+        "outline": "icon-assets/outline/formatting/formatting-brush.svg"
+      }
+    },
+    {
+      "id": "formatting-crayon",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "crayon"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-crayon.svg",
+        "outline": "icon-assets/outline/formatting/formatting-crayon.svg"
+      }
+    },
+    {
+      "id": "formatting-edit",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "edit"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-edit.svg",
+        "outline": "icon-assets/outline/formatting/formatting-edit.svg"
+      }
+    },
+    {
+      "id": "formatting-eraser",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "eraser"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-eraser.svg",
+        "outline": "icon-assets/outline/formatting/formatting-eraser.svg"
+      }
+    },
+    {
+      "id": "formatting-eyedropper",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "eyedropper"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-eyedropper.svg",
+        "outline": "icon-assets/outline/formatting/formatting-eyedropper.svg"
+      }
+    },
+    {
+      "id": "formatting-magic-wand",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "magic",
+        "wand"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-magic-wand.svg",
+        "outline": "icon-assets/outline/formatting/formatting-magic-wand.svg"
+      }
+    },
+    {
+      "id": "formatting-paint-roller",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "paint",
+        "roller"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-paint-roller.svg",
+        "outline": "icon-assets/outline/formatting/formatting-paint-roller.svg"
+      }
+    },
+    {
+      "id": "formatting-pen",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "pen"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-pen.svg",
+        "outline": "icon-assets/outline/formatting/formatting-pen.svg"
+      }
+    },
+    {
+      "id": "formatting-pen-alt",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "pen",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-pen-alt.svg",
+        "outline": "icon-assets/outline/formatting/formatting-pen-alt.svg"
+      }
+    },
+    {
+      "id": "formatting-pencil",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "pencil"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-pencil.svg",
+        "outline": "icon-assets/outline/formatting/formatting-pencil.svg"
+      }
+    },
+    {
+      "id": "formatting-pencil-edit",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "pencil",
+        "edit"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-pencil-edit.svg",
+        "outline": "icon-assets/outline/formatting/formatting-pencil-edit.svg"
+      }
+    },
+    {
+      "id": "formatting-swatch",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "swatch"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-swatch.svg",
+        "outline": "icon-assets/outline/formatting/formatting-swatch.svg"
       }
     },
     {
