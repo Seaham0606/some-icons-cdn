@@ -5045,8 +5045,8 @@
         "radio"
       ],
       "files": {
-        "outline": "icon-assets/outline/interface/interface-button-radio.svg",
-        "filled": "icon-assets/outline/interface/interface-button-radio.svg"
+        "filled": "icon-assets/filled/interface/interface-button-radio.svg",
+        "outline": "icon-assets/outline/interface/interface-button-radio.svg"
       }
     },
     {
@@ -5179,8 +5179,8 @@
         "unchecked"
       ],
       "files": {
-        "outline": "icon-assets/outline/interface/interface-checkbox-unchecked.svg",
-        "filled": "icon-assets/outline/interface/interface-checkbox-unchecked.svg"
+        "filled": "icon-assets/filled/interface/interface-checkbox-unchecked.svg",
+        "outline": "icon-assets/outline/interface/interface-checkbox-unchecked.svg"
       }
     },
     {
@@ -6223,19 +6223,6 @@
       }
     },
     {
-      "id": "interface-traffic-light",
-      "category": "interface",
-      "tags": [
-        "interface",
-        "traffic",
-        "light"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/interface/interface-traffic-light.svg",
-        "outline": "icon-assets/outline/interface/interface-traffic-light.svg"
-      }
-    },
-    {
       "id": "interface-trash",
       "category": "interface",
       "tags": [
@@ -6479,6 +6466,19 @@
       "files": {
         "filled": "icon-assets/filled/map/map-route.svg",
         "outline": "icon-assets/outline/map/map-route.svg"
+      }
+    },
+    {
+      "id": "map-traffic-light",
+      "category": "map",
+      "tags": [
+        "map",
+        "traffic",
+        "light"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/map/map-traffic-light.svg",
+        "outline": "icon-assets/outline/map/map-traffic-light.svg"
       }
     },
     {
@@ -7925,6 +7925,492 @@
       "files": {
         "filled": "icon-assets/filled/symbol/symbol-water-drop.svg",
         "outline": "icon-assets/outline/symbol/symbol-water-drop.svg"
+      }
+    },
+    {
+      "id": "time-alarm-clock",
+      "category": "time",
+      "tags": [
+        "time",
+        "alarm",
+        "clock"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-alarm-clock.svg",
+        "outline": "icon-assets/outline/time/time-alarm-clock.svg"
+      }
+    },
+    {
+      "id": "time-alarm-clock-add",
+      "category": "time",
+      "tags": [
+        "time",
+        "alarm",
+        "clock",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-alarm-clock-add.svg",
+        "outline": "icon-assets/outline/time/time-alarm-clock-add.svg"
+      }
+    },
+    {
+      "id": "time-alarm-clock-alt",
+      "category": "time",
+      "tags": [
+        "time",
+        "alarm",
+        "clock",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-alarm-clock-alt.svg",
+        "outline": "icon-assets/outline/time/time-alarm-clock-alt.svg"
+      }
+    },
+    {
+      "id": "time-alarm-clock-done",
+      "category": "time",
+      "tags": [
+        "time",
+        "alarm",
+        "clock",
+        "done"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-alarm-clock-done.svg",
+        "outline": "icon-assets/outline/time/time-alarm-clock-done.svg"
+      }
+    },
+    {
+      "id": "time-alarm-clock-remove",
+      "category": "time",
+      "tags": [
+        "time",
+        "alarm",
+        "clock",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-alarm-clock-remove.svg",
+        "outline": "icon-assets/outline/time/time-alarm-clock-remove.svg"
+      }
+    },
+    {
+      "id": "time-calendar-",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-.svg",
+        "outline": "icon-assets/outline/time/time-calendar-.svg"
+      }
+    },
+    {
+      "id": "time-calendar-add",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-add.svg",
+        "outline": "icon-assets/outline/time/time-calendar-add.svg"
+      }
+    },
+    {
+      "id": "time-calendar-alt",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-alt.svg",
+        "outline": "icon-assets/outline/time/time-calendar-alt.svg"
+      }
+    },
+    {
+      "id": "time-calendar-check",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-check.svg",
+        "outline": "icon-assets/outline/time/time-calendar-check.svg"
+      }
+    },
+    {
+      "id": "time-calendar-cross",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "cross"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-cross.svg",
+        "outline": "icon-assets/outline/time/time-calendar-cross.svg"
+      }
+    },
+    {
+      "id": "time-calendar-date",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "date"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-date.svg",
+        "outline": "icon-assets/outline/time/time-calendar-date.svg"
+      }
+    },
+    {
+      "id": "time-calendar-date-time",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "date"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-date-time.svg",
+        "outline": "icon-assets/outline/time/time-calendar-date-time.svg"
+      }
+    },
+    {
+      "id": "time-calendar-grid",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "grid"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-grid.svg",
+        "outline": "icon-assets/outline/time/time-calendar-grid.svg"
+      }
+    },
+    {
+      "id": "time-calendar-information",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "information"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-information.svg",
+        "outline": "icon-assets/outline/time/time-calendar-information.svg"
+      }
+    },
+    {
+      "id": "time-calendar-question",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-question.svg",
+        "outline": "icon-assets/outline/time/time-calendar-question.svg"
+      }
+    },
+    {
+      "id": "time-calendar-remove",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-remove.svg",
+        "outline": "icon-assets/outline/time/time-calendar-remove.svg"
+      }
+    },
+    {
+      "id": "time-calendar-search",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "search"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-search.svg",
+        "outline": "icon-assets/outline/time/time-calendar-search.svg"
+      }
+    },
+    {
+      "id": "time-calendar-warning",
+      "category": "time",
+      "tags": [
+        "time",
+        "calendar",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-calendar-warning.svg",
+        "outline": "icon-assets/outline/time/time-calendar-warning.svg"
+      }
+    },
+    {
+      "id": "time-clock-01",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "01"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-01.svg",
+        "outline": "icon-assets/outline/time/time-clock-01.svg"
+      }
+    },
+    {
+      "id": "time-clock-02",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "02"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-02.svg",
+        "outline": "icon-assets/outline/time/time-clock-02.svg"
+      }
+    },
+    {
+      "id": "time-clock-03",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "03"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-03.svg",
+        "outline": "icon-assets/outline/time/time-clock-03.svg"
+      }
+    },
+    {
+      "id": "time-clock-04",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "04"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-04.svg",
+        "outline": "icon-assets/outline/time/time-clock-04.svg"
+      }
+    },
+    {
+      "id": "time-clock-05",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "05"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-05.svg",
+        "outline": "icon-assets/outline/time/time-clock-05.svg"
+      }
+    },
+    {
+      "id": "time-clock-06",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "06"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-06.svg",
+        "outline": "icon-assets/outline/time/time-clock-06.svg"
+      }
+    },
+    {
+      "id": "time-clock-07",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "07"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-07.svg",
+        "outline": "icon-assets/outline/time/time-clock-07.svg"
+      }
+    },
+    {
+      "id": "time-clock-08",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "08"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-08.svg",
+        "outline": "icon-assets/outline/time/time-clock-08.svg"
+      }
+    },
+    {
+      "id": "time-clock-09",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "09"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-09.svg",
+        "outline": "icon-assets/outline/time/time-clock-09.svg"
+      }
+    },
+    {
+      "id": "time-clock-10",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "10"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-10.svg",
+        "outline": "icon-assets/outline/time/time-clock-10.svg"
+      }
+    },
+    {
+      "id": "time-clock-11",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "11"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-11.svg",
+        "outline": "icon-assets/outline/time/time-clock-11.svg"
+      }
+    },
+    {
+      "id": "time-clock-12",
+      "category": "time",
+      "tags": [
+        "time",
+        "clock",
+        "12"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-clock-12.svg",
+        "outline": "icon-assets/outline/time/time-clock-12.svg"
+      }
+    },
+    {
+      "id": "time-hourglass",
+      "category": "time",
+      "tags": [
+        "time",
+        "hourglass"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-hourglass.svg",
+        "outline": "icon-assets/outline/time/time-hourglass.svg"
+      }
+    },
+    {
+      "id": "time-stop-watch",
+      "category": "time",
+      "tags": [
+        "time",
+        "stop",
+        "watch"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-stop-watch.svg",
+        "outline": "icon-assets/outline/time/time-stop-watch.svg"
+      }
+    },
+    {
+      "id": "time-stop-watch-add",
+      "category": "time",
+      "tags": [
+        "time",
+        "stop",
+        "watch",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-stop-watch-add.svg",
+        "outline": "icon-assets/outline/time/time-stop-watch-add.svg"
+      }
+    },
+    {
+      "id": "time-stop-watch-cancel",
+      "category": "time",
+      "tags": [
+        "time",
+        "stop",
+        "watch",
+        "cancel"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-stop-watch-cancel.svg",
+        "outline": "icon-assets/outline/time/time-stop-watch-cancel.svg"
+      }
+    },
+    {
+      "id": "time-stop-watch-check",
+      "category": "time",
+      "tags": [
+        "time",
+        "stop",
+        "watch",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-stop-watch-check.svg",
+        "outline": "icon-assets/outline/time/time-stop-watch-check.svg"
+      }
+    },
+    {
+      "id": "time-stop-watch-pause",
+      "category": "time",
+      "tags": [
+        "time",
+        "stop",
+        "watch",
+        "pause"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-stop-watch-pause.svg",
+        "outline": "icon-assets/outline/time/time-stop-watch-pause.svg"
+      }
+    },
+    {
+      "id": "time-watch",
+      "category": "time",
+      "tags": [
+        "time",
+        "watch"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/time/time-watch.svg",
+        "outline": "icon-assets/outline/time/time-watch.svg"
       }
     },
     {
