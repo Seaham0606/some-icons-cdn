@@ -4676,21 +4676,6 @@
       }
     },
     {
-      "id": "gesture-point-1-finger-alt-1",
-      "category": "gesture",
-      "tags": [
-        "gesture",
-        "point",
-        "1",
-        "finger",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/gesture/gesture-point-1-finger-alt-1.svg",
-        "outline": "icon-assets/outline/gesture/gesture-point-1-finger-alt-1.svg"
-      }
-    },
-    {
       "id": "gesture-point-2-finger",
       "category": "gesture",
       "tags": [
@@ -4730,6 +4715,21 @@
       "files": {
         "filled": "icon-assets/filled/gesture/gesture-point-4-finger.svg",
         "outline": "icon-assets/outline/gesture/gesture-point-4-finger.svg"
+      }
+    },
+    {
+      "id": "gesture-point-4-finger-alt",
+      "category": "gesture",
+      "tags": [
+        "gesture",
+        "point",
+        "4",
+        "finger",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/gesture/gesture-point-4-finger-alt.svg",
+        "outline": "icon-assets/outline/gesture/gesture-point-4-finger-alt.svg"
       }
     },
     {
