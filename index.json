@@ -4325,6 +4325,72 @@
       }
     },
     {
+      "id": "formatting-align-center",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "align",
+        "center"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/formatting/formatting-align-center.svg",
+        "filled": "icon-assets/outline/formatting/formatting-align-center.svg"
+      }
+    },
+    {
+      "id": "formatting-align-justify",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "align",
+        "justify"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/formatting/formatting-align-justify.svg",
+        "filled": "icon-assets/outline/formatting/formatting-align-justify.svg"
+      }
+    },
+    {
+      "id": "formatting-align-justify-all",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "align",
+        "justify",
+        "all"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/formatting/formatting-align-justify-all.svg",
+        "filled": "icon-assets/outline/formatting/formatting-align-justify-all.svg"
+      }
+    },
+    {
+      "id": "formatting-align-left",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "align",
+        "left"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/formatting/formatting-align-left.svg",
+        "filled": "icon-assets/outline/formatting/formatting-align-left.svg"
+      }
+    },
+    {
+      "id": "formatting-align-right",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "align",
+        "right"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/formatting/formatting-align-right.svg",
+        "filled": "icon-assets/outline/formatting/formatting-align-right.svg"
+      }
+    },
+    {
       "id": "formatting-brush",
       "category": "formatting",
       "tags": [
@@ -4385,6 +4451,62 @@
       }
     },
     {
+      "id": "formatting-indent-left-decrease",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "indent",
+        "left",
+        "decrease"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-indent-left-decrease.svg",
+        "outline": "icon-assets/outline/formatting/formatting-indent-left-decrease.svg"
+      }
+    },
+    {
+      "id": "formatting-indent-left-increase",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "indent",
+        "left",
+        "increase"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-indent-left-increase.svg",
+        "outline": "icon-assets/outline/formatting/formatting-indent-left-increase.svg"
+      }
+    },
+    {
+      "id": "formatting-indent-right-decrease",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "indent",
+        "right",
+        "decrease"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-indent-right-decrease.svg",
+        "outline": "icon-assets/outline/formatting/formatting-indent-right-decrease.svg"
+      }
+    },
+    {
+      "id": "formatting-indent-right-increase",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "indent",
+        "right",
+        "increase"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-indent-right-increase.svg",
+        "outline": "icon-assets/outline/formatting/formatting-indent-right-increase.svg"
+      }
+    },
+    {
       "id": "formatting-magic-wand",
       "category": "formatting",
       "tags": [
@@ -4395,6 +4517,19 @@
       "files": {
         "filled": "icon-assets/filled/formatting/formatting-magic-wand.svg",
         "outline": "icon-assets/outline/formatting/formatting-magic-wand.svg"
+      }
+    },
+    {
+      "id": "formatting-paint-brush",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "paint",
+        "brush"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-paint-brush.svg",
+        "outline": "icon-assets/outline/formatting/formatting-paint-brush.svg"
       }
     },
     {
@@ -4448,6 +4583,19 @@
       }
     },
     {
+      "id": "formatting-pencil-alt",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "pencil",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-pencil-alt.svg",
+        "outline": "icon-assets/outline/formatting/formatting-pencil-alt.svg"
+      }
+    },
+    {
       "id": "formatting-pencil-edit",
       "category": "formatting",
       "tags": [
@@ -4458,6 +4606,19 @@
       "files": {
         "filled": "icon-assets/filled/formatting/formatting-pencil-edit.svg",
         "outline": "icon-assets/outline/formatting/formatting-pencil-edit.svg"
+      }
+    },
+    {
+      "id": "formatting-quotation-quote",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "quotation",
+        "quote"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-quotation-quote.svg",
+        "outline": "icon-assets/outline/formatting/formatting-quotation-quote.svg"
       }
     },
     {
