@@ -6531,6 +6531,224 @@
       }
     },
     {
+      "id": "media-eject",
+      "category": "media",
+      "tags": [
+        "media",
+        "eject"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-eject.svg",
+        "outline": "icon-assets/outline/media/media-eject.svg"
+      }
+    },
+    {
+      "id": "media-eject-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "eject",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-eject-circle.svg",
+        "outline": "icon-assets/outline/media/media-eject-circle.svg"
+      }
+    },
+    {
+      "id": "media-fast-forward",
+      "category": "media",
+      "tags": [
+        "media",
+        "fast",
+        "forward"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-fast-forward.svg",
+        "outline": "icon-assets/outline/media/media-fast-forward.svg"
+      }
+    },
+    {
+      "id": "media-fast-forward-01-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "fast",
+        "forward",
+        "01",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-fast-forward-01-second.svg",
+        "filled": "icon-assets/outline/media/media-fast-forward-01-second.svg"
+      }
+    },
+    {
+      "id": "media-fast-forward-05-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "fast",
+        "forward",
+        "05",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-fast-forward-05-second.svg",
+        "filled": "icon-assets/outline/media/media-fast-forward-05-second.svg"
+      }
+    },
+    {
+      "id": "media-fast-forward-10-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "fast",
+        "forward",
+        "10",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-fast-forward-10-second.svg",
+        "filled": "icon-assets/outline/media/media-fast-forward-10-second.svg"
+      }
+    },
+    {
+      "id": "media-fast-forward-15-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "fast",
+        "forward",
+        "15",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-fast-forward-15-second.svg",
+        "filled": "icon-assets/outline/media/media-fast-forward-15-second.svg"
+      }
+    },
+    {
+      "id": "media-fast-forward-30-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "fast",
+        "forward",
+        "30",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-fast-forward-30-second.svg",
+        "filled": "icon-assets/outline/media/media-fast-forward-30-second.svg"
+      }
+    },
+    {
+      "id": "media-fast-forward-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "fast",
+        "forward",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-fast-forward-circle.svg",
+        "outline": "icon-assets/outline/media/media-fast-forward-circle.svg"
+      }
+    },
+    {
+      "id": "media-fullscreen",
+      "category": "media",
+      "tags": [
+        "media",
+        "fullscreen"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-fullscreen.svg",
+        "outline": "icon-assets/outline/media/media-fullscreen.svg"
+      }
+    },
+    {
+      "id": "media-fullscreen-enter",
+      "category": "media",
+      "tags": [
+        "media",
+        "fullscreen",
+        "enter"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-fullscreen-enter.svg",
+        "filled": "icon-assets/outline/media/media-fullscreen-enter.svg"
+      }
+    },
+    {
+      "id": "media-fullscreen-exit",
+      "category": "media",
+      "tags": [
+        "media",
+        "fullscreen",
+        "exit"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-fullscreen-exit.svg",
+        "filled": "icon-assets/outline/media/media-fullscreen-exit.svg"
+      }
+    },
+    {
+      "id": "media-image-album-gallery",
+      "category": "media",
+      "tags": [
+        "media",
+        "image",
+        "album",
+        "gallery"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-image-album-gallery.svg",
+        "outline": "icon-assets/outline/media/media-image-album-gallery.svg"
+      }
+    },
+    {
+      "id": "media-image-landscape",
+      "category": "media",
+      "tags": [
+        "media",
+        "image",
+        "landscape"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-image-landscape.svg",
+        "outline": "icon-assets/outline/media/media-image-landscape.svg"
+      }
+    },
+    {
+      "id": "media-image-portriat",
+      "category": "media",
+      "tags": [
+        "media",
+        "image",
+        "portriat"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-image-portriat.svg",
+        "outline": "icon-assets/outline/media/media-image-portriat.svg"
+      }
+    },
+    {
+      "id": "media-image-stack",
+      "category": "media",
+      "tags": [
+        "media",
+        "image",
+        "stack"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-image-stack.svg",
+        "outline": "icon-assets/outline/media/media-image-stack.svg"
+      }
+    },
+    {
       "id": "media-microphone",
       "category": "media",
       "tags": [
@@ -6556,6 +6774,175 @@
       }
     },
     {
+      "id": "media-music-album",
+      "category": "media",
+      "tags": [
+        "media",
+        "music",
+        "album"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-music-album.svg",
+        "outline": "icon-assets/outline/media/media-music-album.svg"
+      }
+    },
+    {
+      "id": "media-music-note",
+      "category": "media",
+      "tags": [
+        "media",
+        "music",
+        "note"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-music-note.svg",
+        "outline": "icon-assets/outline/media/media-music-note.svg"
+      }
+    },
+    {
+      "id": "media-music-playlist",
+      "category": "media",
+      "tags": [
+        "media",
+        "music",
+        "playlist"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-music-playlist.svg",
+        "outline": "icon-assets/outline/media/media-music-playlist.svg"
+      }
+    },
+    {
+      "id": "media-music-vinyl",
+      "category": "media",
+      "tags": [
+        "media",
+        "music",
+        "vinyl"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-music-vinyl.svg",
+        "outline": "icon-assets/outline/media/media-music-vinyl.svg"
+      }
+    },
+    {
+      "id": "media-pause",
+      "category": "media",
+      "tags": [
+        "media",
+        "pause"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-pause.svg",
+        "outline": "icon-assets/outline/media/media-pause.svg"
+      }
+    },
+    {
+      "id": "media-pause-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "pause",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-pause-circle.svg",
+        "outline": "icon-assets/outline/media/media-pause-circle.svg"
+      }
+    },
+    {
+      "id": "media-picture-in-picture",
+      "category": "media",
+      "tags": [
+        "media",
+        "picture",
+        "in"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-picture-in-picture.svg",
+        "outline": "icon-assets/outline/media/media-picture-in-picture.svg"
+      }
+    },
+    {
+      "id": "media-play",
+      "category": "media",
+      "tags": [
+        "media",
+        "play"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-play.svg",
+        "outline": "icon-assets/outline/media/media-play.svg"
+      }
+    },
+    {
+      "id": "media-play-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "play",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-play-circle.svg",
+        "outline": "icon-assets/outline/media/media-play-circle.svg"
+      }
+    },
+    {
+      "id": "media-player-repeat",
+      "category": "media",
+      "tags": [
+        "media",
+        "player",
+        "repeat"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-player-repeat.svg",
+        "filled": "icon-assets/outline/media/media-player-repeat.svg"
+      }
+    },
+    {
+      "id": "media-player-repeat-1",
+      "category": "media",
+      "tags": [
+        "media",
+        "player",
+        "repeat",
+        "1"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-player-repeat-1.svg",
+        "filled": "icon-assets/outline/media/media-player-repeat-1.svg"
+      }
+    },
+    {
+      "id": "media-player-repeat-alt",
+      "category": "media",
+      "tags": [
+        "media",
+        "player",
+        "repeat",
+        "alt"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-player-repeat-alt.svg",
+        "filled": "icon-assets/outline/media/media-player-repeat-alt.svg"
+      }
+    },
+    {
+      "id": "media-player-shuffle",
+      "category": "media",
+      "tags": [
+        "media",
+        "player",
+        "shuffle"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-player-shuffle.svg",
+        "filled": "icon-assets/outline/media/media-player-shuffle.svg"
+      }
+    },
+    {
       "id": "media-radio",
       "category": "media",
       "tags": [
@@ -6565,6 +6952,114 @@
       "files": {
         "filled": "icon-assets/filled/media/media-radio.svg",
         "outline": "icon-assets/outline/media/media-radio.svg"
+      }
+    },
+    {
+      "id": "media-rewind",
+      "category": "media",
+      "tags": [
+        "media",
+        "rewind"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-rewind.svg",
+        "outline": "icon-assets/outline/media/media-rewind.svg"
+      }
+    },
+    {
+      "id": "media-rewind-01-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "rewind",
+        "01",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-rewind-01-second.svg",
+        "filled": "icon-assets/outline/media/media-rewind-01-second.svg"
+      }
+    },
+    {
+      "id": "media-rewind-05-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "rewind",
+        "05",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-rewind-05-second.svg",
+        "filled": "icon-assets/outline/media/media-rewind-05-second.svg"
+      }
+    },
+    {
+      "id": "media-rewind-10-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "rewind",
+        "10",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-rewind-10-second.svg",
+        "filled": "icon-assets/outline/media/media-rewind-10-second.svg"
+      }
+    },
+    {
+      "id": "media-rewind-15-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "rewind",
+        "15",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-rewind-15-second.svg",
+        "filled": "icon-assets/outline/media/media-rewind-15-second.svg"
+      }
+    },
+    {
+      "id": "media-rewind-50-second",
+      "category": "media",
+      "tags": [
+        "media",
+        "rewind",
+        "50",
+        "second"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/media/media-rewind-50-second.svg",
+        "filled": "icon-assets/outline/media/media-rewind-50-second.svg"
+      }
+    },
+    {
+      "id": "media-rewind-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "rewind",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-rewind-circle.svg",
+        "outline": "icon-assets/outline/media/media-rewind-circle.svg"
+      }
+    },
+    {
+      "id": "media-rotation-lock",
+      "category": "media",
+      "tags": [
+        "media",
+        "rotation",
+        "lock"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-rotation-lock.svg",
+        "outline": "icon-assets/outline/media/media-rotation-lock.svg"
       }
     },
     {
@@ -6579,6 +7074,118 @@
       "files": {
         "filled": "icon-assets/filled/media/media-share-screen-stream.svg",
         "outline": "icon-assets/outline/media/media-share-screen-stream.svg"
+      }
+    },
+    {
+      "id": "media-skip-next",
+      "category": "media",
+      "tags": [
+        "media",
+        "skip",
+        "next"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-skip-next.svg",
+        "outline": "icon-assets/outline/media/media-skip-next.svg"
+      }
+    },
+    {
+      "id": "media-skip-next-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "skip",
+        "next",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-skip-next-circle.svg",
+        "outline": "icon-assets/outline/media/media-skip-next-circle.svg"
+      }
+    },
+    {
+      "id": "media-skip-previous",
+      "category": "media",
+      "tags": [
+        "media",
+        "skip",
+        "previous"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-skip-previous.svg",
+        "outline": "icon-assets/outline/media/media-skip-previous.svg"
+      }
+    },
+    {
+      "id": "media-skip-previous-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "skip",
+        "previous",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-skip-previous-circle.svg",
+        "outline": "icon-assets/outline/media/media-skip-previous-circle.svg"
+      }
+    },
+    {
+      "id": "media-skip-to-first",
+      "category": "media",
+      "tags": [
+        "media",
+        "skip",
+        "to",
+        "first"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-skip-to-first.svg",
+        "outline": "icon-assets/outline/media/media-skip-to-first.svg"
+      }
+    },
+    {
+      "id": "media-skip-to-first-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "skip",
+        "to",
+        "first",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-skip-to-first-circle.svg",
+        "outline": "icon-assets/outline/media/media-skip-to-first-circle.svg"
+      }
+    },
+    {
+      "id": "media-skip-to-last",
+      "category": "media",
+      "tags": [
+        "media",
+        "skip",
+        "to",
+        "last"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-skip-to-last.svg",
+        "outline": "icon-assets/outline/media/media-skip-to-last.svg"
+      }
+    },
+    {
+      "id": "media-skip-to-last-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "skip",
+        "to",
+        "last",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-skip-to-last-circle.svg",
+        "outline": "icon-assets/outline/media/media-skip-to-last-circle.svg"
       }
     },
     {
@@ -6647,6 +7254,31 @@
       }
     },
     {
+      "id": "media-stop",
+      "category": "media",
+      "tags": [
+        "media",
+        "stop"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-stop.svg",
+        "outline": "icon-assets/outline/media/media-stop.svg"
+      }
+    },
+    {
+      "id": "media-stop-circle",
+      "category": "media",
+      "tags": [
+        "media",
+        "stop",
+        "circle"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-stop-circle.svg",
+        "outline": "icon-assets/outline/media/media-stop-circle.svg"
+      }
+    },
+    {
       "id": "media-video",
       "category": "media",
       "tags": [
@@ -6656,6 +7288,19 @@
       "files": {
         "filled": "icon-assets/filled/media/media-video.svg",
         "outline": "icon-assets/outline/media/media-video.svg"
+      }
+    },
+    {
+      "id": "media-video-alt",
+      "category": "media",
+      "tags": [
+        "media",
+        "video",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-video-alt.svg",
+        "outline": "icon-assets/outline/media/media-video-alt.svg"
       }
     },
     {
@@ -6672,6 +7317,20 @@
       }
     },
     {
+      "id": "media-video-camera-alt",
+      "category": "media",
+      "tags": [
+        "media",
+        "video",
+        "camera",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-video-camera-alt.svg",
+        "outline": "icon-assets/outline/media/media-video-camera-alt.svg"
+      }
+    },
+    {
       "id": "media-video-disabled",
       "category": "media",
       "tags": [
@@ -6682,6 +7341,19 @@
       "files": {
         "filled": "icon-assets/filled/media/media-video-disabled.svg",
         "outline": "icon-assets/outline/media/media-video-disabled.svg"
+      }
+    },
+    {
+      "id": "media-video-reel",
+      "category": "media",
+      "tags": [
+        "media",
+        "video",
+        "reel"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/media/media-video-reel.svg",
+        "outline": "icon-assets/outline/media/media-video-reel.svg"
       }
     },
     {
