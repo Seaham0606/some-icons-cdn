@@ -2228,6 +2228,1231 @@
       }
     },
     {
+      "id": "commerce-auction",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "auction"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-auction.svg",
+        "outline": "icon-assets/outline/commerce/commerce-auction.svg"
+      }
+    },
+    {
+      "id": "commerce-cash-bill-stack",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "cash",
+        "bill",
+        "stack"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-cash-bill-stack.svg",
+        "outline": "icon-assets/outline/commerce/commerce-cash-bill-stack.svg"
+      }
+    },
+    {
+      "id": "commerce-credit-card",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "credit",
+        "card"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-credit-card.svg",
+        "outline": "icon-assets/outline/commerce/commerce-credit-card.svg"
+      }
+    },
+    {
+      "id": "commerce-credit-card-stack",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "credit",
+        "card",
+        "stack"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-credit-card-stack.svg",
+        "outline": "icon-assets/outline/commerce/commerce-credit-card-stack.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-bitcoin",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "bitcoin"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-currency-bitcoin.svg",
+        "outline": "icon-assets/outline/commerce/commerce-currency-bitcoin.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-dollar",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "dollar"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-currency-dollar.svg",
+        "outline": "icon-assets/outline/commerce/commerce-currency-dollar.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-euro",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "euro"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-currency-euro.svg",
+        "outline": "icon-assets/outline/commerce/commerce-currency-euro.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-bitcoin",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "bitcoin"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-bitcoin.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-bitcoin.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-dollar",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "dollar"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-dollar.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-dollar.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-dollar-bitcoin",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "dollar",
+        "bitcoin"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-bitcoin.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-bitcoin.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-dollar-euro",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "dollar",
+        "euro"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-euro.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-euro.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-dollar-pound",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "dollar",
+        "pound"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-pound.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-pound.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-dollar-rupee",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "dollar",
+        "rupee"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-rupee.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-rupee.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-dollar-yuan-yen",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "dollar",
+        "yuan",
+        "yen"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-yuan-yen.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-dollar-yuan-yen.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-euro",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "euro"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-euro.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-euro.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-pound",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "pound"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-pound.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-pound.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-rupee",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "rupee"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-rupee.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-rupee.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-exchange-yuan-yen",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "exchange",
+        "yuan",
+        "yen"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-currency-exchange-yuan-yen.svg",
+        "filled": "icon-assets/outline/commerce/commerce-currency-exchange-yuan-yen.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-pound",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "pound"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-currency-pound.svg",
+        "outline": "icon-assets/outline/commerce/commerce-currency-pound.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-rupee",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "rupee"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-currency-rupee.svg",
+        "outline": "icon-assets/outline/commerce/commerce-currency-rupee.svg"
+      }
+    },
+    {
+      "id": "commerce-currency-yen-yuan",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "currency",
+        "yen",
+        "yuan"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-currency-yen-yuan.svg",
+        "outline": "icon-assets/outline/commerce/commerce-currency-yen-yuan.svg"
+      }
+    },
+    {
+      "id": "commerce-diamond",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "diamond"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-diamond.svg",
+        "outline": "icon-assets/outline/commerce/commerce-diamond.svg"
+      }
+    },
+    {
+      "id": "commerce-discount-cash",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "discount",
+        "cash"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-discount-cash.svg",
+        "outline": "icon-assets/outline/commerce/commerce-discount-cash.svg"
+      }
+    },
+    {
+      "id": "commerce-discount-check",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "discount",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-discount-check.svg",
+        "outline": "icon-assets/outline/commerce/commerce-discount-check.svg"
+      }
+    },
+    {
+      "id": "commerce-discount-sale",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "discount",
+        "sale"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-discount-sale.svg",
+        "outline": "icon-assets/outline/commerce/commerce-discount-sale.svg"
+      }
+    },
+    {
+      "id": "commerce-Frame 42",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "Frame 42"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-Frame 42.svg",
+        "outline": "icon-assets/outline/commerce/commerce-Frame 42.svg"
+      }
+    },
+    {
+      "id": "commerce-gift-cash",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "gift",
+        "cash"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-gift-cash.svg",
+        "outline": "icon-assets/outline/commerce/commerce-gift-cash.svg"
+      }
+    },
+    {
+      "id": "commerce-gift-xbox",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "gift",
+        "xbox"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-gift-xbox.svg",
+        "outline": "icon-assets/outline/commerce/commerce-gift-xbox.svg"
+      }
+    },
+    {
+      "id": "commerce-glass-fragile",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "glass",
+        "fragile"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-glass-fragile.svg",
+        "outline": "icon-assets/outline/commerce/commerce-glass-fragile.svg"
+      }
+    },
+    {
+      "id": "commerce-marketing-megaphone",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "marketing",
+        "megaphone"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-marketing-megaphone.svg",
+        "outline": "icon-assets/outline/commerce/commerce-marketing-megaphone.svg"
+      }
+    },
+    {
+      "id": "commerce-piggy-bank-saving",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "piggy",
+        "bank",
+        "saving"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-piggy-bank-saving.svg",
+        "outline": "icon-assets/outline/commerce/commerce-piggy-bank-saving.svg"
+      }
+    },
+    {
+      "id": "commerce-piggy-bank-saving-break",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "piggy",
+        "bank",
+        "saving",
+        "break"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-piggy-bank-saving-break.svg",
+        "outline": "icon-assets/outline/commerce/commerce-piggy-bank-saving-break.svg"
+      }
+    },
+    {
+      "id": "commerce-receipt-discount",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "receipt",
+        "discount"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-receipt-discount.svg",
+        "outline": "icon-assets/outline/commerce/commerce-receipt-discount.svg"
+      }
+    },
+    {
+      "id": "commerce-receipt-discount-coupon",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "receipt",
+        "discount",
+        "coupon"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-receipt-discount-coupon.svg",
+        "outline": "icon-assets/outline/commerce/commerce-receipt-discount-coupon.svg"
+      }
+    },
+    {
+      "id": "commerce-receipt-invoice",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "receipt",
+        "invoice"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-receipt-invoice.svg",
+        "outline": "icon-assets/outline/commerce/commerce-receipt-invoice.svg"
+      }
+    },
+    {
+      "id": "commerce-scan-bar-code",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "scan",
+        "bar",
+        "code"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-scan-bar-code.svg",
+        "filled": "icon-assets/outline/commerce/commerce-scan-bar-code.svg"
+      }
+    },
+    {
+      "id": "commerce-scan-credit-card",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "scan",
+        "credit",
+        "card"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-scan-credit-card.svg",
+        "outline": "icon-assets/outline/commerce/commerce-scan-credit-card.svg"
+      }
+    },
+    {
+      "id": "commerce-ship",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "ship"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-ship.svg",
+        "outline": "icon-assets/outline/commerce/commerce-ship.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-3d",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "3d"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-3d.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-3d.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-add",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-add.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-add.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-check",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-check.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-check.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-cross",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "cross"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-cross.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-cross.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-forward",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "forward"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-forward.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-forward.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-question",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-question.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-question.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-remove",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-remove.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-remove.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-return",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "return"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-return.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-return.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-return-1",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "return",
+        "1"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-return-1.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-return-1.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-search",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "search"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-search.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-search.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-box-tape",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "box",
+        "tape"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-box-tape.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-box-tape.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-plane-global",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "plane",
+        "global"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/commerce/commerce-shipment-plane-global.svg",
+        "filled": "icon-assets/outline/commerce/commerce-shipment-plane-global.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-truck",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "truck"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-truck.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-truck.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-truck-check",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "truck",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-truck-check.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-truck-check.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-truck-cross",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "truck",
+        "cross"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-truck-cross.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-truck-cross.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-truck-delayed",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "truck",
+        "delayed"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-truck-delayed.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-truck-delayed.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-truck-fast",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "truck",
+        "fast"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-truck-fast.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-truck-fast.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-truck-return",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "truck",
+        "return"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-truck-return.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-truck-return.svg"
+      }
+    },
+    {
+      "id": "commerce-shipment-truck-shipped",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shipment",
+        "truck",
+        "shipped"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shipment-truck-shipped.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shipment-truck-shipped.svg"
+      }
+    },
+    {
+      "id": "commerce-shop",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shop"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shop.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shop.svg"
+      }
+    },
+    {
+      "id": "commerce-shop-add",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shop",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shop-add.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shop-add.svg"
+      }
+    },
+    {
+      "id": "commerce-shop-alt",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shop",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shop-alt.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shop-alt.svg"
+      }
+    },
+    {
+      "id": "commerce-shop-check",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shop",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shop-check.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shop-check.svg"
+      }
+    },
+    {
+      "id": "commerce-shop-cross",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shop",
+        "cross"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shop-cross.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shop-cross.svg"
+      }
+    },
+    {
+      "id": "commerce-shop-forward",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shop",
+        "forward"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shop-forward.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shop-forward.svg"
+      }
+    },
+    {
+      "id": "commerce-shop-remove",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shop",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shop-remove.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shop-remove.svg"
+      }
+    },
+    {
+      "id": "commerce-shop-search",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shop",
+        "search"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shop-search.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shop-search.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-bag",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "bag"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-bag.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-bag.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-bag-alt",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "bag",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-bag-alt.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-bag-alt.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-bag-check",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "bag",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-bag-check.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-bag-check.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-bag-checkout",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "bag",
+        "checkout"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-bag-checkout.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-bag-checkout.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-bag-cross",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "bag",
+        "cross"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-bag-cross.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-bag-cross.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-bag-remove",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "bag",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-bag-remove.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-bag-remove.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-basket",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "basket"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-basket.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-basket.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-basket-add",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "basket",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-basket-add.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-basket-add.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-basket-check",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "basket",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-basket-check.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-basket-check.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-basket-checkout",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "basket",
+        "checkout"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-basket-checkout.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-basket-checkout.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-basket-cross",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "basket",
+        "cross"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-basket-cross.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-basket-cross.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-basket-remove",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "basket",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-basket-remove.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-basket-remove.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-cart",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "cart"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-cart.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-cart.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-cart-add",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "cart",
+        "add"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-cart-add.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-cart-add.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-cart-check",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "cart",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-cart-check.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-cart-check.svg"
+      }
+    },
+    {
+      "id": "commerce-shopping-cart-remove",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "shopping",
+        "cart",
+        "remove"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-shopping-cart-remove.svg",
+        "outline": "icon-assets/outline/commerce/commerce-shopping-cart-remove.svg"
+      }
+    },
+    {
+      "id": "commerce-tag-sale",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "tag",
+        "sale"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-tag-sale.svg",
+        "outline": "icon-assets/outline/commerce/commerce-tag-sale.svg"
+      }
+    },
+    {
+      "id": "commerce-tag-sale-stack",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "tag",
+        "sale",
+        "stack"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-tag-sale-stack.svg",
+        "outline": "icon-assets/outline/commerce/commerce-tag-sale-stack.svg"
+      }
+    },
+    {
+      "id": "commerce-ticket-coupon-discount",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "ticket",
+        "coupon",
+        "discount"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-ticket-coupon-discount.svg",
+        "outline": "icon-assets/outline/commerce/commerce-ticket-coupon-discount.svg"
+      }
+    },
+    {
+      "id": "commerce-ticket-coupon-voucher",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "ticket",
+        "coupon",
+        "voucher"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-ticket-coupon-voucher.svg",
+        "outline": "icon-assets/outline/commerce/commerce-ticket-coupon-voucher.svg"
+      }
+    },
+    {
+      "id": "commerce-wallet",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "wallet"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-wallet.svg",
+        "outline": "icon-assets/outline/commerce/commerce-wallet.svg"
+      }
+    },
+    {
+      "id": "commerce-wallet-alt",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "wallet",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-wallet-alt.svg",
+        "outline": "icon-assets/outline/commerce/commerce-wallet-alt.svg"
+      }
+    },
+    {
+      "id": "commerce-wallet-card",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "wallet",
+        "card"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-wallet-card.svg",
+        "outline": "icon-assets/outline/commerce/commerce-wallet-card.svg"
+      }
+    },
+    {
+      "id": "commerce-warehouse",
+      "category": "commerce",
+      "tags": [
+        "commerce",
+        "warehouse"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/commerce/commerce-warehouse.svg",
+        "outline": "icon-assets/outline/commerce/commerce-warehouse.svg"
+      }
+    },
+    {
       "id": "content-book",
       "category": "content",
       "tags": [
@@ -7747,85 +8972,6 @@
       }
     },
     {
-      "id": "symbol-currency-bitcoin",
-      "category": "symbol",
-      "tags": [
-        "symbol",
-        "currency",
-        "bitcoin"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/symbol/symbol-currency-bitcoin.svg",
-        "outline": "icon-assets/outline/symbol/symbol-currency-bitcoin.svg"
-      }
-    },
-    {
-      "id": "symbol-currency-dollar",
-      "category": "symbol",
-      "tags": [
-        "symbol",
-        "currency",
-        "dollar"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/symbol/symbol-currency-dollar.svg",
-        "outline": "icon-assets/outline/symbol/symbol-currency-dollar.svg"
-      }
-    },
-    {
-      "id": "symbol-currency-euro",
-      "category": "symbol",
-      "tags": [
-        "symbol",
-        "currency",
-        "euro"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/symbol/symbol-currency-euro.svg",
-        "outline": "icon-assets/outline/symbol/symbol-currency-euro.svg"
-      }
-    },
-    {
-      "id": "symbol-currency-pound",
-      "category": "symbol",
-      "tags": [
-        "symbol",
-        "currency",
-        "pound"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/symbol/symbol-currency-pound.svg",
-        "outline": "icon-assets/outline/symbol/symbol-currency-pound.svg"
-      }
-    },
-    {
-      "id": "symbol-currency-rupee",
-      "category": "symbol",
-      "tags": [
-        "symbol",
-        "currency",
-        "rupee"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/symbol/symbol-currency-rupee.svg",
-        "outline": "icon-assets/outline/symbol/symbol-currency-rupee.svg"
-      }
-    },
-    {
-      "id": "symbol-currency-yen-yuan",
-      "category": "symbol",
-      "tags": [
-        "symbol",
-        "currency",
-        "yen",
-        "yuan"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/symbol/symbol-currency-yen-yuan.svg",
-        "outline": "icon-assets/outline/symbol/symbol-currency-yen-yuan.svg"
-      }
-    },
-    {
       "id": "symbol-data-stack",
       "category": "symbol",
       "tags": [
@@ -7898,19 +9044,6 @@
       "files": {
         "filled": "icon-assets/filled/symbol/symbol-fire.svg",
         "outline": "icon-assets/outline/symbol/symbol-fire.svg"
-      }
-    },
-    {
-      "id": "symbol-glass-fragile",
-      "category": "symbol",
-      "tags": [
-        "symbol",
-        "glass",
-        "fragile"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/symbol/symbol-glass-fragile.svg",
-        "outline": "icon-assets/outline/symbol/symbol-glass-fragile.svg"
       }
     },
     {
@@ -8587,6 +9720,44 @@
       }
     },
     {
+      "id": "symbol-sheild",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "sheild"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-sheild.svg",
+        "outline": "icon-assets/outline/symbol/symbol-sheild.svg"
+      }
+    },
+    {
+      "id": "symbol-sheild-check",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "sheild",
+        "check"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-sheild-check.svg",
+        "outline": "icon-assets/outline/symbol/symbol-sheild-check.svg"
+      }
+    },
+    {
+      "id": "symbol-sheild-cross",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "sheild",
+        "cross"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-sheild-cross.svg",
+        "outline": "icon-assets/outline/symbol/symbol-sheild-cross.svg"
+      }
+    },
+    {
       "id": "symbol-sheild-info",
       "category": "symbol",
       "tags": [
@@ -8597,6 +9768,32 @@
       "files": {
         "filled": "icon-assets/filled/symbol/symbol-sheild-info.svg",
         "outline": "icon-assets/outline/symbol/symbol-sheild-info.svg"
+      }
+    },
+    {
+      "id": "symbol-sheild-question",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "sheild",
+        "question"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-sheild-question.svg",
+        "outline": "icon-assets/outline/symbol/symbol-sheild-question.svg"
+      }
+    },
+    {
+      "id": "symbol-sheild-warning",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "sheild",
+        "warning"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/symbol-sheild-warning.svg",
+        "outline": "icon-assets/outline/symbol/symbol-sheild-warning.svg"
       }
     },
     {
