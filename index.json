@@ -4622,6 +4622,20 @@
       }
     },
     {
+      "id": "formatting-quotation-quote-alt",
+      "category": "formatting",
+      "tags": [
+        "formatting",
+        "quotation",
+        "quote",
+        "alt"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/formatting/formatting-quotation-quote-alt.svg",
+        "outline": "icon-assets/outline/formatting/formatting-quotation-quote-alt.svg"
+      }
+    },
+    {
       "id": "formatting-swatch",
       "category": "formatting",
       "tags": [
