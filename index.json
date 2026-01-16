@@ -9720,80 +9720,80 @@
       }
     },
     {
-      "id": "symbol-sheild",
+      "id": "symbol-shield",
       "category": "symbol",
       "tags": [
         "symbol",
-        "sheild"
+        "shield"
       ],
       "files": {
-        "filled": "icon-assets/filled/symbol/symbol-sheild.svg",
-        "outline": "icon-assets/outline/symbol/symbol-sheild.svg"
+        "filled": "icon-assets/filled/symbol/symbol-shield.svg",
+        "outline": "icon-assets/outline/symbol/symbol-shield.svg"
       }
     },
     {
-      "id": "symbol-sheild-check",
+      "id": "symbol-shield-check",
       "category": "symbol",
       "tags": [
         "symbol",
-        "sheild",
+        "shield",
         "check"
       ],
       "files": {
-        "filled": "icon-assets/filled/symbol/symbol-sheild-check.svg",
-        "outline": "icon-assets/outline/symbol/symbol-sheild-check.svg"
+        "filled": "icon-assets/filled/symbol/symbol-shield-check.svg",
+        "outline": "icon-assets/outline/symbol/symbol-shield-check.svg"
       }
     },
     {
-      "id": "symbol-sheild-cross",
+      "id": "symbol-shield-cross",
       "category": "symbol",
       "tags": [
         "symbol",
-        "sheild",
+        "shield",
         "cross"
       ],
       "files": {
-        "filled": "icon-assets/filled/symbol/symbol-sheild-cross.svg",
-        "outline": "icon-assets/outline/symbol/symbol-sheild-cross.svg"
+        "filled": "icon-assets/filled/symbol/symbol-shield-cross.svg",
+        "outline": "icon-assets/outline/symbol/symbol-shield-cross.svg"
       }
     },
     {
-      "id": "symbol-sheild-info",
+      "id": "symbol-shield-info",
       "category": "symbol",
       "tags": [
         "symbol",
-        "sheild",
+        "shield",
         "info"
       ],
       "files": {
-        "filled": "icon-assets/filled/symbol/symbol-sheild-info.svg",
-        "outline": "icon-assets/outline/symbol/symbol-sheild-info.svg"
+        "filled": "icon-assets/filled/symbol/symbol-shield-info.svg",
+        "outline": "icon-assets/outline/symbol/symbol-shield-info.svg"
       }
     },
     {
-      "id": "symbol-sheild-question",
+      "id": "symbol-shield-question",
       "category": "symbol",
       "tags": [
         "symbol",
-        "sheild",
+        "shield",
         "question"
       ],
       "files": {
-        "filled": "icon-assets/filled/symbol/symbol-sheild-question.svg",
-        "outline": "icon-assets/outline/symbol/symbol-sheild-question.svg"
+        "filled": "icon-assets/filled/symbol/symbol-shield-question.svg",
+        "outline": "icon-assets/outline/symbol/symbol-shield-question.svg"
       }
     },
     {
-      "id": "symbol-sheild-warning",
+      "id": "symbol-shield-warning",
       "category": "symbol",
       "tags": [
         "symbol",
-        "sheild",
+        "shield",
         "warning"
       ],
       "files": {
-        "filled": "icon-assets/filled/symbol/symbol-sheild-warning.svg",
-        "outline": "icon-assets/outline/symbol/symbol-sheild-warning.svg"
+        "filled": "icon-assets/filled/symbol/symbol-shield-warning.svg",
+        "outline": "icon-assets/outline/symbol/symbol-shield-warning.svg"
       }
     },
     {
