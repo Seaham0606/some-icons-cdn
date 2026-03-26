@@ -6623,6 +6623,31 @@
       }
     },
     {
+      "id": "interface-collapse",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "collapse"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-collapse.svg",
+        "filled": "icon-assets/outline/interface/interface-collapse.svg"
+      }
+    },
+    {
+      "id": "interface-color-wheel",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "color",
+        "wheel"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/interface/interface-color-wheel.svg",
+        "outline": "icon-assets/outline/interface/interface-color-wheel.svg"
+      }
+    },
+    {
       "id": "interface-command",
       "category": "interface",
       "tags": [
@@ -6834,6 +6859,18 @@
       "files": {
         "filled": "icon-assets/filled/interface/interface-exclamation-tripple.svg",
         "outline": "icon-assets/outline/interface/interface-exclamation-tripple.svg"
+      }
+    },
+    {
+      "id": "interface-expand",
+      "category": "interface",
+      "tags": [
+        "interface",
+        "expand"
+      ],
+      "files": {
+        "outline": "icon-assets/outline/interface/interface-expand.svg",
+        "filled": "icon-assets/outline/interface/interface-expand.svg"
       }
     },
     {
@@ -7124,19 +7161,6 @@
       "files": {
         "filled": "icon-assets/filled/interface/interface-lifebuoy.svg",
         "outline": "icon-assets/outline/interface/interface-lifebuoy.svg"
-      }
-    },
-    {
-      "id": "interface-lifebuoy-alt",
-      "category": "interface",
-      "tags": [
-        "interface",
-        "lifebuoy",
-        "alt"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/interface/interface-lifebuoy-alt.svg",
-        "outline": "icon-assets/outline/interface/interface-lifebuoy-alt.svg"
       }
     },
     {
