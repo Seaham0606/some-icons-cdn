@@ -2,8 +2,14 @@
   "name": "some-icons-cdn",
   "private": true,
   "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "generate:index": "node scripts/generate-index.js",
-    "update:readme-progress": "node scripts/update-readme-progress.js"
+    "update:readme-progress": "node scripts/update-readme-progress.js",
+    "generate:react": "node scripts/generate-react-icons.mjs && node scripts/generate-react-exports.mjs",
+    "build:react": "npm run build -w @someicons/icons-react",
+    "build:react:all": "npm run generate:react && npm run build:react"
   }
 }

@@ -1,0 +1,52 @@
+{
+  "name": "@someicons/icons-react",
+  "version": "0.1.0",
+  "description": "React components for Some Icons (generated from SVG sources).",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seaham0606/some-icons-cdn.git",
+    "directory": "packages/icons-react"
+  },
+  "homepage": "https://github.com/Seaham0606/some-icons-cdn/tree/main/packages/icons-react",
+  "keywords": [
+    "icons",
+    "react",
+    "svg",
+    "someicons"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./icons/*": {
+      "types": "./dist/icons/*.d.ts",
+      "import": "./dist/icons/*.js",
+      "default": "./dist/icons/*.js"
+    }
+  },
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "react": "^18.3.0",
+    "tsup": "^8.4.0",
+    "typescript": "^5.7.0"
+  }
+}
