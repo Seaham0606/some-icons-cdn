@@ -1,6 +1,6 @@
 # Some Icons
 
-A clean, lightweight icon set designed for modern interfaces, with a Figma plugin for fast insertion and consistent sizing.
+A clean, lightweight icon set designed for modern interfaces, with a Figma plugin for fast insertion and consistent sizing. The same SVGs publish as **[`@someicons/icons-react`](https://www.npmjs.com/package/@someicons/icons-react)** for React apps.
 
 This project is focused on clarity, consistency, and scalability, making it suitable for product design, UI systems, and early engineering handoff.
 
@@ -10,6 +10,7 @@ This project is focused on clarity, consistency, and scalability, making it suit
 - **Default size** — 16 × 16 pixels
 - **Semantic naming** — Simple, predictable names (e.g., `weather-cloud`, `weather-cloud-alt`)
 - **Figma plugin** — Insert icons directly into your canvas
+- **React components** — Tree-shakeable package `@someicons/icons-react` generated from this repo
 - **Editable vectors** — Icons remain fully editable after insertion
 - **Free and open** — Open source and free to use
 
@@ -48,6 +49,8 @@ Icons are designed to scale cleanly via code. Pixel-perfect size variants may be
 ## Repository Structure
 
 ```
+packages/
+  icons-react/          # @someicons/icons-react (see packages/icons-react/README.md)
 icon-assets/
   filled/
     arrow/
@@ -90,34 +93,46 @@ Icons are organized into the following categories:
 
 ## Using the Icons Programmatically
 
-Icons are served directly from GitHub and can be consumed by tools or plugins.
+### React (npm)
 
-### Example Base URL
+Install and import generated components (React 17+):
 
-```
-https://raw.githubusercontent.com/<owner>/<repo>/<branch>/icon-assets/
-```
-
-### Example Icon Paths
-
-```
-https://raw.githubusercontent.com/<owner>/<repo>/<branch>/icon-assets/outline/weather/weather-cloud.svg
-https://raw.githubusercontent.com/<owner>/<repo>/<branch>/icon-assets/filled/weather/weather-cloud.svg
+```bash
+npm install @someicons/icons-react
 ```
 
-For tagged releases, use the tag name instead of branch:
+```tsx
+import { WeatherCloud } from "@someicons/icons-react";
+
+<WeatherCloud size={20} aria-hidden />
+```
+
+Build scripts and full API (props, subpath imports, regenerating from SVGs) live in [`packages/icons-react/README.md`](packages/icons-react/README.md). From the repo root you can run `npm run build:react:all` to regenerate icons and build the package.
+
+### Raw SVGs (GitHub)
+
+Icons are also served as static files from GitHub for tools, plugins, or non-React stacks.
+
+**Base URL (replace `main` with a tag for pinned versions):**
 
 ```
-https://raw.githubusercontent.com/<owner>/<repo>/<tag>/icon-assets/outline/weather/weather-cloud.svg
+https://raw.githubusercontent.com/Seaham0606/some-icons-cdn/main/icon-assets/
 ```
 
-Icons are fetched on demand, keeping integrations fast and lightweight.
+**Examples:**
+
+```
+https://raw.githubusercontent.com/Seaham0606/some-icons-cdn/main/icon-assets/outline/weather/weather-cloud.svg
+https://raw.githubusercontent.com/Seaham0606/some-icons-cdn/main/icon-assets/filled/weather/weather-cloud.svg
+```
+
+For a release, swap `main` for the tag name in the path. Icons can be fetched on demand, which keeps integrations lightweight.
 
 ## Roadmap
 
 - More icon categories
 - Size-specific tuning for small icons
-- Component export (React / Vue)
+- Component exports for other frameworks (e.g. Vue)
 - Improved plugin browsing and grouping
 
 ## License
@@ -132,4 +147,4 @@ Designed and maintained by Sihan.
 
 Current progress:
 
-1601/2000 icons
+1603/2000 icons
