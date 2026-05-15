@@ -7023,8 +7023,8 @@
         "glass"
       ],
       "files": {
-        "filled": "icon-assets/filled/interface/interface-glass.svg",
-        "outline": "icon-assets/outline/interface/interface-glass.svg"
+        "outline": "icon-assets/outline/interface/interface-glass.svg",
+        "filled": "icon-assets/outline/interface/interface-glass.svg"
       }
     },
     {
@@ -7036,8 +7036,8 @@
         "alt"
       ],
       "files": {
-        "filled": "icon-assets/filled/interface/interface-glass-alt.svg",
-        "outline": "icon-assets/outline/interface/interface-glass-alt.svg"
+        "outline": "icon-assets/outline/interface/interface-glass-alt.svg",
+        "filled": "icon-assets/outline/interface/interface-glass-alt.svg"
       }
     },
     {
