@@ -6725,15 +6725,16 @@
       }
     },
     {
-      "id": "compass",
+      "id": "compass-tool",
       "category": "interface",
       "tags": [
         "interface",
-        "compass"
+        "compass",
+        "tool"
       ],
       "files": {
-        "filled": "icon-assets/filled/interface/compass.svg",
-        "outline": "icon-assets/outline/interface/compass.svg"
+        "filled": "icon-assets/filled/interface/compass-tool.svg",
+        "outline": "icon-assets/outline/interface/compass-tool.svg"
       }
     },
     {
@@ -9847,18 +9848,6 @@
       }
     },
     {
-      "id": "stop",
-      "category": "symbol",
-      "tags": [
-        "symbol",
-        "stop"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/symbol/stop.svg",
-        "outline": "icon-assets/outline/symbol/stop.svg"
-      }
-    },
-    {
       "id": "stop-diagonal",
       "category": "symbol",
       "tags": [
@@ -9869,6 +9858,18 @@
       "files": {
         "filled": "icon-assets/filled/symbol/stop-diagonal.svg",
         "outline": "icon-assets/outline/symbol/stop-diagonal.svg"
+      }
+    },
+    {
+      "id": "stop-symbol",
+      "category": "symbol",
+      "tags": [
+        "symbol",
+        "stop"
+      ],
+      "files": {
+        "filled": "icon-assets/filled/symbol/stop-symbol.svg",
+        "outline": "icon-assets/outline/symbol/stop-symbol.svg"
       }
     },
     {
