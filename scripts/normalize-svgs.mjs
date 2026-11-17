@@ -8,8 +8,12 @@ function walk(dirAbs) {
   const out = [];
   for (const entry of fs.readdirSync(dirAbs, { withFileTypes: true })) {
     const p = path.join(dirAbs, entry.name);
-    if (entry.isDirectory()) out.push(...walk(p));
-    else out.push(p);
+    if (entry.isDirectory()) {
+      if (entry.name === "color") continue;
+      out.push(...walk(p));
+    } else {
+      out.push(p);
+    }
   }
   return out;
 }
