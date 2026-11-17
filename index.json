@@ -10600,7 +10600,7 @@
       "files": {
         "color": "icon-assets/color/weather/cloud-haze.svg",
         "filled": "icon-assets/filled/weather/cloud-haze.svg",
-        "outline": "icon-assets/outline/weather/cloud-haze.svg"
+        "outline": "icon-assets/filled/weather/cloud-haze.svg"
       }
     },
     {
@@ -10615,7 +10615,7 @@
       "files": {
         "color": "icon-assets/color/weather/cloud-haze-day.svg",
         "filled": "icon-assets/filled/weather/cloud-haze-day.svg",
-        "outline": "icon-assets/outline/weather/cloud-haze-day.svg"
+        "outline": "icon-assets/filled/weather/cloud-haze-day.svg"
       }
     },
     {
@@ -10630,7 +10630,7 @@
       "files": {
         "color": "icon-assets/color/weather/cloud-haze-night.svg",
         "filled": "icon-assets/filled/weather/cloud-haze-night.svg",
-        "outline": "icon-assets/outline/weather/cloud-haze-night.svg"
+        "outline": "icon-assets/filled/weather/cloud-haze-night.svg"
       }
     },
     {
@@ -10797,7 +10797,7 @@
       "files": {
         "color": "icon-assets/color/weather/cloud-rain-sleet.svg",
         "filled": "icon-assets/filled/weather/cloud-rain-sleet.svg",
-        "outline": "icon-assets/outline/weather/cloud-rain-sleet.svg"
+        "outline": "icon-assets/filled/weather/cloud-rain-sleet.svg"
       }
     },
     {
@@ -10813,7 +10813,7 @@
       "files": {
         "color": "icon-assets/color/weather/cloud-rain-sleet-day.svg",
         "filled": "icon-assets/filled/weather/cloud-rain-sleet-day.svg",
-        "outline": "icon-assets/outline/weather/cloud-rain-sleet-day.svg"
+        "outline": "icon-assets/filled/weather/cloud-rain-sleet-day.svg"
       }
     },
     {
@@ -10829,7 +10829,7 @@
       "files": {
         "color": "icon-assets/color/weather/cloud-rain-sleet-night.svg",
         "filled": "icon-assets/filled/weather/cloud-rain-sleet-night.svg",
-        "outline": "icon-assets/outline/weather/cloud-rain-sleet-night.svg"
+        "outline": "icon-assets/filled/weather/cloud-rain-sleet-night.svg"
       }
     },
     {
