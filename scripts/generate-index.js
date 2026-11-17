@@ -6,7 +6,9 @@ const ICON_ROOT = "icon-assets";
 const OUTPUT = "index.json";
 
 // Define which styles your plugin supports
-const KNOWN_STYLES = ["filled", "outline"];
+const KNOWN_STYLES = ["filled", "outline", "color"];
+// Only cross-duplicate between mono styles — never auto-fill color paths
+const MONO_STYLES = ["filled", "outline"];
 
 function walk(dirAbs) {
   const out = [];
@@ -72,17 +74,17 @@ for (const abs of svgFilesAbs) {
   icon.files[style] = rel;
 }
 
-// Post-pass: if an icon only exists once, duplicate that path across missing styles
+// Post-pass: if an icon only has one mono style, mirror it to the other mono style.
+// Color paths are never auto-filled.
 let duplicatedCount = 0;
 
 for (const icon of iconsMap.values()) {
-  const presentStyles = Object.keys(icon.files);
+  const presentMono = MONO_STYLES.filter((s) => icon.files[s]);
 
-  if (presentStyles.length === 1) {
-    const existingStyle = presentStyles[0];
-    const existingPath = icon.files[existingStyle];
+  if (presentMono.length === 1) {
+    const existingPath = icon.files[presentMono[0]];
 
-    for (const s of KNOWN_STYLES) {
+    for (const s of MONO_STYLES) {
       if (!icon.files[s]) icon.files[s] = existingPath;
     }
 

@@ -3,7 +3,8 @@
   "defaultSize": 16,
   "styles": [
     "filled",
-    "outline"
+    "outline",
+    "color"
   ],
   "icons": [
     {
@@ -10467,6 +10468,7 @@
         "cloud"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud.svg",
         "filled": "icon-assets/filled/weather/cloud.svg",
         "outline": "icon-assets/outline/weather/cloud.svg"
       }
@@ -10480,6 +10482,7 @@
         "alt"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-alt.svg",
         "filled": "icon-assets/filled/weather/cloud-alt.svg",
         "outline": "icon-assets/outline/weather/cloud-alt.svg"
       }
@@ -10493,6 +10496,7 @@
         "day"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-day.svg",
         "filled": "icon-assets/filled/weather/cloud-day.svg",
         "outline": "icon-assets/outline/weather/cloud-day.svg"
       }
@@ -10506,6 +10510,7 @@
         "fog"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-fog.svg",
         "filled": "icon-assets/filled/weather/cloud-fog.svg",
         "outline": "icon-assets/outline/weather/cloud-fog.svg"
       }
@@ -10520,6 +10525,7 @@
         "day"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-fog-day.svg",
         "filled": "icon-assets/filled/weather/cloud-fog-day.svg",
         "outline": "icon-assets/outline/weather/cloud-fog-day.svg"
       }
@@ -10534,6 +10540,7 @@
         "night"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-fog-night.svg",
         "filled": "icon-assets/filled/weather/cloud-fog-night.svg",
         "outline": "icon-assets/outline/weather/cloud-fog-night.svg"
       }
@@ -10547,6 +10554,7 @@
         "hail"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-hail.svg",
         "filled": "icon-assets/filled/weather/cloud-hail.svg",
         "outline": "icon-assets/outline/weather/cloud-hail.svg"
       }
@@ -10561,6 +10569,7 @@
         "day"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-hail-day.svg",
         "filled": "icon-assets/filled/weather/cloud-hail-day.svg",
         "outline": "icon-assets/outline/weather/cloud-hail-day.svg"
       }
@@ -10575,8 +10584,53 @@
         "night"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-hail-night.svg",
         "filled": "icon-assets/filled/weather/cloud-hail-night.svg",
         "outline": "icon-assets/outline/weather/cloud-hail-night.svg"
+      }
+    },
+    {
+      "id": "cloud-haze",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cloud",
+        "haze"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/cloud-haze.svg",
+        "filled": "icon-assets/filled/weather/cloud-haze.svg",
+        "outline": "icon-assets/outline/weather/cloud-haze.svg"
+      }
+    },
+    {
+      "id": "cloud-haze-day",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cloud",
+        "haze",
+        "day"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/cloud-haze-day.svg",
+        "filled": "icon-assets/filled/weather/cloud-haze-day.svg",
+        "outline": "icon-assets/outline/weather/cloud-haze-day.svg"
+      }
+    },
+    {
+      "id": "cloud-haze-night",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cloud",
+        "haze",
+        "night"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/cloud-haze-night.svg",
+        "filled": "icon-assets/filled/weather/cloud-haze-night.svg",
+        "outline": "icon-assets/outline/weather/cloud-haze-night.svg"
       }
     },
     {
@@ -10588,6 +10642,7 @@
         "night"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-night.svg",
         "filled": "icon-assets/filled/weather/cloud-night.svg",
         "outline": "icon-assets/outline/weather/cloud-night.svg"
       }
@@ -10601,6 +10656,7 @@
         "rain"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-rain.svg",
         "filled": "icon-assets/filled/weather/cloud-rain.svg",
         "outline": "icon-assets/outline/weather/cloud-rain.svg"
       }
@@ -10615,53 +10671,9 @@
         "day"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-rain-day.svg",
         "filled": "icon-assets/filled/weather/cloud-rain-day.svg",
         "outline": "icon-assets/outline/weather/cloud-rain-day.svg"
-      }
-    },
-    {
-      "id": "cloud-rain-day-heavy",
-      "category": "weather",
-      "tags": [
-        "weather",
-        "cloud",
-        "rain",
-        "day",
-        "heavy"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/weather/cloud-rain-day-heavy.svg",
-        "outline": "icon-assets/outline/weather/cloud-rain-day-heavy.svg"
-      }
-    },
-    {
-      "id": "cloud-rain-day-medium",
-      "category": "weather",
-      "tags": [
-        "weather",
-        "cloud",
-        "rain",
-        "day",
-        "medium"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/weather/cloud-rain-day-medium.svg",
-        "outline": "icon-assets/outline/weather/cloud-rain-day-medium.svg"
-      }
-    },
-    {
-      "id": "cloud-rain-day-thunder",
-      "category": "weather",
-      "tags": [
-        "weather",
-        "cloud",
-        "rain",
-        "day",
-        "thunder"
-      ],
-      "files": {
-        "filled": "icon-assets/filled/weather/cloud-rain-day-thunder.svg",
-        "outline": "icon-assets/outline/weather/cloud-rain-day-thunder.svg"
       }
     },
     {
@@ -10674,8 +10686,41 @@
         "heavy"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-rain-heavy.svg",
         "filled": "icon-assets/filled/weather/cloud-rain-heavy.svg",
         "outline": "icon-assets/outline/weather/cloud-rain-heavy.svg"
+      }
+    },
+    {
+      "id": "cloud-rain-heavy-day",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cloud",
+        "rain",
+        "heavy",
+        "day"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/cloud-rain-heavy-day.svg",
+        "filled": "icon-assets/filled/weather/cloud-rain-heavy-day.svg",
+        "outline": "icon-assets/outline/weather/cloud-rain-heavy-day.svg"
+      }
+    },
+    {
+      "id": "cloud-rain-heavy-night",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cloud",
+        "rain",
+        "heavy",
+        "night"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/cloud-rain-heavy-night.svg",
+        "filled": "icon-assets/filled/weather/cloud-rain-heavy-night.svg",
+        "outline": "icon-assets/outline/weather/cloud-rain-heavy-night.svg"
       }
     },
     {
@@ -10688,8 +10733,41 @@
         "medium"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-rain-medium.svg",
         "filled": "icon-assets/filled/weather/cloud-rain-medium.svg",
         "outline": "icon-assets/outline/weather/cloud-rain-medium.svg"
+      }
+    },
+    {
+      "id": "cloud-rain-medium-day",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cloud",
+        "rain",
+        "medium",
+        "day"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/cloud-rain-medium-day.svg",
+        "filled": "icon-assets/filled/weather/cloud-rain-medium-day.svg",
+        "outline": "icon-assets/outline/weather/cloud-rain-medium-day.svg"
+      }
+    },
+    {
+      "id": "cloud-rain-medium-night",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cloud",
+        "rain",
+        "medium",
+        "night"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/cloud-rain-medium-night.svg",
+        "filled": "icon-assets/filled/weather/cloud-rain-medium-night.svg",
+        "outline": "icon-assets/outline/weather/cloud-rain-medium-night.svg"
       }
     },
     {
@@ -10702,53 +10780,56 @@
         "night"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-rain-night.svg",
         "filled": "icon-assets/filled/weather/cloud-rain-night.svg",
         "outline": "icon-assets/outline/weather/cloud-rain-night.svg"
       }
     },
     {
-      "id": "cloud-rain-night-heavy",
+      "id": "cloud-rain-sleet",
       "category": "weather",
       "tags": [
         "weather",
         "cloud",
         "rain",
-        "night",
-        "heavy"
+        "sleet"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/cloud-rain-night-heavy.svg",
-        "outline": "icon-assets/outline/weather/cloud-rain-night-heavy.svg"
+        "color": "icon-assets/color/weather/cloud-rain-sleet.svg",
+        "filled": "icon-assets/filled/weather/cloud-rain-sleet.svg",
+        "outline": "icon-assets/outline/weather/cloud-rain-sleet.svg"
       }
     },
     {
-      "id": "cloud-rain-night-medium",
+      "id": "cloud-rain-sleet-day",
       "category": "weather",
       "tags": [
         "weather",
         "cloud",
         "rain",
-        "night",
-        "medium"
+        "sleet",
+        "day"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/cloud-rain-night-medium.svg",
-        "outline": "icon-assets/outline/weather/cloud-rain-night-medium.svg"
+        "color": "icon-assets/color/weather/cloud-rain-sleet-day.svg",
+        "filled": "icon-assets/filled/weather/cloud-rain-sleet-day.svg",
+        "outline": "icon-assets/outline/weather/cloud-rain-sleet-day.svg"
       }
     },
     {
-      "id": "cloud-rain-night-thunder",
+      "id": "cloud-rain-sleet-night",
       "category": "weather",
       "tags": [
         "weather",
         "cloud",
         "rain",
-        "night",
-        "thunder"
+        "sleet",
+        "night"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/cloud-rain-night-thunder.svg",
-        "outline": "icon-assets/outline/weather/cloud-rain-night-thunder.svg"
+        "color": "icon-assets/color/weather/cloud-rain-sleet-night.svg",
+        "filled": "icon-assets/filled/weather/cloud-rain-sleet-night.svg",
+        "outline": "icon-assets/outline/weather/cloud-rain-sleet-night.svg"
       }
     },
     {
@@ -10761,8 +10842,41 @@
         "thunder"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-rain-thunder.svg",
         "filled": "icon-assets/filled/weather/cloud-rain-thunder.svg",
         "outline": "icon-assets/outline/weather/cloud-rain-thunder.svg"
+      }
+    },
+    {
+      "id": "cloud-rain-thunder-day",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cloud",
+        "rain",
+        "thunder",
+        "day"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/cloud-rain-thunder-day.svg",
+        "filled": "icon-assets/filled/weather/cloud-rain-thunder-day.svg",
+        "outline": "icon-assets/outline/weather/cloud-rain-thunder-day.svg"
+      }
+    },
+    {
+      "id": "cloud-rain-thunder-night",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cloud",
+        "rain",
+        "thunder",
+        "night"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/cloud-rain-thunder-night.svg",
+        "filled": "icon-assets/filled/weather/cloud-rain-thunder-night.svg",
+        "outline": "icon-assets/outline/weather/cloud-rain-thunder-night.svg"
       }
     },
     {
@@ -10774,6 +10888,7 @@
         "snow"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-snow.svg",
         "filled": "icon-assets/filled/weather/cloud-snow.svg",
         "outline": "icon-assets/outline/weather/cloud-snow.svg"
       }
@@ -10788,6 +10903,7 @@
         "day"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-snow-day.svg",
         "filled": "icon-assets/filled/weather/cloud-snow-day.svg",
         "outline": "icon-assets/outline/weather/cloud-snow-day.svg"
       }
@@ -10802,6 +10918,7 @@
         "night"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-snow-night.svg",
         "filled": "icon-assets/filled/weather/cloud-snow-night.svg",
         "outline": "icon-assets/outline/weather/cloud-snow-night.svg"
       }
@@ -10815,6 +10932,7 @@
         "thunder"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-thunder.svg",
         "filled": "icon-assets/filled/weather/cloud-thunder.svg",
         "outline": "icon-assets/outline/weather/cloud-thunder.svg"
       }
@@ -10829,6 +10947,7 @@
         "day"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-thunder-day.svg",
         "filled": "icon-assets/filled/weather/cloud-thunder-day.svg",
         "outline": "icon-assets/outline/weather/cloud-thunder-day.svg"
       }
@@ -10843,6 +10962,7 @@
         "night"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-thunder-night.svg",
         "filled": "icon-assets/filled/weather/cloud-thunder-night.svg",
         "outline": "icon-assets/outline/weather/cloud-thunder-night.svg"
       }
@@ -10856,6 +10976,7 @@
         "wind"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-wind.svg",
         "filled": "icon-assets/filled/weather/cloud-wind.svg",
         "outline": "icon-assets/outline/weather/cloud-wind.svg"
       }
@@ -10870,6 +10991,7 @@
         "day"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-wind-day.svg",
         "filled": "icon-assets/filled/weather/cloud-wind-day.svg",
         "outline": "icon-assets/outline/weather/cloud-wind-day.svg"
       }
@@ -10884,6 +11006,7 @@
         "night"
       ],
       "files": {
+        "color": "icon-assets/color/weather/cloud-wind-night.svg",
         "filled": "icon-assets/filled/weather/cloud-wind-night.svg",
         "outline": "icon-assets/outline/weather/cloud-wind-night.svg"
       }
@@ -10897,6 +11020,7 @@
         "night"
       ],
       "files": {
+        "color": "icon-assets/color/weather/day-night.svg",
         "filled": "icon-assets/filled/weather/day-night.svg",
         "outline": "icon-assets/outline/weather/day-night.svg"
       }
@@ -10911,6 +11035,7 @@
         "alt"
       ],
       "files": {
+        "color": "icon-assets/color/weather/day-night-alt.svg",
         "filled": "icon-assets/filled/weather/day-night-alt.svg",
         "outline": "icon-assets/outline/weather/day-night-alt.svg"
       }
@@ -10923,6 +11048,7 @@
         "flood"
       ],
       "files": {
+        "color": "icon-assets/color/weather/flood.svg",
         "filled": "icon-assets/filled/weather/flood.svg",
         "outline": "icon-assets/outline/weather/flood.svg"
       }
@@ -10935,6 +11061,7 @@
         "half"
       ],
       "files": {
+        "color": "icon-assets/color/weather/half.svg",
         "filled": "icon-assets/filled/weather/half.svg",
         "outline": "icon-assets/outline/weather/half.svg"
       }
@@ -10947,6 +11074,7 @@
         "lightning"
       ],
       "files": {
+        "color": "icon-assets/color/weather/lightning.svg",
         "filled": "icon-assets/filled/weather/lightning.svg",
         "outline": "icon-assets/outline/weather/lightning.svg"
       }
@@ -10960,6 +11088,7 @@
         "alt"
       ],
       "files": {
+        "color": "icon-assets/color/weather/lightning-alt.svg",
         "filled": "icon-assets/filled/weather/lightning-alt.svg",
         "outline": "icon-assets/outline/weather/lightning-alt.svg"
       }
@@ -10972,8 +11101,23 @@
         "moon"
       ],
       "files": {
+        "color": "icon-assets/color/weather/moon.svg",
         "filled": "icon-assets/filled/weather/moon.svg",
         "outline": "icon-assets/outline/weather/moon.svg"
+      }
+    },
+    {
+      "id": "moon-rise",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "moon",
+        "rise"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/moon-rise.svg",
+        "filled": "icon-assets/filled/weather/moon-rise.svg",
+        "outline": "icon-assets/outline/weather/moon-rise.svg"
       }
     },
     {
@@ -10985,8 +11129,23 @@
         "sea"
       ],
       "files": {
+        "color": "icon-assets/color/weather/moon-sea.svg",
         "filled": "icon-assets/filled/weather/moon-sea.svg",
         "outline": "icon-assets/outline/weather/moon-sea.svg"
+      }
+    },
+    {
+      "id": "moon-set",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "moon",
+        "set"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/moon-set.svg",
+        "filled": "icon-assets/filled/weather/moon-set.svg",
+        "outline": "icon-assets/outline/weather/moon-set.svg"
       }
     },
     {
@@ -10998,20 +11157,37 @@
         "star"
       ],
       "files": {
+        "color": "icon-assets/color/weather/moon-star.svg",
         "filled": "icon-assets/filled/weather/moon-star.svg",
         "outline": "icon-assets/outline/weather/moon-star.svg"
       }
     },
     {
-      "id": "rain",
+      "id": "rain-drop",
       "category": "weather",
       "tags": [
         "weather",
-        "rain"
+        "rain",
+        "drop"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/rain.svg",
-        "outline": "icon-assets/outline/weather/rain.svg"
+        "color": "icon-assets/color/weather/rain-drop.svg",
+        "filled": "icon-assets/filled/weather/rain-drop.svg",
+        "outline": "icon-assets/outline/weather/rain-drop.svg"
+      }
+    },
+    {
+      "id": "rain-ruler",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "rain",
+        "ruler"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/rain-ruler.svg",
+        "filled": "icon-assets/filled/weather/rain-ruler.svg",
+        "outline": "icon-assets/outline/weather/rain-ruler.svg"
       }
     },
     {
@@ -11022,6 +11198,7 @@
         "rainbow"
       ],
       "files": {
+        "color": "icon-assets/color/weather/rainbow.svg",
         "filled": "icon-assets/filled/weather/rainbow.svg",
         "outline": "icon-assets/outline/weather/rainbow.svg"
       }
@@ -11034,6 +11211,7 @@
         "snow"
       ],
       "files": {
+        "color": "icon-assets/color/weather/snow.svg",
         "outline": "icon-assets/outline/weather/snow.svg",
         "filled": "icon-assets/outline/weather/snow.svg"
       }
@@ -11047,6 +11225,7 @@
         "alt"
       ],
       "files": {
+        "color": "icon-assets/color/weather/snow-alt.svg",
         "filled": "icon-assets/filled/weather/snow-alt.svg",
         "outline": "icon-assets/outline/weather/snow-alt.svg"
       }
@@ -11061,6 +11240,7 @@
         "2"
       ],
       "files": {
+        "color": "icon-assets/color/weather/snow-alt-2.svg",
         "filled": "icon-assets/filled/weather/snow-alt-2.svg",
         "outline": "icon-assets/outline/weather/snow-alt-2.svg"
       }
@@ -11075,8 +11255,23 @@
         "3"
       ],
       "files": {
+        "color": "icon-assets/color/weather/snow-alt-3.svg",
         "outline": "icon-assets/outline/weather/snow-alt-3.svg",
         "filled": "icon-assets/outline/weather/snow-alt-3.svg"
+      }
+    },
+    {
+      "id": "snow-ruler",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "snow",
+        "ruler"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/snow-ruler.svg",
+        "filled": "icon-assets/filled/weather/snow-ruler.svg",
+        "outline": "icon-assets/outline/weather/snow-ruler.svg"
       }
     },
     {
@@ -11087,6 +11282,7 @@
         "sun"
       ],
       "files": {
+        "color": "icon-assets/color/weather/sun.svg",
         "filled": "icon-assets/filled/weather/sun.svg",
         "outline": "icon-assets/outline/weather/sun.svg"
       }
@@ -11100,8 +11296,24 @@
         "sea"
       ],
       "files": {
+        "color": "icon-assets/color/weather/sun-sea.svg",
         "filled": "icon-assets/filled/weather/sun-sea.svg",
         "outline": "icon-assets/outline/weather/sun-sea.svg"
+      }
+    },
+    {
+      "id": "sun-uv-ruler",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "sun",
+        "uv",
+        "ruler"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/sun-uv-ruler.svg",
+        "filled": "icon-assets/filled/weather/sun-uv-ruler.svg",
+        "outline": "icon-assets/outline/weather/sun-uv-ruler.svg"
       }
     },
     {
@@ -11112,6 +11324,7 @@
         "sunrise"
       ],
       "files": {
+        "color": "icon-assets/color/weather/sunrise.svg",
         "filled": "icon-assets/filled/weather/sunrise.svg",
         "outline": "icon-assets/outline/weather/sunrise.svg"
       }
@@ -11124,21 +11337,36 @@
         "sunset"
       ],
       "files": {
+        "color": "icon-assets/color/weather/sunset.svg",
         "filled": "icon-assets/filled/weather/sunset.svg",
         "outline": "icon-assets/outline/weather/sunset.svg"
       }
     },
     {
-      "id": "temperature-celcius",
+      "id": "temperature",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "temperature"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/temperature.svg",
+        "filled": "icon-assets/filled/weather/temperature.svg",
+        "outline": "icon-assets/outline/weather/temperature.svg"
+      }
+    },
+    {
+      "id": "temperature-celsius",
       "category": "weather",
       "tags": [
         "weather",
         "temperature",
-        "celcius"
+        "celsius"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/temperature-celcius.svg",
-        "outline": "icon-assets/outline/weather/temperature-celcius.svg"
+        "color": "icon-assets/color/weather/temperature-celsius.svg",
+        "filled": "icon-assets/filled/weather/temperature-celsius.svg",
+        "outline": "icon-assets/outline/weather/temperature-celsius.svg"
       }
     },
     {
@@ -11150,6 +11378,7 @@
         "decrease"
       ],
       "files": {
+        "color": "icon-assets/color/weather/temperature-decrease.svg",
         "filled": "icon-assets/filled/weather/temperature-decrease.svg",
         "outline": "icon-assets/outline/weather/temperature-decrease.svg"
       }
@@ -11163,6 +11392,7 @@
         "fahrenheit"
       ],
       "files": {
+        "color": "icon-assets/color/weather/temperature-fahrenheit.svg",
         "filled": "icon-assets/filled/weather/temperature-fahrenheit.svg",
         "outline": "icon-assets/outline/weather/temperature-fahrenheit.svg"
       }
@@ -11176,8 +11406,24 @@
         "high"
       ],
       "files": {
+        "color": "icon-assets/color/weather/temperature-high.svg",
         "filled": "icon-assets/filled/weather/temperature-high.svg",
         "outline": "icon-assets/outline/weather/temperature-high.svg"
+      }
+    },
+    {
+      "id": "temperature-high-warning",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "temperature",
+        "high",
+        "warning"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/temperature-high-warning.svg",
+        "filled": "icon-assets/filled/weather/temperature-high-warning.svg",
+        "outline": "icon-assets/outline/weather/temperature-high-warning.svg"
       }
     },
     {
@@ -11189,21 +11435,23 @@
         "increase"
       ],
       "files": {
+        "color": "icon-assets/color/weather/temperature-increase.svg",
         "filled": "icon-assets/filled/weather/temperature-increase.svg",
         "outline": "icon-assets/outline/weather/temperature-increase.svg"
       }
     },
     {
-      "id": "temperature-medium",
+      "id": "temperature-ruler",
       "category": "weather",
       "tags": [
         "weather",
         "temperature",
-        "medium"
+        "ruler"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/temperature-medium.svg",
-        "outline": "icon-assets/outline/weather/temperature-medium.svg"
+        "color": "icon-assets/color/weather/temperature-ruler.svg",
+        "filled": "icon-assets/filled/weather/temperature-ruler.svg",
+        "outline": "icon-assets/outline/weather/temperature-ruler.svg"
       }
     },
     {
@@ -11214,6 +11462,7 @@
         "tornado"
       ],
       "files": {
+        "color": "icon-assets/color/weather/tornado.svg",
         "outline": "icon-assets/outline/weather/tornado.svg",
         "filled": "icon-assets/outline/weather/tornado.svg"
       }
@@ -11226,6 +11475,7 @@
         "typhoon"
       ],
       "files": {
+        "color": "icon-assets/color/weather/typhoon.svg",
         "outline": "icon-assets/outline/weather/typhoon.svg",
         "filled": "icon-assets/outline/weather/typhoon.svg"
       }
@@ -11239,6 +11489,7 @@
         "alt"
       ],
       "files": {
+        "color": "icon-assets/color/weather/typhoon-alt.svg",
         "filled": "icon-assets/filled/weather/typhoon-alt.svg",
         "outline": "icon-assets/outline/weather/typhoon-alt.svg"
       }
@@ -11251,6 +11502,7 @@
         "umbrella"
       ],
       "files": {
+        "color": "icon-assets/color/weather/umbrella.svg",
         "filled": "icon-assets/filled/weather/umbrella.svg",
         "outline": "icon-assets/outline/weather/umbrella.svg"
       }
@@ -11264,8 +11516,39 @@
         "low"
       ],
       "files": {
-        "filled": "icon-assets/filled/weather/weather-temperature_low.svg",
-        "outline": "icon-assets/outline/weather/weather-temperature_low.svg"
+        "color": "icon-assets/color/weather/weather-temperature-low.svg",
+        "filled": "icon-assets/filled/weather/weather-temperature-low.svg",
+        "outline": "icon-assets/outline/weather/weather-temperature-low.svg"
+      }
+    },
+    {
+      "id": "weather-temperature-low-snow",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "temperature",
+        "low",
+        "snow"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/weather-temperature-low-snow.svg",
+        "filled": "icon-assets/filled/weather/weather-temperature-low-snow.svg",
+        "outline": "icon-assets/outline/weather/weather-temperature-low-snow.svg"
+      }
+    },
+    {
+      "id": "weather-temperature-low-warning",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "temperature",
+        "low",
+        "warning"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/weather-temperature-low-warning.svg",
+        "filled": "icon-assets/filled/weather/weather-temperature-low-warning.svg",
+        "outline": "icon-assets/outline/weather/weather-temperature-low-warning.svg"
       }
     },
     {
@@ -11276,8 +11559,38 @@
         "wind"
       ],
       "files": {
+        "color": "icon-assets/color/weather/wind.svg",
         "outline": "icon-assets/outline/weather/wind.svg",
         "filled": "icon-assets/outline/weather/wind.svg"
+      }
+    },
+    {
+      "id": "wind-sand-sandstorm",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "wind",
+        "sand",
+        "sandstorm"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/wind-sand-sandstorm.svg",
+        "outline": "icon-assets/outline/weather/wind-sand-sandstorm.svg",
+        "filled": "icon-assets/outline/weather/wind-sand-sandstorm.svg"
+      }
+    },
+    {
+      "id": "wind-strong",
+      "category": "weather",
+      "tags": [
+        "weather",
+        "wind",
+        "strong"
+      ],
+      "files": {
+        "color": "icon-assets/color/weather/wind-strong.svg",
+        "outline": "icon-assets/outline/weather/wind-strong.svg",
+        "filled": "icon-assets/outline/weather/wind-strong.svg"
       }
     },
     {
@@ -11289,6 +11602,7 @@
         "vane"
       ],
       "files": {
+        "color": "icon-assets/color/weather/wind-vane.svg",
         "filled": "icon-assets/filled/weather/wind-vane.svg",
         "outline": "icon-assets/outline/weather/wind-vane.svg"
       }
